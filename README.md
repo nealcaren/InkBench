@@ -13,6 +13,7 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 | openai-gpt-5                   | 0.84    | 0.82      | 0.88        | 0.80  | 0.85                | $1.88       |
 | google-gemini-2.5-flash-lite        | 0.83    | 0.82      | 0.83        | 0.82  | 0.85                | $0.30       |
 | qwen-qwen2.5-vl-72b-instruct        | 0.82    | 0.89      | 0.76        | 0.83  | 0.71                | $4.47       |
+| anthropic-claude-sonnet-4        | 0.82    | 0.85      | 0.77        | 0.79  | 0.86                | $37.90       |
 | mistralai-mistral-medium-3.1        | 0.80    | 0.82      | 0.81        | 0.75  | 0.84                | $4.21       |
 | openai-gpt-4o-mini                  | 0.78    | 0.80      | 0.80        | 0.67  | 0.98                | $0.59       |
 | anthropic-claude-3.5-haiku          | 0.77    | 0.80      | 0.75        | 0.71  | 0.80                | $6.12       |
