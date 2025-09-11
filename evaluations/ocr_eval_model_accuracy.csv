@@ -1,0 +1,22 @@
+model,Overall,Book Page,Handwritten,Mixed,Other Typed/Printed
+openai-gpt-4.1-mini,0.8825,0.8774,0.9057,0.8317,0.9344
+google-gemini-2.5-flash,0.8678,0.8668,0.8799,0.8401,0.8907
+openai-gpt-5-mini,0.8658,0.861,0.889,0.8197,0.9071
+openai-gpt-5,0.8379,0.8221,0.8784,0.8041,0.8476
+google-gemini-2.5-flash-lite,0.8263,0.8163,0.8348,0.8194,0.8549
+qwen-qwen2.5-vl-72b-instruct,0.822,0.8898,0.7625,0.8297,0.7138
+mistralai-mistral-medium-3.1,0.8039,0.8175,0.8106,0.7506,0.8363
+openai-gpt-4o-mini,0.7797,0.8032,0.7963,0.6669,0.9792
+anthropic-claude-3.5-haiku,0.766,0.8005,0.7451,0.7106,0.8023
+qwen-qwen-vl-plus,0.7396,0.8271,0.5833,0.7455,0.8466
+meta-llama-llama-4-scout,0.6932,0.8127,0.4537,0.7304,0.8595
+amazon-nova-pro-v1,0.6878,0.6666,0.6593,0.7171,0.8
+google-gemma-3-27b-it,0.6872,0.7414,0.607,0.6861,0.7137
+microsoft-phi-4-multimodal-instruct,0.6573,0.6796,0.627,0.6272,0.7193
+mistralai-pixtral-large-2411,0.6169,0.6609,0.5726,0.5292,0.7497
+openai-gpt-5-nano,0.549,0.749,0.2533,0.4799,0.7741
+qwen-qwen2.5-vl-32b-instruct,0.5275,0.6346,0.4542,0.3065,0.7611
+meta-llama-llama-4-maverick,0.4675,0.8024,-0.0035,0.4575,0.5607
+google-gemma-3-12b-it,0.4566,0.6055,0.4883,0.1761,0.3264
+Tesseract,0.3393,0.5411,0.0073,0.2867,0.6337
+mistralai-pixtral-12b,-0.0888,0.0956,-0.0397,0.3128,-1.7772
