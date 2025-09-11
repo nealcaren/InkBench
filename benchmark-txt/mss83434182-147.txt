@@ -1,0 +1,39 @@
+142
+UNION SOLDIERS INTERRED IN
+NATCHEZ NATIONAL CEMETERY, MISSISSIPPI.
+No. Name. Rank. Co. Regiment. Date of death. Sec. Grave. Original place of burial. 
+1 Atkinson, John H. K. 95th Illinois infantry Aug, 24, 1863. 1. 1. Natchez, Mississippi. 
+2 Astings, --- 4th Illinois cavalry. Oct. 31, ---. 1. 71. Do. 
+3 Ashwood, Troy. Private. G. 58th U.S. colored infantry. 15. 49. Washington, Mississippi. 
+4 Anderson, Henry. I. 5th U.S. colored cavalry. 15.  149. Vidalia, Louisiana. 
+5 Allen, Henry. Private. F. 6th United States artillery. May 23, 1864. 15. 244. Natchez, Mississippi.
+6 Allen, Daniel. Sergeant. D. 58th U.S. colored infantry. Apr. 29, 1864. 15. 244. Do. 
+7 Beebe, Charles A. A. 12th Wisconsin infantry. Oct. 1st, 1863. 1. 20. Do. 
+8 Brown, D. H. 12th Wisconsin. Oct. 24th, 1863. 1. 26. Do. 
+9 Blanchard, W. W. K. 12th Wisconsin infantry. Sept. 26, 1863. 1. 27. Do. 
+10 B---, S. 12th Wisconsin infantry. 1. 28. Do. 
+11 Baltzell, J. L...G. 76th Illinois infantry. Oct. 27, 1863. 1. 48. Do. 
+12 Bush, William F. B 76th Illinois volunteers Oct. 27, 1863 1 54 Do. 
+13 Broken, Henry A C 4th Illinois cavalry Aug. 18, 1864 1 67 Do.
+14 Burwell, W. J   C 15th Illinois infantry 1 Oct. 14, 1863 1 80 Do.
+15 Biggs, Paul D 11th Illinois infantry 1 82 Do. 
+16 Bates, John     I 46th Illinois infantry Dec. 7, 1863 1 86 Do. 
+17 Boyd, William K 2d Illinois artillery Dec. 13, 1863 1 87 Do. 
+18 Brahm, August G 15th Illinois infantry Dec. 19, 1863 Do. 
+19 Balzell, W Private G 76th Illinois infantry Oct. 27, 1863 1 98 Do. 
+20 Bennington, T
+21 Boyd, William
+22  Brahm, Auigust
+23  Broker, H
+24  Brokett, W. P.
+25  Brown, Edward
+26  Boughton, Edgar
+27  Bettis, A
+28  Bringat, John
+29 Benton, Lucius
+30  Brewer, Henry
+31  Blake, J
+32  Brady, George
+33  Burke, George
+34  Black, Benjamin
+35  Bartlett, James
