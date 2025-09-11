@@ -1,0 +1,47 @@
+### Transcription of the Document
+
+#### Columns and Heads:
+- **NAME.**
+- **ENLISTED.**
+  - **WHEN.**
+  - **TERM.**
+  - **RATING.**
+- **WHERE BORN AND PERSONAL DESCRIPTION.**
+  - **CITY, TOWN, OR COUNTY.**
+  - **DATE.**
+  - **AGE.**
+  - **OCCUPATION.**
+  - **EYES.**
+  - **HAIR.**
+  - **COMPLEXION.**
+  - **HEIGHT.**
+    - **Feet.**
+    - **Inches.**
+
+#### Handwritten Entries:
+1. **NAME:**  
+   John Frank
+
+2. **ENLISTED:**
+   - **WHEN:** 1863
+   - **TERM:** One year Sea
+   - **RATING:** (Not explicitly filled, likely blank or assumed unrated)
+
+3. **WHERE BORN AND PERSONAL DESCRIPTION:**
+   - **CITY, TOWN, OR COUNTY:** N. York
+   - **DATE:** (Not filled, left blank)
+   - **AGE:** 22
+   - **OCCUPATION:** Brush maker
+   - **EYES:** (Not filled, left blank)
+   - **HAIR:** (Not filled, left blank)
+   - **COMPLEXION:** Negro
+   - **HEIGHT:**  
+     - **Feet:** 5
+     - **Inches:** 4½
+
+#### Notes:
+- The handwriting is clear and legible.
+- The document appears to be a formal enlistment form.
+- The last name is partially crossed out, with "Frank" written over it.
+- The "N. York" designation for location likely refers to New York, though it is not explicitly marked as such.
+- The height is recorded as 5 feet 4½ inches.

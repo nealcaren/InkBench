@@ -1,0 +1,33 @@
+142
+UNION SOLDIERS INTERRED IN
+NATCHEZ NATIONAL CEMETERY, MISSISSIPPI.
+
+|No. |Name. |Rank. |Co. |Regiment. |Date of death. |Sec. |Grave. |Original place of burial. |
+|---|---|---|---|---|---|---|---|---|
+|1 |Atkisson, John H. |Private | |96 Illinois infantry |Aug. 24, 1863 |1 |1 |Natchez, Missi. |
+|2 |Asting, Troy |Private | |Do. |Oct. 31, 1863 |1 |71 |Do. |
+|3 |Ashwood, Henry |Private |4 |58 U.S. colored cavalry |Oct. 31, 1861 |1 |49 |Washington, Mississippi. |
+|4 |Allen, Henry |Sergeant.. |5 |6th U.S. colored infantry |May 23, 1864 |1 |212 |Vidalia, Louisiana. |
+|5 |Beebe, Daniel | | |13th U.S. artillery |Apr. 29, 1864 |1 |244 |Natchez, Missi. |
+|6 |Blanchard, Charles A. | | |12th Wisconsin infantry |Oct. 20, 1863 |2 |26 |Do. |
+|7 |Beltzhoover, D. W. | | |Do. |Sept. 26, 1863 |2 |27 |Do. |
+|8 |Baltzer, J.L. | | |76th Illinois infantry |Oct. 27, 1863 |2 |28 |Do. |
+|9 |Bush, William F. | | |Do. |Oct. 27, 1863 |2 |54 |Do. |
+|10 |Brockenbrough, Henry A. | | |Do. |Oct. 18, 1863 |2 |67 |Do. |
+|11 |Burwell, J. F. | | |45th Illinois infantry |Oct. 14, 1863 |2 |90 |Do. |
+|12 |Biggs, Paul | | |Do. |Oct. 19, 1863 |2 |86 |Do. |
+|13 |Boyd, John | | |Do. |Dec. 7, 1863 |2 |87 |Do. |
+|14 |Braman, William | | |Do. |Dec. 10, 1863 |2 |88 |Do. |
+|15 |Brazelton, W., T. | | |76th Ohio infantry |Oct. 12, 1863 |2 |107 |Do. |
+|16 |Boughton, J. | | |15th Ohio artillery |Nov. 13, 1863 |2 |21 |Do. |
+|17 |Beckett, William E. | | |2d U.S. colored artillery |Dec. 10, 1863 |2 |36 |Do. |
+|18 |Brough, W. P. | | |29th Illinois infantry |Feb. 10, 1864 |3 |94 |Do. |
+|19 |Brown, Edward | | |12th Wisconsin infantry |Feb. 14, 1864 |3 |98 |Do. |
+|20 |Boughton, Edgar. | | |47th Pennsylvania. |Feb. 24, 1864 |4 |16 |Do. |
+|21 |Bettis, A. | | |U.S. iron clad Tennessee. |Jan. 27, 1864 |4 |45 |Do. |
+|22 |Brington, John. |Private |C |35th U.S. colored infantry |June 27, 1863 |4 |72 |Meadville, Mississippi. |
+|23 |Brewer, Lucuis Henry |Private |G |4th U.S. colored infantry |Aug. 13, 1867 |4 |74 |Vidalia, Louisiana. |
+|24 |Blake, George | | |20th U.S. colored infantry |Nov. 20, 1865 |4 |78 |Natchez, Missi. |
+|25 |Brady, J. | | |66th U.S. colored infantry |Sept. 1, - 1863 |5 |174 |Do. |
+|26 |Burkett, Benjamin |Private |I |58 U.S. colored infantry |Sep. 11, 1863 |5 |8 |Do. |
+|27 |Bartlett, James. |Private |E |Do. |Oct. 12, 1863 |14 |134 |Do. |

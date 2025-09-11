@@ -1,0 +1,36 @@
+156
+
+Richmond.
+
+| Name               | Page | Name              | Details                                      | Amount   | Total     |
+|--------------------|------|-------------------|----------------------------------------------|----------|-----------|
+| John C. Moor       | 164  | Tinney & Muse     | 2 Girls Ellen and Ann. Commission & Taxes.    | 3000     | 3000      |
+|                    |      |                   | Board                                        | 375      |           |
+|                    |      |                   |                                              |          | 4595 00   |
+| C. M. Querson      | 98   | Joseph S. Henley  | Boy Henry. Commission & Taxes.                | 168 75   |           |
+|                    |      |                   | Board                                        | 243 75   |           |
+|                    |      |                   |                                              |          | 2006 25   |
+| P. A. Welster & Co | 168  | J. M. Haden & Co  | Man Allan. Commission & Taxes.                | 5000     |           |
+|                    |      |                   | Board                                        | 412 50   |           |
+|                    |      |                   |                                              |          | 472 50    |
+|                    |      |                   |                                              |          | 5408 75   |
+| Hen. H. Payne      | 143  | E. J. Duval       | Boy Tom. Commission & Taxes.                  | 4500     |           |
+|                    |      |                   | Board                                        | 341 25   |           |
+|                    |      |                   |                                              |          | 4708 75   |
+| E. H. Gates        | 110  | E. L. Stant       | Girl Maria. Commission & Taxes.                | 4000     |           |
+|                    |      |                   | Board                                        | 200      |           |
+|                    |      |                   |                                              |          | 3700      |
+| Ed. N. Bradley     | 321  | Pollard           | Woman Amy & 2 Children. Commission & Taxes.   | 4100     |           |
+|                    |      |                   | Board & Medical Exam                         | 307 50   |           |
+|                    |      |                   |                                              |          | 512 50    |
+|                    |      |                   |                                              |          | 4587 50   |
+| R. C. Sherry       | 168  | Tinney & Muse     | Girls Laura. Commission & Taxes.              | 2800     |           |
+|                    |      |                   | Board                                        | 210      |           |
+|                    |      |                   |                                              |          | 2575      |
+| James Lawrence     | 125  | C. G. Mc.Murry    | Woman Jane & 2 Children. Commission & Taxes.   | 4000     |           |
+|                    |      |                   | Board                                        | 500      |           |
+|                    |      |                   |                                              |          | 3670      |
+| Hen. Allen         | 138  | C. G. Mc.Murry    | Girl Patsy. Commission & Taxes.               | 2900     |           |
+|                    |      | D. McDaniel       | Woman Rose. Commission & Taxes.               | 1950     |           |
+|                    |      |                   |                                              |          | 365 75    |
+|                    |      |                   |                                              |          | 1485      |

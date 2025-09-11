@@ -1,0 +1,44 @@
+Household Accounts
+
+| Received | Expended |
+|----------|----------|
+| Dec 31   | Jan 1    |
+| 20.00 To dentistry | 4.25 |
+| " Corned beef | 1.00 |
+| " Iqal. oysters | 1.00 |
+| " 16 n kerosene | 1.80 |
+| " Trinware. | 2.50 |
+| " Postage on S & time | 1.00 |
+| " Carrier boy | 2.50 |
+| " 1 dog eggs | 3.50 |
+| " Delivery | 4.00 |
+| " 6½" pocket 2½" unit | 0.40 |
+| **13.94** | **$20.47** |
+| Dec 30 | Jan 1 |
+| " Soupbone | 1.50 |
+| " Yeast cake | 0.20 |
+| " 1 dog eggs | 3.50 |
+| " Pickles | 1.20 |
+| " ½ pk meal | 1.00 |
+| " 1 lb butter | 4.00 |
+| " ¼ lb steak | 2.20 |
+| " 4½" beef roast | 8.00 |
+| " 1" starch | 0.70 |
+| " 1 sack salt | 0.80 |
+| " Yeast cake | 0.20 |
+| **2.54** | **$16.48** |
+
+Balanced:
+| Jan 1 | Jan 1 |
+|-------|-------|
+| 10.00 | 1 lb turkey | 1.35 |
+| " 1 yrs cut 5 N. Ind | 3.00 |
+| " Money order | 0.50 |
+| " Car tickets | 2.00 |
+| " Yearly due June | 5.00 |
+| " Car tickets | 2.50 |
+| " 2 epools thread | 0.80 |
+| " Boy | 0.20 |
+| **10.00** | **$10.00** |
+
+Balanced Amount: $10.00

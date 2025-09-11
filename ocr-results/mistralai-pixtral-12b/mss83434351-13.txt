@@ -1,0 +1,213 @@
+```
+State: Florida
+Year: 1855
+
+1.  Woodruff:)," 
+
+  1.  — M. -> Medium
+
+  2.  — M. -> Medium
+
+  3.  — M. -> Medium
+
+  4.  — M. -> Medium
+
+  5.  — M. -> Medium
+
+  6.  — M. -> Medium
+
+  7.  — M. -> Medium
+
+  8.  — M. -> Medium
+
+  9.  — M. -> Medium
+
+ 10.  — M. -> Medium
+
+ 11.  — M. -> Medium
+
+ 12.  — M. -> Medium
+
+ 13.  — M. -> Medium
+
+ 14.  — M. -> Medium
+
+ 15.  — M. -> Medium
+
+ 16.  — M. -> Medium
+
+ 17.  — M. -> Medium
+
+18.  — M. -> Medium
+
+19.  — M. -> Medium
+
+20.  — M. -> Medium
+
+21.  — M. -> Medium
+
+22.  — M. -> Medium
+
+23.  — M. -> Medium 
+
+ word 
+
+State: Florida
+Year: 1855
+
+1.  Johnson, Baker,"
+
+  1.  — M. -> Medium
+
+  2.  — M. -> Medium
+
+  3.  — M. -> Medium
+
+  4.  — M. -> Medium
+
+  5.  — M. -> Medium
+
+  6.  — M. -> Medium
+
+  7.  — M. -> Medium
+
+  8.  — M. -> Medium
+
+  9.  — M. -> Medium
+
+ 10.  — M. -> Medium
+
+ 11.  — M. -> Medium
+
+ 12.  — M. -> Medium
+
+ 13.  — M. -> Medium
+
+ 14.  — M. -> Medium
+
+ 15.  — M. -> Medium
+
+ 16.  — M. -> Medium
+
+ 17.  — M. -> Medium
+
+18.  — M. -> Medium
+
+19.  — M. -> Medium
+
+20.  — M. -> Medium
+
+21.  — M. -> Medium
+
+22.  — M. -> Medium
+
+23.  — M. -> Medium 
+
+ word 
+
+State: Florida
+Year: 1855
+
+1.  Johnson, Jackson,"
+
+  1.  — M. -> Medium
+
+  2.  — M. -> Medium
+
+  3.  — M. -> Medium
+
+  4.  — M. -> Medium
+
+  5.  — M. -> Medium
+
+  6.  — M. -> Medium
+
+  7.  — M. -> Medium
+
+  8.  — M. -> Medium
+
+  9.  — M. -> Medium
+
+ 10.  — M. -> Medium
+
+ 11.  — M. -> Medium
+
+ 12.  — M. -> Medium
+
+ 13.  — M. -> Medium
+
+ 14.  — M. -> Medium
+
+ 15.  — M. -> Medium
+
+ 16.  — M. -> Medium
+
+ 17.  — M. -> Medium
+
+18.  — M. -> Medium
+
+19.  — M. -> Medium
+
+20.  — M. -> Medium
+
+21.  — M. -> Medium
+
+22.  — M. -> Medium
+
+23.  — M. -> Medium 
+
+ word 
+
+State: Florida
+Year: 1855
+
+1.  Johnson, Horry,"
+
+  1.  — M. -> Medium
+
+  2.  — M. -> Medium
+
+  3.  — M. -> Medium
+
+  4.  — M. -> Medium
+
+  5.  — M. -> Medium
+
+  6.  — M. -> Medium
+
+  7.  — M. -> Medium
+
+  8.  — M. -> Medium
+
+  9.  — M. -> Medium
+
+ 10.  — M. -> Medium
+
+ 11.  — M. -> Medium
+
+ 12.  — M. -> Medium
+
+ 13.  — M. -> Medium
+
+ 14.  — M. -> Medium
+
+ 15.  — M. -> Medium
+
+ 16.  — M. -> Medium
+
+ 17.  — M. -> Medium
+
+18.  — M. -> Medium
+
+19.  — M. -> Medium
+
+20.  — M. -> Medium
+
+21.  — M. -> Medium
+
+22.  — M. -> Medium
+
+23.  — M. -> Medium 
+
+ word 
+```

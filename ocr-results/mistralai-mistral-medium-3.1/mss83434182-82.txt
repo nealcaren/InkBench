@@ -1,0 +1,84 @@
+The image shows a page from a cemetery record book. Here is the transcription of the visible details:
+
+```
+E
+
+29620 Larabee, Charles M. - Private, 8th Maine - 23
+29621 Littlefield, David M. - do. - 19
+29622 Litle, Charles - do. - 139
+29623 Leerran, Tobias - do. -
+29624 Lord, Daniel S. - 8th Maine - 113
+29625 Landen, James - do. - 44
+29626 Loucks, Wm. -
+29627 Lampman, John - do. -
+29628 Leeroy, John -
+29629 Looney, D. -
+29630 Leverett, Jas. B. -
+29631 Leach, S. D. -
+29632 Leach, John -
+29633 Leach, Jno. -
+29634 Ladd, J. -
+29635 Lewis, J. -
+29636 Lounsbury, C. -
+29637 Lounsbury, Wm. -
+29638 Lounsbery -
+29639 Ladd, Samuel -
+29640 Lewis, John -
+29641 Lewis, J. -
+29642 Lewis, Geo. A. -
+29643 Ladd, J. -
+29644 Lewis, J. -
+29645 Lewis, John -
+29646 Ladd, J. -
+29647 Leach, J. -
+29648 Ladd, J. -
+29649 Leach, J. -
+29650 Ladd, J. -
+29651 Lewis, J. -
+29652 Ladd, J. -
+29653 Leach, J. -
+29654 Leach, J. -
+29655 Lounsbury, John -
+29656 Lounsbury, H. -
+29657 Lounsbury, J. -
+29658 Lounsbury, J. -
+29659 Lord, Adam -
+29660 Laner, Wm. - 1st Alabama cavalry - 51
+
+29625 Landen, James - 6th Massachusetts Department - 36
+29631 Leach, S. D. - 4th Virginia - 30
+29645 Lewis, John - 1st New York engineers - 31
+29653 Leach, J. - 7th New York - 100
+29654 Leach, J. - 17th New York - 96
+29655 Lounsbury, John - 40th New York - 42
+29656 Lounsbury, H. - 74th New York - 84
+29657 Lounsbury, J. - 26th Michigan - 26
+29658 Lounsbury, J. - 102nd U.S. colored troops - 27
+29659 Lord, Adam - 24th Iowa - 37
+29660 Laner, Wm. - 1st Alabama cavalry - 51
+
+29626 Loucks, Wm. - 1st New York - 25
+29627 Lampman, John - 8th Connecticut - 9
+29628 Leeroy, John - 14th New Hampshire - 14
+29629 Looney, D. - 11th Connecticut - 19
+29630 Leverett, Jas. B. - 5th New York - 10
+29633 Leach, Jno. - 16th New York - 30
+29634 Ladd, J. - 29th Indiana - 25
+29635 Lewis, J. - 117th New York - 31
+29636 Lounsbury, C. - 14th New York - 30
+29637 Lounsbury, Wm. - 12th New York - 36
+29638 Lounsbery - 17th New York - 100
+29639 Ladd, Samuel - 25th Massachusetts - 37
+29640 Lewis, John - 98th New York - 34
+29641 Lewis, J. - 1st New York - 30
+29642 Lewis, Geo. A. - 51st Pennsylvania - 32
+29643 Ladd, J. - 12th New York - 63
+29644 Lewis, J. - 17th New York - 69
+29646 Ladd, J. - 15th New York - 32
+29647 Leach, J. - 1st U.S. Reserve Corps - 30
+29648 Ladd, J. - 1st U.S. colored troops - 34
+29649 Leach, J. - 3rd New York - 37
+29650 Ladd, J. - 154th New York - 31
+29651 Lewis, J. - 9th New York - 33
+29652 Ladd, J. - 14th New York - 26
+```

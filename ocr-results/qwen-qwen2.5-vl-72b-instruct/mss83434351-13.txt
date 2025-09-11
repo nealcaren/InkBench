@@ -1,0 +1,57 @@
+**Transcript of Ledger Page**
+
+---
+
+**Title:**  
+Account of Clothing, Camp & Garrison Equipment  
+Received from the United States of America  
+
+---
+
+**Date:**  
+January 31st, 1866  
+
+---
+
+**Columns:**  
+1. Date  
+2. No. of Invoice  
+3. Description  
+4. Quantity  
+5. Price per Unit  
+6. Total Cost  
+
+---
+
+**Entries:**
+
+| Date       | No. of Invoice | Description                     | Quantity | Price per Unit | Total Cost |
+|------------|----------------|---------------------------------|----------|----------------|------------|
+| January 31st, 1866 | 1 | Cape Forage                      | 110      | 14             | 38         |
+|               |                | Straw Hats                      | 23       | 8              | 6          |
+|               |                | Woolen Hats                     | 120      |                |            |
+|               |                | Coat Uniform                    | 13       | 150            | 24         |
+|               |                | Metal Buttons Single            | 40       | 6              | 120        |
+|               |                | Pair of Trousers (Sort)         | 1        | 1              | 13         |
+|               |                | Waistcoats                      | 13       | 150            | 24         |
+|               |                | Knit Shirts                     | 40       | 1              | 5          |
+|               |                | Drawers                         | 23       | 3              | 35         |
+|               |                | Woollen Blanket                 | 38       | 14             | 30         |
+|               |                | Flannel Shirts                  | 5        | 26             | 100        |
+|               |                | Drawers Knit C.T.               | 1        | 1              | 2          |
+|               |                | Heavy Brogues Boots             | 19       | 40             | 1          |
+|               |                | Knit Overskirts                 | 4        | 1              | 5          |
+|               |                | Great Coat                      | 8        | 299            | 38         |
+|               |                | Booties Nego Wool               | 11       | 30             | 24         |
+|               |                | Blanket Woolen                  | 37       | 85             | 50         |
+|               |                | Waterproof & Straps             |          |                |            |
+
+---
+
+**Total Amount Accounted for:**  
+£75 14s 3d  
+
+---
+
+**Note:**  
+The ledger includes detailed entries for various clothing items, camp equipment, and garrison supplies received from the United States of America on January 31st, 1866. Each entry specifies the date, invoice number, description of the item, quantity, price per unit, and total cost. The total amount accounted for is £75 14s 3d.

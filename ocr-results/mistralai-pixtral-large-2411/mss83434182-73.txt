@@ -1,0 +1,36 @@
+Certainly! Here is the complete transcript of the item shown in the image:
+
+---
+
+UNION SOLDIERS INTERRED IN BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA - Continued.
+
+---
+
+| No.   | Name                             | Rank        | Co.    | Regiment                                                                            | Date of Death | Sec. Grave   | Remarks |
+|-------|----------------------------------|-------------|--------|------------------------------------------------------------------------------------|---------------|--------------|---------|
+| 29283 | Phelps, George                   | Private     | B      | 56th Massachusetts                                                                 |               | 46           |         |
+| 29284 | Lawler, James A., Chaplain      | Chaplain    |        | 56th Massachusetts                                                                 |               | 46           |         |
+| 29285 | Bigelow, Stephen                | Sergeant    | B      | 54th Massachusetts                                                                |               | 46           |         |
+| 29286 | Enslin, Charles E.              | Corporal    | A      | 54th Massachusetts                                                                |               | 46           |         |
+| 29287 | Beaudet, Charles                | Private     |        | 54th Massachusetts                                                                |               | 46           |         |
+| 29288 | Saunders, William J.            | Private     | H      | 54th Massachusetts                                                                |               | 46           |         |
+| 29289 | Pease, John W.                  | Private     | D      | 54th Massachusetts                                                                |               | 46           |         |
+| 29290 | Beckman, David                  | Private     | G      | 55th Massachusetts                                                               |               | 46           |         |
+| 29291 | Rosten, William                 | Private     | I      | 55th Massachusetts                                                               |               | 46           |         |
+| 29292 | Chappus, Frederick Ö            | Private     | D      | 55th Massachusetts                                                               |               | 46           |         |
+| 29293 | White, Steven                   | Captain     | K      | 55th Massachusetts                                                               |               | 46           |         |
+| 29294 | Pierce, Freeman                 | Sergeant    | C      | 32nd Colored Troops                                                              |               | 46           |         |
+| 29295 | ---                             | ---         | ---    | ---                                                                                | ---           | ---          | ---     |
+| 29296 | Insley, H.L.                    | Corporal    | D      | 7th New Hampshire                                                                 |               | 46           |         |
+| 29297 | Bettes, Samuel E.               | Private     | D      | 162nd New York                                                                    |               | 46           |         |
+| 29298 | Wood, William                   | Private     | E      | 102nd U.S. Colored Troops                                                         |               | 46           |         |
+| 29299 | Laird, Samuel S.                | Private     | F      | 142nd Pennsylvania                                                               |               | 46           |         |
+| 29300 | Critchley, Joseph E.            | Sergeant    | G      | 127th New York                                                                   |               | 46           |         |
+| 29301 | Grimshaw, A.F.                  | Private     | B      | 127th New York                                                                   |               | 73           |         |
+| 29302 | Roberts, James C.               | Corporal    | I      | 1st U.S. Veteran Reserve Corps                                                     |               | 73           |         |
+| 29303 | Benson, John                    | Private     | E      | 1st U.S. Veteran Reserve Corps                                                     |               | 73           |         |
+| 29304 | Emerson, A.W.                   | Private     | A      | 1st U.S. Veteran Reserve Corps                                                     |               | 73           |         |
+| 29305 | Cress, Michael                  | Private     | B      | 1st U.S. Veteran Reserve Corps                                                     |               | 73           |         |
+| 29306 | ---                             | ---         | ---    | ---                                                                                | ---           | ---          | ---     |
+
+---

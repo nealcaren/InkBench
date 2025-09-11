@@ -1,0 +1,43 @@
+PAGE    COUNTY     DISTRICT     SENATOR     SENATOR     SENATOR     LIEUTENANT     ORAL
+        91H         Pennsylvania     91H          Maloney,      Malone,      Maloney,     William     William     William     William
+        96TH         Maine          96TH          Metcalf      Metcalf      Metcalf      Jesse     Jesse     Jesse     Jesse
+        99TH         Wis.          99TH      McKittrick     McKittrick     McKittrick     Samuel      Samuel      Samuel      Samuel
+        110TH        Idaho         110TH     Meldrum     Meldrum      Meldrum     George     George     George     George
+        215TH        Mich.         215TH     Miles      Miles      Miles      Frank      Frank      Frank      Frank
+        119TH        Pa.           119TH      Miller        Miller      Miller      John      John      John      John
+        104TH OHIO   104TH OHIO    104TH     Morrison      Morrison      Morrison      David      David      David      David
+        314TH ILL.   314TH ILL.    314TH      Morris      Morris      Morris      Robert      Robert      Robert      Robert
+        305TH NY     305TH NY      305TH      Morris      Morris      Morris      R. Wells    R. Wells    R. Wells    R. Wells
+        3093        3093         3093        Moulton     Moulton     Moulton     Philip     Philip     Philip     Philip
+        3095        3095         3095        Mulledy     Mulledy      Mulledy     Patrick     Patrick     Patrick     Patrick
+        3087        3087         3087        Murphy      Murphy      Murphy     J. F.      J. F.      J. F.      J. F.
+        3069        3069         3069        Murphy      Murphy      Murphy     Patrick     Patrick     Patrick     Patrick
+        3182        3182         3182        Murphy      Murphy      Murphy     James      James      James      James
+        3063        3063         3063        Murphy      Murphy      Murphy     Timothy     Timothy     Timothy     Timothy
+        3081        3081         3081        Murphy      Murphy      Murphy     William     William     William     William
+        3159        3159         3159        Murphy      Murphy      Murphy      Patrick      Patrick      Patrick     Patrick
+        3153        3153         3153        Murphy      Murphy      Murphy     Thomas      Thomas     Thomas      Thomas
+        3165        3165         3165        Myers       Myers       Myers      Harry       Harry       Harry       Harry
+        3184        3184         3184        Meyers     Meyers       Meyers      James      James      James      James
+        3174        3174         3174        Milligan    Milligan     Milligan    John      John      John      John
+        3018        3018         3018        Mills       Mills       Mills      James       James       James       James
+        3193        3193         3193        Millard     Millard      Millard      John       John       John       John
+        3182        3182         3182        Mitchell    Mitchell    Mitchell    R. P        R. P        R. P        R. P.
+        3184        3184         3184        Mitchell     Mitchell    Mitchell    William     William     William     William
+        3164        3164         3164        Mitchell     Mitchell    Mitchell    John       John       John       John
+        3091        3091         3091        Mitchell     Mitchell    Mitchell    T. R.      T. R.      T. R.      T. R.
+        3091        3091         3091        Mitchell     Mitchell    Mitchell    Walter     Walter     Walter     Walter
+        3069        3069         3069        Mitchell     Mitchell    Mitchell    Thomas     Thomas     Thomas     Thomas
+        3173        3173         3173        Morgan      Morgan      Morgan     Jacob       Jacob       Jacob       Jacob
+        3170        3170         3170        Morgan      Morgan      Morgan     John       John       John       John
+        3165        3165         3165        Morgan      Morgan      Morgan     William     William     William     William
+        3127        3127         3127        Morgan      Morgan      Morgan      William     William     William     William
+        3176        3176         3176        Morris      Morris      Morris      William     William     William     William
+        3170        3170         3170        Morris      Morris      Morris      William     William     William     William
+        3073 Pa.     3073 Pa.      3073      Morrison     Morrison     Morrison     J.      J.      J.      J.
+        3072 WI      3072 WI       3072      Morrow      Morrow      Morrow     Peter       Peter       Peter       Peter
+        3174        3174         3174        Miller      Miller      Miller      James       James       James       James
+        91H PENNSYLVANIA   91H        91H         9TH     OHIONAS
+                                96TH    MAINE   UNITED
+STATES
+    INFANTRY    99TH     WISCONSIN     INFANTRY   110TH OHIO          119TH Pa.        104TH OHIO            314TH ILL.                  3093              3095               3087                       3087                       3069                       3182                       3081                       3063                       3159                       3184                       3153                       3165                       3018                       3174                       3182                       3164                       3091                               3091                       3069                       3173                       3170                       3165                       3127                       3176                       3073                           3072                       3174                       3                                27                          80                         12                           9                               29                          28                                       45                           45                            49                            19                           31                         66                           11                           31                           45                           64                           14                           22                           12                           16                           6                           27                           13

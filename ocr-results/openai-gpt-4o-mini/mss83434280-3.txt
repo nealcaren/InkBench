@@ -1,0 +1,12 @@
+```
+NAME.                              
+John Frank.
+
+ENLISTED.
+WHEN.           TERM.         RATING.           CITY, TOWN, OR COUNTY.  
+1863           One Old       Sea               N. York.
+
+DATE.           AGE.           OCCUPATION.     EYES.     HAIR.         COMPLEXION.      HEIGHT.  
+                    22             Black            Negro.                5 2
+
+```

@@ -1,0 +1,62 @@
+# GENERAL TRANSCRIPTION GUIDE
+### Core Principles
+- **Transcribe What You See**: Preserve original spelling, grammar, and punctuation exactly as written. Do not paraphrase or correct errors. Type what you see, not what you think it should say. Transcribe text in the order it appears on the page (as you would read it aloud).
+- **When Not to Transcribe**: Blank pages, images only, pre-printed calendars, almanacs, and dates in diaries that don't aid historical discovery, shorthand.
+
+### Text Handling
+- **Basic Text**: Transcribe all legible text including letterheads, page numbers, and catalog numbers. Read and transcribe columns in logical reading order. Don't attempt to preserve formatting.
+- **Abbreviations and Symbols**: Do not expand abbreviations - transcribe exactly as written. Transcribe symbols as they appear (&, $, £, §, etc.). Use lowercase "s" for historical "long s" that looks like "f".
+- **Line and Page Breaks**: Preserve line breaks as they appear. When words break across lines on the same page, write the complete word on the first line. When words break across pages, transcribe the word on the first page. For multiple pages in one image, transcribe all pages in order with empty lines between them.
+
+### Special Situations
+- **Illegible or Unclear Text**: Use [?] for completely illegible words. For partially readable words, transcribe visible letters: s[????] for "s" followed by unreadable letters. If you can't read much of a page, save and move to another document.
+- **Text Modifications**: **Deletions**: Transcribe crossed-out text within square brackets [deleted text]. **Insertions**: Include inserted text in natural reading order without special notation. **Marginalia**: Transcribe margin notes within [* *], placed after relevant text or at the end if unrelated.
+- **Punctuation and Special Cases**: Make best judgment for historical punctuation (en dash, em dash, etc.). Reduce excessive ellipses to three dots (...). Ignore bleed-through text (backward/mirror text from other side of thin paper).
+
+### Document-Specific Guidelines
+- **Tables**: Preserve relationships between columns and rows. Focus on capturing data accurately, not replicating exact layout.
+- **Newspapers**: Transcribe all articles, not just seemingly relevant ones. Follow natural column reading order. Don't attempt to preserve layout.
+- **Envelopes**: Transcribe all legible text including postmarks and stamps. Mark postmarks and stamps as marginalia [* *].
+- **Cross-Writing**: Transcribe layered text in natural reading order. Add "cross-writing" tag when applicable.
+
+### Languages and Characters
+- **Non-English Text**: Transcribe completely in original language. Use correct characters (Ç not C). Do not translate - transcribe only. Use alt codes for special characters.
+
+### Quality Guidelines
+- **What to Avoid**: Don't describe images or non-text features in transcription. Don't add formatting characters or layout symbols. Don't guess at heavily damaged or illegible text.
+
+## Transcription:
+```
+142
+NATCHEZ NATIONAL CEMETERY, MISSISSIPPI
+
+UNION SOLDIERS INTERRRED IN
+
+Original grave or funeral
+No. Name             Altkasie, John J.         President Birth
+Regiment.            Gen. Sec.                Treaty Busser
+Company              Colonel Anderson, Robert Black
+Date of death         Blennerhassett, Thomas A.
+August 24, 1863.     Bridgham, John S.        ( claimed )
+September 30, 1864.   Carmack, James M.         Campbell, John A.
+Brownhill, Samuel J. Cameron, James O.        Carolyn, Harriet M.
+Churchill, H. P.     Carter, William T.        Clements, John A.
+Davis, W. H.         Clinton, Edward W.        Crawford, William H.
+Eaton, William E.    Clout, Thomas J.         Crutchfield, Samuel H.
+Edwards, Samuel      Crofts, John B.           Cusic, William E.
+Ferguson, Charles W. Dawkins, Allen T.        Doss, Levi H.
+Fisk, Louis S.       Dyal, James B.           Dove, William C. W.
+Gane, Thomas Y.      Farley, Alexander B.      Falls, John
+Girard, J. A.        Flannagan, Thomas H.      Feaster, Lewis C.
+Haygram, P.          Conner, James W.          Floyd, John H.
+Benedict, John O.    Lawing, John W.           recept
+Galloway, Thomas J.   Mc({
+Minutes Theatre.    May waveform of-derived-of
+Jeffries, H.         Magness, James B.
+Dunlap, W. H.       O'Bpl
+Phelps, Henry S.     Phillips, James A.         repert
+Signature
+
+%- 100 % 92 80 63 29 28 4 5 9  shrug
+Give group group group group group group group group group group
+```

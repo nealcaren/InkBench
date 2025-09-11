@@ -1,0 +1,36 @@
+---
+**[Centered Text]**
+
+Voucher No. 1684
+
+---
+**[Left-Aligned Text]**
+
+Paid the 6th of September 1864
+
+James M. Iff
+1st Lieut. 44th U.S. Vols. Inf.
+
+From the 1st of August 1864
+To the 1st of September 1864
+
+Pay
+Subsistence
+Forage
+Clothing
+
+**[Right-Aligned Text]**
+
+$116.50
+
+---
+**[Top-Right Text]**
+
+D 464
+LD 340
+
+---
+**[Bottom-Right Text]**
+
+D 464
+LE 340

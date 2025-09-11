@@ -1,0 +1,33 @@
+3647    Rosa, Benj. J                  Private        B        144th N. Y.                         28     18
+3648    Ring, Geo. L J                Sergeant       E        13th Indiana                        23     30
+3649    Rison, Eugene                 Private        B        18th Indiana                       26     19
+3650    Rutherford, Geo. R           -do-           A        132d New York                     119    170
+3651    Robision, Nathan             Corporal       D        47th New York                     25     46
+3652    Rikkie, Merwin H            Sergeant       F        46th New York                     170     76
+3653    Reeks, Alfred                Private        A        20th Indiana                     64     114
+3654    Rose, Edwin                  -do-           E        26th Connecticut                 37      87
+3655    Rose, Frank                  -do-           K        15th Illinois cavalry           7       50
+3656    Riggs, John                 -do-           C        31st Illinois                   5       60
+3657    Riggs, John                 -do-           H        38th Illinois                   29     113
+3658    Robinson, C. N.             -do-           G        17th army corps                 113      37
+3659    Richardson, Chancy          -do-           M        49th N. Y. colored troops       28      33
+3660    Rice, Onesimus              -do-           K        41st N. Y. colored troops       38      39
+3661    Root, Harvey                -do-           G        62d Ohio                       11      21
+3662    Rotstein, Daniel            -do-           H        115th New York                   15      63
+3663    Russell, G. A.              -do-           A        40th Massachusetts              18      11
+3664    Russell, G. N.              -do-           K        35th Michigan                  111      46
+3665    Rutz, Eliza F               Teamster      E        58th Iowa                      46      44
+3666    Roughe, M. J.               -do-           F        1st Michigan                   41      41
+3667    Rouse, Joseph                -do-           C        29th Michigan                  37      84
+3668    Rousch, Jos.                -do-           B        82d Ohio                      37      141
+3669    Rowe, Jos.                  -do-           G        46th Pennsylvania             35      105
+3670    Rodgers, Lewis J.           -do-           B        38th Pennsylvania             38      82
+3671    Ranger, Fred                -do-           C        32d New Jersey                37      23
+3672    Reeder, Alfred              -do-           G        25th Indiana                36       7
+3673    Rice, Thomas                -do-           B        32d Illinois                35       6
+3674    Riel, Charles               -do-           H        12th Connecticut            63
+3675    Reader, James O             -do-           C        14th Maine                  20      130
+3676    Riley, John                 -do-           G
+3677    Row, John                  -do-           I
+
+Remarks.

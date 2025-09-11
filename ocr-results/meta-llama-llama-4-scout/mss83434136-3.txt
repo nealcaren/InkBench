@@ -1,0 +1,35 @@
+156
+
+Richmond
+
+|          Name          | 2 Girls (Ann) Commn & Taxes | Board |          Remarks          |
+|------------------------|----------------------------|-------|--------------------------|
+|     John C. Moore      |                            | 30.00 |                          |
+|   No 22 St Finny  & Miss |                            |       |                          |
+|   C. Mo. Duerson       |                            | 42.00 |                          |
+|        No 98           |                            |       |                          |
+|     C.M. Duerson       | 2 Girls 1 Boy Commn & Taxes | 22.50 | Board                    |
+|       Joseph T. Henley |                            | 40.00 |                          |
+|     Dr. J.A. Nelson    | Medical Exam               |       |                          |
+|     No 163             |                            | 10.00 |                          |
+|   Messrs. J.M. Haden & Co. |                            |       |                          |
+|    James McMurry       |                            | 24.25 |                          |
+|     Rev. H. Payne.     |                            | 60.00 |                          |
+|      E.H. Gates.       |                            | 110.00|                          |
+|      Ed. A. Bradley    |                            | 32.00 |                          |
+|     P.A. Wetmore       |                            |       |                          |
+|     No. 1632           |                            |       |                          |
+|  Apr. E.J. Autels      |                            | 16.00 |                          |
+|     E.L. Chant         | 1 Girl Commn & Taxes       | 40.00 | Board                    |
+|     Mother Amy & Children |                            |       |                          |
+|     Pollard            |                            | 30.00 |                          |
+|      R.R. Wherry       |                            |       |                          |
+|     No.163 2           |                            |       |                          |
+|  James Lawrence        |                            | 125.00|                          |
+|     Hrm. Allen         |                            |       |                          |
+|     No. 438            |                            |       |                          |
+|     G.G. McMurry       |                            | 34.00 |                          |
+|     C.G. McMurry       | 1 Woman Commn & Taxes      | 210.00| Board                    |
+|     Lt. Col. Paley     |                            | 29.00 |                          |
+| 1  Woman Kate         | Commn /Taxes               |       |                          |
+|       140             |                            | 140.00|                          |

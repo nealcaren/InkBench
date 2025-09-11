@@ -1,0 +1,28 @@
+```
+Page Number: 134
+
+Title: UNION SOLDIERS INTERRED IN
+
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA - Continued.
+
+| No. | Name.                      | Rank.          | Co.    | Regiment.                           | Date of Death | Sec. | Grave.  | Remarks. |
+|-----|----------------------------|----------------|--------|-------------------------------------|---------------|------|---------|----------|
+| 479 | Weller, A. R.              | [Empty]        | B      | 15th Kentucky Volunteers             |               | 47   | 8846    |          |
+| 766 | Wick, H.                  | Corporal       | [Empty]| 103d Illinois                        |               | 55   | 7128    |          |
+| 845 | White H, S.                | [Empty]        | I      | 59th Ohio                            |               | 47   | 7791    |          |
+|     | Wirt, Phill              | [Empty]        | F      | 1st S.C. colored troops              |               |      |         |          |
+| 1530| Williams, Ashbellmann     | [Empty]        | [Empty]| 55th Mass.                            |               | 30   | 4046    |          |
+| 1775| Willis, George Washington| [Empty]        | C      | 34th U.S. colored troops             |               | 39   | 2590    |          |
+| 1981| Wilbur, L. H.             | [Empty]        | [Empty]| 157th New York                        |               | 48   | 2923    |          |
+| 2105| Wilson, S. S.             | [Empty]        | G      | 176th New York                       |               | 50   | 2940    |          |
+| 2249| Withy, Henry              | [Empty]        | A      | 1st New York Engineers               |               | 39   | 10      |          |
+| 2293| Wolfe, I. W.              | [Empty]        | D      | 76th Ohio                             |               | 43   | 4032    |          |
+| 2310| Wright, Amasa E.          | [Empty]        | G      | 5th Vermont                          |               | 50   | 3464    |          |
+| 2497| Yates, V. V.              | [Empty]        | [Empty]| 102d U.S. colored troops              |               | 39   | 2883    |          |
+| 2530| Young, Francis M.        | [Empty]        | C      | 4th Wisconsin                         |               | 58   | 55      |          |
+| 2770| Zehle, Fred W.            | [Empty]        | [Empty]| 11th Washington                       |               | 44   | 3564    |          |
+| 2823| Willis, F. H.             | [Empty]        | K      | P, G                                 |               | 27   | 6367    |          |
+| 3075| Wilson, J. E. G.          | [Empty]        | D      | 20th Indiana                          |               | 27   | 2208    |          |
+| 3197| Wolsey, R. G.             | [Empty]        | B      | 3d South Carolina Cavalry           |               | 73   | 9520    |          |
+
+```

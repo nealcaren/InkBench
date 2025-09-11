@@ -1,0 +1,37 @@
+The image shows a page from a register of Union soldiers interred in Beaufort National Cemetery, South Carolina. Here is the transcription of the content:
+
+| No. | Name                  | Co.   | Rank         | Regiment                     | Sec. | Grave | Date of death   | Remarks          |
+|-----|-----------------------|-------|--------------|------------------------------|------|-------|-----------------|------------------|
+| 3647| Rosa, Benj.           | B     | Private      | 144th N.Y.                    | 28   | 18    |                 |                  |
+| 3648| Ring, Geo. L.         | E     | Sergeant     | 13th Indiana                  | 27   | 23    |                 |                  |
+| 3649| Rolph, Lawrence       | B     | Private      | 112th New York                | 27   | 30    |                 |                  |
+| 3650| Rutherford, Geo. R.    | C     | Corporal     | 142nd New York                | 26   | 19    |                 |                  |
+| 3651| Rickle, Nathan        | F     | Sergeant     | 47th New York                 | 26   | 17    |                 |                  |
+| 3652| Reed, Willard H.       | A     | Private      | 169th New York                 | 25   | 6     |                 |                  |
+| 3653| Ross, R. D.           |       | do.          | 20th veteran reserve corps    | 25   | 76    |                 |                  |
+| 3654| Rowe, John            | A     | do.          | 16th Connecticut              | 25   | 1     |                 |                  |
+| 3655| Riggs, Joseph         | B     | do.          | 15th Illinois cavalry          | 36   | 114   |                 |                  |
+| 3656| Riley, Patrick        | C     | do.          | 17th Wisconsin                | 37   | 57    |                 |                  |
+| 3658| Richardson, C. N.     |       |              |                              |      |       |                 |                  |
+| 3659| Robinson, Chaney      | H     | Teamster     | 31st Illinois                 | 7    | 50    |                 |                  |
+| 3660| Rice, Onesimus A.      |       |              |                              |      |       |                 |                  |
+| 3661| Robinson, Young       | G     | Private      | 17th army corps               | 20   | 113   |                 |                  |
+| 3662| Rottstein, G.         | K     | Private      | 34th U.S. colored troops       | 26   | 37    |                 |                  |
+| 3663| Ragan, Daniel         |       |              |                              |      |       |                 |                  |
+| 3664| Russell, G. N.        | G     | Sergeant     | 76th Pennsylvania             | 38   | 33    |                 |                  |
+| 3665| Rou, Eliza            |       |              |                              |      |       |                 |                  |
+| 3666| Richards, W.          | H     | Private      | 62nd Ohio                     | 11   | 21    |                 |                  |
+| 3667| Roach, Mary           |       |              |                              |      |       |                 |                  |
+| 3668| Rawson, L. F.         | E     | Private      | 40th Massachusetts           | 15   | 41    |                 |                  |
+| 3669| Rush, Jacob           |       |              |                              |      |       |                 |                  |
+| 3670| Rodgers, Lewis J.      | I     | do.          | 1st Michigan                  | 41   | 46    |                 |                  |
+| 3671| Rhodes, Geo. F.        | K     | do.          | 29th Pennsylvania             | 37   | 84    |                 |                  |
+| 3672| Reed, Alfred          |       |              |                              |      |       |                 |                  |
+| 3673| Ransom, Lewis         | D     | do.          | 82nd Ohio                     | 35   | 74    |                 |                  |
+| 3674| Rain, Thomas          |       |              |                              |      |       |                 |                  |
+| 3675| Rector, Charles O.    | C     | do.          | 46th New Jersey               | 36   | 162   |                 |                  |
+| 3676| Reader, James O.      |       |              |                              |      |       |                 |                  |
+| 3677| Righter, George W.    | G     | do.          | 23rd Illinois                 | 39   | 83    |                 |                  |
+| 3678| Riley, James          |       |              |                              |      |       |                 |                  |
+| 3679| Roughton, George      | B     | do.          | 32nd Indiana                  | 36   | 13    |                 |                  |
+| 3680| Rowe, John P.         | H     | do.          | 14th Maine                    | 36   | 130   |                 |                  |

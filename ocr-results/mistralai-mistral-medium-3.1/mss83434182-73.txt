@@ -1,0 +1,30 @@
+The image shows a page titled "Union Soldiers Interred in Beaufort National Cemetery, South Carolina—Continued." Here's the transcription of the content:
+
+```
+No.   Name                  Rank                Co.   Regiment                        Date of death   Sec.   Grave   Remarks
+---------------------------------------------------------------------------------------------------------------------------------------
+2281  Jones, Robert        Private             D     54th Massachusetts              ...             16     73
+2292  Joiner, George       do.                 F     do.                              ...             ..     ..
+2293  Johnson, Stephen     do.                 B     do.                              ...             ..     ..
+2294  Joiner, Caesar       Sergeant            B     do.                              ...             ..     ..
+2295  Jackson, Charles     Private             A     104th U.S. colored troops        ...             31     52
+2296  Jenkins, James       do.                 I     do.                              ...             ..     ..
+2297  Jenkins, Peter       do.                 E     do.                              ...             ..     ..
+2298  Jenkins, Charles     do.                 G     do.                              ...             ..     ..
+2299  Jackson, Virgil       do.                 K     103rd U.S. colored troops        ...             31     53
+2300  Jackson, Andrew      do.                 A     do.                              ...             ..     ..
+2301  Jenkins, Samuel      do.                 E     do.                              ...             ..     ..
+2302  James, Prince        do.                 G     do.                              ...             ..     ..
+2303  Jackson, Anthony     Sergeant            H     104th U.S. colored troops        ...             31     85
+2304  Jones, George W.     Private             E     7th New Hampshire               ...             27     151
+2305  Johnson, David       do.                 G     14th New York Artillery          ...             18     52
+2306  Johnson, Stiles J.   do.                 E     35th U.S. colored troops         ...             32     8
+2307  Jarrett, James       do.                 I     11th Iowa                         ...             ..     ..
+2308  Jones, David         do.                 D     9th Illinois Cavalry              ...             7      115
+2309  Johnson, Thomas      do.                 E     26th Indiana                      ...             29     98
+2310  Johnson, Thomas      do.                 H     10th New York                    ...             23     21
+2311  Jewett, John         do.                 B     6th Ohio Cavalry                  ...             16     84
+2312  Joiner, J. E.        do.                 E     141st New York Infantry           ...             27     27
+2313  Jones, Edward        do.                 F     14th Rhode Island Heavy Artillery ...             36     101
+2314  Johnson, Richard H.  do.                 H     1st Connecticut Heavy Artillery   ...             26     90
+```

@@ -1,0 +1,77 @@
+The image depicts a page from a cemetery catalog. Here's the transcription of the text as it appears in the image:
+
+```
+3074 Miller, Peter
+3075 Morgan, B.
+3076 Mason, Lewis
+3077 Morse, Wm.
+3078 Merridew, Jno.
+3080 McMeans, L.
+3081 McKean, Geo.
+3082 Metcalf, Alfred
+3083 Metcalf, David
+3084 Megathlin, Jno.
+3085 Maddox, Robt.
+3086 Meekins, Geo.
+3087 Melzer, J.
+3088 McNeill, Jno.
+3089 Morris, R. H.
+3090 Morris, Philip
+3091 Morris, W. D.
+3092 Morris, Jno.
+3093 Murrin, Fred
+3094 Murrin, Edw.
+3095 Murrin, E. P.
+3096 Millis, Chas.
+3097 Millis, Jno.
+3098 McLeod, Jno.
+3099 Martin, Andrew
+3100 Martin, Jack
+3101 Margason, C. H.
+3102 Martin, C. H.
+3103 May, James
+3104 Meggett, Steph.
+3105 McDonald, Wm.
+3106 McIver, Geo.
+3107 McIntosh, Robt.
+3108 McIntosh, Jno.
+3109 McIntosh, D.
+3110 McIntosh, C.
+3111 McInnis, J.
+3112 McInnis, F. S.
+3113 McIntyre, W.
+3114 McEveny, W.
+3115 Maloney, W.
+```
+
+```
+F 1034 U.S. colored troops
+G 97th Mate volunteers
+F 99th U.S. colored troops
+G 104th U.S. colored troops
+F 3rd R.I. heavy artillery
+G 14th R.I. colored heavy artillery
+E 5th Massachusetts colored cavalry
+A 54th Massachusetts infantry
+A 55th Massachusetts infantry
+B 5th Massachusetts colored cavalry
+D 29th Connecticut (colored) infantry
+E 8th Louisiana native guards infantry
+E 26th U.S. colored infantry
+E 28th U.S. colored infantry
+E 29th U.S. colored infantry (Organization not completed)
+E 27th U.S. colored infantry
+E 39th U.S. colored infantry (Organization not completed)
+E 31st U.S. colored infantry (Organization not completed)
+E 37th U.S. colored troops
+E 107th U.S. colored infantry
+F 108th U.S. colored infantry
+F 114th U.S. colored infantry
+F 116th U.S. colored infantry
+F 13th heavy artillery
+F 117th U.S. colored infantry
+F 118th U.S. colored infantry
+F 119th U.S. colored infantry
+F 109th U.S. colored infantry
+F 115th U.S. colored infantry
+```

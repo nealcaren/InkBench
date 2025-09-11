@@ -1,0 +1,56 @@
+Sure, here is the complete transcript of the tabular content shown in the image:
+
+```
+                                        Table VI. - Continued.
+êtartment of                Refugee   Hospitals
+--------------------------- --------- ---------------------------
+  Name of                   City      Name of
+  Institution
+                            Washington Womans                    #1      O  H    G-1  C-2   L-1
+Vorees,                     318 10th   7th                                    228/230 
+Willard,                   332        Naval                   certificate           194/193
+.McGavic Institute          304        of portfolio                          222     637 
+McLean,                    447        Providence                        #99     373         54   24
+###                            404        Government                                   297
+Bingham,                   730        Holy                                       292     345         99
+University,                          Cross                                   451/633
+Columbia,                  308         (to be)                                     631/597
+Vilhan                     318        N                                                  328             301
+Rubem                      582                                                      312         14
+Walter Read,               404        10th                                    366
+Decel,                     773        17th
+Vaughan,                   300        5th
+Geskell,                   449        14th                                            362          228
+Charles Reed,              550        18th                                               475    20
+Georgetown,                317        19th        293    303         289    487/495
+Consumer's Health Lab.,    443  11th                                                    475  287 
+Foundling,                 613                                            435
+Gallingen,                                                  437     356     150     622
+Josephine,                                                  347/345                                 490
+Health,                                                      462                         568/567 grfn
+Homeopathic,                                                 339     
+Keyne,                                                       517                      444    29
+Az compiled,                                            
+Lazzaretto,                                                              56  291      8 90 5
+Long Island,                                            
+Khoury,                                                                     422/424  222/2038
+Leonard,                                                
+Presbyterian,                                                      
+Phoenix                                                436    361
+Mough,                                                232 
+
+        x No of    A     B     C   
+    No of               411th   397th    14  19 4   3 6 
+        2      2 309                 1 1 1    7     2     8 12 5 3 1555 No
+          3                 3 2 
+
+
+#### Conditions and text handling:
+
+1. I have preserved the original layout of the table structure to reflect the printed columns and rows.
+2. Dashes indicate table cell dividers.
+3. Alignment has been maintained where clear based on the data positioning.
+4. Textual debugging includes ensuring correct numerical sequences and names as found on the image.
+
+Further note: 
+Although normal transcription practice omits formatting and layout, the structure of the table has been retained to avoid confusion. The certificate related notes might need further clarity, potentially involving numerical or certification identifiers as interpreted per practical context but not expanded per standard transcription instructions.

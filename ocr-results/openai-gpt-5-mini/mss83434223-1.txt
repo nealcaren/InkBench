@@ -1,0 +1,11 @@
+HDQR 67 USCT
+Port Hudson July 7, 1863
+
+Turn over not once all samples
+
+clearance —
+
+[vertical on tab, rotated 90°]
+D23 622 USCT
+Port Hudson
+July 7th 1863

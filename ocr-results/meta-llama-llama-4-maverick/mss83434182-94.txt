@@ -1,0 +1,39 @@
+3074	Miller, Peter	P		F	103d	U.S. colored troops	33	182	
+3075	Morgan, E.	Private	G	103d	U.S. colored troops	32	169	
+3076	Morgan, Louis		Ord. sergeant.	H	103d	U.S. colored troops	31	8	
+3077	Morgan, C. John.		2d Lieutenant.	F	103d	U.S. colored troops	30	
+3078	McLeans, Wm.	M		F	103d	U.S. colored troops	29	87	
+3079	McBride, Wm.		Ord. sergeant.	G	103d	U.S. colored troops	28	30	
+3080	Murray, E.	Private	G	103d	U.S. colored troops	27	121	
+3081	McGregory, James		Private	F	103d	U.S. colored troops	26	24	
+3082	McDonald, Stephen		Private	H	103d	U.S. colored troops	25	18	
+3083	Merlins, Jno.		Private	B	7th U.S. colored infantry	24	21	
+3084	Morton, C. Franklin		Private	F	7th U.S. colored infantry	23	9	
+3085	May, James		Private	H	7th U.S. colored infantry	22	4	
+3086	Mills, John.		Private	A	27th U.S. colored infantry	21	19	
+3087	McRonald, Franklin		Private	E	39th U.S. colored infantry	20	45	
+3088	McIntyre, Daniel.	Sergeant.	E	39th U.S. colored infantry	19	48	
+3089	More, David.	Sergeant.	D	39th U.S. colored infantry	18	40	
+3090	Morton, Edward.		Private	H	A	47th U.S. infantry	17	22	
+3091	Murphy, Wm.		Private	H	A	47th U.S. infantry	16	90	
+3092	Martin, Andrew.		Private	B	7th U.S. colored infantry	15	3	
+3093	MeMcIntyre, S.		Private	F	7th U.S. colored infantry	14	29	
+3094	Madison, Alfred.		Private	H	7th U.S. colored infantry	13	74	
+3095	McVeet, Robert.		Private	H	7th U.S. colored infantry	12	112	
+3096	McLeod, James.		Private	H	7th U.S. colored infantry	11	114	
+3097	McElroy, Jno.		Private	I	F	3d N.Y. heavy art.	10	113	
+3098	Metzler, Jno. D.		Private	C	G	43d U.S. colored troops	9	11	
+3099	Malonev, Melvin.		Private	G	C	97th Pa.	8	60	
+3100	Morris, R. Philip.		Private	Q	E	10th U.S. colored troops	7	46	
+3101	More, H. P.	Sergeant.	E	E	10th U.S. colored troops	6	53	
+3102	McErery, Wm.		Private	K	G	99th Maine volunteers	5	32	
+3103	McIntire, Daniel.		Private	H	B	99th Maine volunteers	4	20	
+3104	McKinstry, Alfred.		Private	N	H	99th Maine volunteers	3	26	
+3105	McVeety, Robert.		Private.	BB	H	99th Maine volunteers	2	92	
+3106	Meader, W.		Private.	F	P	7th U.S. colored infantry	1	33
+Beaufort N.  C., 
+"South 
+Carolina 
+Cemetery"
+
+68

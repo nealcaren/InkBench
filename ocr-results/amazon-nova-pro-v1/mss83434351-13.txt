@@ -1,0 +1,21 @@
+| # of Invoice | Amount of Invoice | Name of Invoicer | Description of Goods |  | Gross Value of Invoice if | Net Value after | Duty on Goods | Commission  | Freight & Insurance | Total Out of Pocket Cost of Invoice | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | £54000 | Mr. Thos Moore | Bales B.Dye and Blue Grass Seed |  | 186  | 21  | 5  | 5   |  | 156  |  
+| 2 | £25000 | Mr. John Moore | Iron Nuts and Bolts |  | £ 08 6d  | -  | -   | -   |  | -  |  
+| 3 | £125 | Mr. James Moore | Nuts and Bolts |  | -  | -  | -   | -   |  | -  |  
+| 4 | 16/-  | Mr. Geo Harrison | Boats Uniforms |  | £ 36 4d  | £ 17 7d  | £ 13 3d  | -   |  | £ 45 2d  |  
+| 01/05/68 | 1 | 2nd | 4/-  | 4/-  | 3rd | 210cwl 212cwt | 105/26/03 | 16   | 5/4   | 21  |  
+| 12/20/68 | 3 | 5/-  | 67/-  | 85/-  | 4 | 196cwt | 1600  | 6   | 6/6   | 10/2  |  
+| 13/11/68 | 2 | 6/-  | 290/- | 300/- | 5 | 132cwt | 1680  | 21   | 5/2   | 35/4  |  
+| 13/11/68 | 5 | 73/-  | 167/- | 290/6d| 7/4 | - | Uncleared Invoice | Uncleared Invoice | Uncleared Invoice | Uncleared Invoice  |  
+| 01/05/68 | 3 | 8/-  | 300/5d| 308/10d| 4   | 310cwl | 1636  | 26   | 6/6   | 43/8  |  
+| 04/06/68 | 26 | 83/-  | 942/10d| 2154  |  3 | 176 cwt | 1627  | 41   | 6/4   | 130/2  |  
+| 11/26/69 | 5 | 23/-  | 141/6d| 147/10d| 7/3 | 66 cwt | 1609  | 16   | 4/10  | 47/2  |  
+| 03/20/69 | 2 | 6/-  | 67/-  | 73/-  | 4 | 298 cwt | 1614  | 10   | 3/10  | 31/4  |  
+| 06/24/70 | 39 | 35/1s/04| 1153/10d|1197/4|8/4|1060 cwt| 1626 | 117  | 5/2   | 179/2  |  
+| 10/01/76 | 7/3 | 4/10 | 11/10 | 13/4 | 3 | 349 cwt | 1623 | 7    | 2/6   | 47/2  |  
+| 04/03/79 | 10/10 | 10/6  | 20/16| 25/      | 5  | Blanket Woolen | Blanket Woolen | Blanket Woolen | Blanket Woolen | Blanket Woolen  |  
+| 14/10/76 | 7 | 58/2d| 143/2   | 150/10d|2/6|Whafranka Xthafs|Whafranka Xthafs|Whafranka Xthafs|Whafranka Xthafs|Whafranka Xthafs|  
+| 14/10/76 | 8 | 20/10| 95/-     | 110/10d|2/6|Whafranka Velveta|Whafranka Velveta|Whafranka Velveta|Whafranka Velveta|Whafranka Velveta|  
+| 04/03/79 | 29 | 5/4 | 132/3d | 144/5|3/6|Gentian & Chaps|Gentian & Chaps|Gentian & Chaps|Gentian & Chaps|Gentian & Chaps|  
+| 04/03/79 | 04 | 19/4  |159.10|178/6|3/6|Albasterke Unprimed|Albasterke Unprimed|Albasterke Unprimed|Albasterke Unprimed|Albasterke Unprimed|

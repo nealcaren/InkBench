@@ -1,0 +1,55 @@
+```
+Pay Roll.
+No. 3
+
+MOBILE & OHIO RAILROAD
+
+For the current month of
+
+Jan1ry 1884.
+
+Names of Men.      How Employed.      Names of Foremen, Dept.**
+Situation.   City or Town.    Day.      Hour Duhoe-up.    promotions.**
+---------------------------------------------------------------
+[Names omitted]
+Lee & McCutchen.    Station.     "       26      13               
+Moses. "        *"            4       20            13                
+Or Ridge.      *"             27      13            13                
+ Isaac A. Mouser. *       Station     26      13            13                
+John L Seymour.       Wharf.      "       12      13            13                
+[Names omitted]
+Francis.            Wharf.       "       15      13            13                
+Joel H. Wells.       Wharf.       "       17      13            13                
+James H.Réaler.      Wharf.       "       17      13            13                
+Felix.             Wharf.       "       17      13            13                
+Francis H. Sweet    Wharf.       "       16      13            13                
+H. Postie.          Wharf.       "       16      13            13                
+[Names omitted]
+Branch Stults. *      Wharf.       "       17      13            13                
+[Names omitted]
+W. K. Crowe.        Watererr.    "       14      13            13                
+[Names omitted]
+[Names omitted]
+G. P. Conwell.       Fireman.     "       14      18            13                
+C. G. Clinton.       Fireman.     "       14      18            13                
+[Names omitted]
+Moses.              Fireman.     "       14      18            13                
+[Names omitted]
+Emmons.            Fireman.     "       14      18            13                
+[Names omitted]
+G. H. Robison.      Fireman.     "       14      18            13                
+[Names omitted]
+R. J. Northen.       Fireman.     "       14      18            13                
+[Names omitted]
+A. C. Roy.          Fireman.     "       14      18            13                
+[Names omitted]
+R. J. S.       Train.      "       16      16            18                
+---------------------------------------------------------------
+chapter `correct`.
+
+Certified and found correct.
+
+[[Certification and signature fields]]
+
+Assistant Superintendent
+```

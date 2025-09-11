@@ -1,0 +1,23 @@
+The image depicts a page from a book, specifically page 68, titled "Beaufort National Cemetery, South Carolina." The page features a table with five columns and 22 rows, listing names and corresponding numbers. The columns are separated by vertical lines, and the rows are separated by horizontal lines.
+
+Here is the transcript of the table:
+
+|   |   |   |   |   |
+| --- | --- | --- | --- | --- |
+| Miller, Peter. | 3074 | Morgan, E. | 3075 | Miller, May, James. | 3086 | Morris, C. Franklin | 3083 | Ord. sergeant. | E | 7th U.S. colored troops |
+| Morgan | 3076 | Moore, John. | 3079 | McGowan, C. | 3087 | Mayberry, J.T. | 3084 | Private | F | 3d N.Y. heavy art'y. |
+| Miller, Jno. D. | 3101 | Morris, R | 3081 | Menasco, J. Y. | 3107 | Mills, Stephen | 3085 |  |  |  |
+| Maloney, Wm. | 3113 | McEvary, W | 3114 | McVicker, Robt. | 3109 | Meador, Alfred. | 3108 |  |  |  |
+| Monroe, Wilson. | 3102 | More, Davis | 3099 | Murphy, Jed. | 3094 | Martin, Jake. | 3092 |  |  |  |
+| McLellan, James. | 3096 | Morton, Ewart. | 3095 | Murphy, Wm | 3093 | Meyer, Andw. | 3091 |  |  |  |
+| Mullins, E. | 3097 | Mullen, Whip- | 3098 | Moore, Robt. | 3100 | Metcalf, Daniel. | 3111 |  |  |  |
+| McIntyre, S. | 3112 | McIntire, David. | 3110 | Madison, Robt. | 3106 | Miller, Geo. | 3105 |  |  |  |
+| McGentry, J. | 3111 |  |  |  |  |  |  |  |  |  |
+|  | Sgt. |  | Sgt. |  | Sgt. |  | Pvt. | Ord. sergt. | 
+|   |   |   |   |   |   
+| 97th Pa. | 9th Maine | 9th N.Y. | 7th Ill. | 39th Ill. | 7th Ohio | 3d N.Y. | 157th Ill. | 10th R.I. | 103d U.S. | 103d U.S. | 
+| vol'rs | vol'rs. | vol'rs. | U.S. army | vol'rs. | vol. inf. | vol. inf. | colored troop | colored troop | colored troop | colored troop | 
+| G | H | K | B | C | F | G | H | F | G | E | 
+| 60 | 46 | 53 | 29 | 79 | 74 | 2 | 114 | 38 | 48 | 40 | 52 |
+| 32 | 10 |  | 2 | 87 | 76 |  | 111 | 45 |  | 19 | 21 |
+| 29 |  |  |  |  |  |  |  |  |  | 18 | 24 |

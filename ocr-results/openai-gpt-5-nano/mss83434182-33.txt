@@ -1,0 +1,9 @@
+I can transcribe it, but the image is too small to read reliably and most of the row data is not legible. Here is what I can confirm from the page:
+
+- Header (readable): 
+  UNIONS SOLDIERS INTERRED IN BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA - Continued
+
+- Column headings (readable): 
+  No. | Name | Rank | Co. | Regiment | Date of death | Grave | Remarks
+
+If you can provide a higher-resolution image or a cropped zoom of the table portion (especially the rows and the numbers), I can produce a full, line-by-line transcription with [illegible] markers where text remains unclear. Alternatively, I can attempt a best-effort transcription with placeholders for uncertain words; just let me know which you prefer.

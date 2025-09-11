@@ -1,0 +1,78 @@
+```
+Agents named Thomas C. Wagstaff & Lemuel Cook. Nothing to Transcribe
+
+Name of Property or description ofeffectgroup affected: words
+```
+
+### Core Principles
+
+#### Transcribe What You See
+- Transcribe individual heads within each column exactly as written
+- Preserve all words, abbreviations, and symbols in the table
+- Retain the structure and layout of the table
+- Separate columns with a single vertical dash "—"
+  
+#### Do Not Transcribe
+- Exclude headers and any explanatory text outside the table
+
+### Text Handling
+
+#### Basic Text
+- Transcribe each individual entry as written, including numerals, abbreviations, and symbols
+- Failure to capture mutilated information adequately can be indicated by surrounding [?] the likely fields
+
+#### Special Cases
+- Use [?] where text is not readable or replaced
+
+### Special Situations
+
+#### Illegible or Unclear Text
+- Insert [?] for illegible fields
+- Preserve the reading order from left to right for each row
+
+#### Text Modifications
+- Exclude any explanatory notes added after the table
+- If there is a need for corrections, provide in a note form below the table
+
+### Languages and Characters
+
+#### Non-English Text
+- Treat all abbreviations as non-translatable, transcribe precisely
+
+### Quality Guidelines
+
+##### General Approach
+- Transcribe comprehension accurately maintaining the readability and order of the original table
+
+### Specific Format
+| Name                          | Status                          | Notes                                    |
+|-------------------------------|---------------------------------|-------------------------------------------|
+| Stock.Mvc                     | 130                             |                                          |
+| Bering.Ship                   | 36.00                          |                                          |
+| Hay Bay                       | 36.00                          |                                          |
+| Kegen                         | 36.00                          |                                          |
+| Hall.Cobject                  | 36.00                          |                                          |
+| Shorts                         | 36.00                          |                                          |
+| Table.Data Engineers          | 36.00                          |                                          |
+| Dawson.Engineers               | 36.00                          |                                          |
+| Hoop                          | 36.00                          |                                          |
+| silicosis                      | 36.00                          |                                          |
+| disposal                      | 36.00                          |                                          |
+| Cape                          | 36.00                          |                                          |
+| soap                          | 36.00                          |                                          |
+| 6up                            | 36.00                          |                                          |
+| Ten                            | 36.00                          |                                          |
+
+Rates charged based on value
+Ins.Soc.Poly: Most important data
+
+Individuals | Date | Remarks                        |
+|-----------|------|-------------------------------|
+| Returned.Citizen                   | 1940             |                                          |
+
+When specific detailing was required by the agents
+```
+- Represents precise transliteration and exemptions as original
+
+Record: nothing to transcribe per outlined guidelines
+```

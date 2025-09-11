@@ -1,0 +1,39 @@
+The relevant section of the image reads as follows:
+
+| No. | Name                     | Rank         | Co.     | Regiment.                          | Date of death | Sec. | Grave | Remarks                     |
+|-----|--------------------------|--------------|---------|------------------------------------|---------------|------|-------|-----------------------------|
+| 761 | Cotton, H.               | Private      | E       | 9th Maine volunteers               |               | 20   | 12    |                             |
+| 762 | Calway, G.               |              | do.     |                                    |               |      |       |                             |
+| 763 | Cassady, C.              |              | do.     | 115th New York volunteers          |               | 21   | 40    |                             |
+| 764 | Crandall, Paul           |              | G       |                                    |               |      |       |                             |
+| 765 | Callamore, S. E.         |              | do.     | 8th Maine volunteers                |               | 19   | 116   |                             |
+| 766 | Clark, A.                | Private      | H       | 115th New York volunteers          |               | 21   | 53    |                             |
+| 767 | Clapsaddle, Charles      | Corporal     | A       |                                    |               |      |       |                             |
+| 768 | Chapman, J.              | Seaman       |         | U.S. Steamer Pawnee                 |               | 21   | 34    |                             |
+| 769 | Cramer, C.               | Private      | J       | 9th New York volunteers (Hawkins’ Zouaves) |      | 6     | 85    |                             |
+| 770 | Cramer, W. H.            | Sergeant     | B       | 9th New York volunteers            |               | 15   | 52    |                             |
+| 771 | Cantin, Augustus         | Private      | D       | 23rd Massachusetts vols.           |               | 35   | 42    |                             |
+| 772 | Crank, T.               |              | do.     |                                    |               |      |       |                             |
+| 773 | Cronk, J.               |              | A       | 176th Pennsylvania vols.           |               | 38   | 28    |                             |
+| 774 | Campbell, John           | Private      | D       | 76th New York volunteers           |               | 17   | 120   |                             |
+| 775 | Campbell, Andrew J.      |              | do.     |                                    |               |      |       |                             |
+| 776 | Colby, Daniel L.         |              | A       | 3rd New Hampshire vols.            |               | 17   | 47    |                             |
+| 777 | Carter, William          |              | do.     |                                    |               |      |       |                             |
+| 778 | Caban, William           |              |         | 3rd New Hampshire vols.            |               | 17   | 46    |                             |
+| 779 | Carter, David            | 2nd mate     |         | Schooner Anna                      |               | 17   | 29    |                             |
+| 780 | Cogan, John              | Private      | B       | 54th Massachusetts vols.           |               | 16   | 129   |                             |
+| 781 | Cooper, Thomas F.        |              | do.     |                                    |               |      |       |                             |
+| 782 | Claybourne, Achy         | Corporal     | G       |                                    |               | 15   | 21    |                             |
+| 783 | Curtis, John             | Private      | D       | 55th Massachusetts vols.           |               | 37   | 3     |                             |
+| 784 | Curtis, Franklin          |              | do.     |                                    |               |      |       |                             |
+| 785 | Cratin, August           |              | H       | 3rd U.S. colored troops             |               | 30   | 90    |                             |
+| 786 | Campbell, Frank          |              | I       |                                    |               |      |       |                             |
+| 787 | Cowens, York             |              | K       | 33rd (1st S.C.) U.S. colored troops |               | 30   | 127   |                             |
+| 788 | Cowman, William          |              | B       |                                    |               |      |       |                             |
+| 789 | Cammeda, William         |              | I       | 34th (2nd S.C.) volunteers          |               | 29   | 117   |                             |
+| 790 | Cannell, Mazarine        |              |         |                                    |               |      |       |                             |
+| 791 | Cooner, Henry            |              | E       | 128th U.S. colored troops           |               | 32   | 142   |                             |
+| 792 | Cannahan, Amos           |              | do.     |                                    |               |      |       |                             |
+| 793 | Christophor, John        |              |         |                                    |               |      |       |                             |
+| 794 | Coburn, Gay              |              | H       | 128th U.S. colored troops           |               | 32   | 180   |                             |
+| 795 | Curtis, John             |              | B       | 104th U.S. colored troops           |               | 31   | 84    |                             |

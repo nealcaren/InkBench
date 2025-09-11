@@ -1,0 +1,33 @@
+I’m happy to transcribe this, but the image is rotated and much of the table text is not clearly legible at this resolution. Here is a best-effort transcription of what is readable, with unreadable portions marked. If you can share a higher‑resolution crop (or a correctly oriented scan), I can fill in the gaps precisely.
+
+Transcription (best effort)
+
+- Header (as it appears)
+  NATCHEZ NATIONAL CEMETERY, MISSISSIPPI — Continued
+  156 UNION SOLDIERS INTERRED IN
+
+- Table structure (readable portions; column headers left-to-right as they appear in the image)
+  Columns (approximate, left to right): No. | Name | Rank | Co. | Regiment | Date of death | Sec. | Grave | Original place of burial
+
+- Entries (readable portions with placeholders for illegible parts)
+  3035 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3036 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3037 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3038 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3039 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3040 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3041 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3042 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3043 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3044 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3045 | Unknown | [?] | [?] | [?] | [?] | [?] | [?] | Original place of burial: Natchez, Mississippi
+  3046 | William J. | Private | Co. ? | Regiment ? | Apr. 1865 | Sec. ? | Grave ? | Original place of burial: Natchez, Mississippi
+  3047 | James W. | Private | Co. ? | Regiment ? | Apr. 1865 | Sec. ? | Grave ? | Original place of burial: Natchez, Mississippi
+  3048 | Elias W. | Private | Co. ? | Regiment ? | Apr. 1865 | Sec. ? | Grave ? | Original place of burial: Natchez, Mississippi
+
+Notes
+- The exact names, ranks, companies, regiments, death dates, sec numbers, grave numbers, and original burial places are largely illegible in the provided image. I have marked these with [?] where unreadable.
+- The header and column headings have been transcribed as clearly as possible from the image.
+- If you can provide a higher-resolution version or a crop focused on the table (and oriented upright), I can deliver a precise, line-by-line transcription with all values filled in.
+
+Would you like me to try to enhance the image or accept a cropped, higher-res version to improve legibility?

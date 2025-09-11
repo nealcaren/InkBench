@@ -1,0 +1,90 @@
+3089 Morgan, Lewis.
+3090 Morgan, Sutler.
+3091 McFarland, Anson.
+3092 McFarland, Daniel.
+3093 McLaughlin, John.
+3094 Mahoney, WM.
+3095 Mallory, W.D.
+3096 Morris, Alvin.
+3097 Morris, Chas.
+3098 Morris, J.T.
+3099 Moore, Richard.
+3100 Neil, Samuel.
+3101 McCloud, Fouke.
+3102 McManns, J.
+3103 Marquis, Lieut.
+3104 Miller, Geo.
+3105 Morris, Patrick.
+3106 Moore, W.
+3107 Morris, C.H.
+3108 Montgomery, John.
+3109 Munson, Wilflred.
+3110 Mahaney, Melvin.
+3111 McMall, Edward.
+3112 Murray, Melville.
+3113 Hull, Franklin.
+3114 Hull, Boston.
+
+3086 Simser, Robert.
+3087 Simmer, Ward.
+3088 Allen, T.
+3089 Alton, J.
+3090 Talbot, Chester.
+3091 Allen, W.
+3092 Allen, A.
+3093 Van Zandt,
+3094 Hall, F.
+3095 Camp, Frank.
+3096 Cole, E. M.
+3097 Miller, J.
+3098 Miller, John.
+3099 Stuart, Darwin.
+3100 Underwood, B.
+3101 Roy, Aaron.
+3102 Marron, H.
+3103 Butler, Simon.
+3104 Miner, D.
+3105 Smith, William.
+3106 Smith, Ira F.
+3107 Hart, Robt.
+3108 Smith, J.
+3109 Smith, Henry.
+3110 Smith, John.
+3111 Smith, Murlin.
+3112 Smith, Thomas.
+3113 Wilson, B.
+3114 Moon, R.
+
+3079 St. James, Asa.
+3080 Swafford, T.
+3081 Sanderson, W.
+3082 Ritter, John.
+3083 Grier, S.
+3084 Rockafellow, Jay.
+3085 Smith, L.
+
+F 7th U. S. colored troops.
+G 15th U. S. colored troops.
+H 36th U. S. colored troops.
+I 37th U. S. colored troops.
+J 38th U. S. colored troops.
+K 39th U. S. colored troops.
+L 43d U. S. infantry.
+M 56th U. S. infantry.
+N 47th Ohio.
+O 24th U. S. infantry.
+P 25th U. S. infantry.
+Q 27th U. S. infantry.
+R 28th U. S. infantry.
+S 36th U. S. infantry.
+T 39th U. S. infantry.
+U 40th U. S. infantry.
+V 43d U. S. infantry.
+W 52d U. S. colored troops.
+X 37th U. S. colored troops.
+Y 54th Massachusetts.
+Z 7th U. S. infantry.
+
+Sergeant.
+Sergeant.
+Private.

@@ -1,0 +1,42 @@
+**Table Transcript**
+
+(The table appears to be a record of financial transactions or account details. Due to the handwritten nature and potential ambiguity, some entries are best guesses.)
+
+| Date | No. | Description | To Whom | Qty | Price | Amount |
+|---|---|---|---|---|---|---|
+| 1878 |  |  |  |  |  |  |
+| Oct. 21st | 257 |  |  |  |  |  |
+| Nov. 15th | 258 |  |  |  |  |  |
+| Dec. 9th | 259 |  |  |  |  |  |
+| 1879 |  |  |  |  |  |  |
+| Jan. 4th | 260 |  |  |  |  |  |
+| Feb. 11th | 261 |  |  |  |  |  |
+| Mar. 12th | 262 |  |  |  |  |  |
+| Apr. 5th | 263 |  |  |  |  |  |
+| May 19th | 264 |  |  |  |  |  |
+| June 28th | 265 |  |  |  |  |  |
+| July 20th | 266 |  |  |  |  |  |
+| Aug. 15th | 267 |  |  |  |  |  |
+| Sept. 8th | 268 |  |  |  |  |  |
+| Oct. 27th | 269 |  |  |  |  |  |
+| Nov 16th | 270 |  |  |  |  |  |
+| Dec. 14th | 271 |  |  |  |  |  |
+| 1880 |  |  |  |  |  |  |
+| Jan. 12th | 272 |  |  | 26 |  | 17.96 |
+| Feb. 8th | 273 |  |  | 52 |  | 27.50 |
+| Mar. 25th | 274 |  |  | 2 |  | 1.00 |
+| Apr. 19th | 275 |  |  | 3 |  | 1.50 |
+| May 15th | 276 |  |  | 24 |  | 15.00 |
+| June 17th | 277 |  |  | 40 |  | 20.00 |
+| July 10th | 278 |  |  | 32 |  | 16.00 |
+| Aug. 14th | 279 |  |  | 16 |  | 8.00 |
+| Sept. 29th | 280 |  |  | 48|  | 24.00 |
+| Oct. 23rd | 281 |  |  |36| | 18.00 |
+| Nov. 11th | 282 |  |  | 30 |  | 15.00 |
+| Dec. 10th | 283 |  |  | 60 |  | 30.00 |
+| January 8th | 284 |  |  | 64 |  | 32.00 |
+| February 5th |  |  |  |  | |  |
+| March 12th |  |  |  |  | |  |
+| April 11th |  |  |  |  | |  |
+
+**Note**: Without further context, it's difficult to discern the precise nature of the “Description” and “To Whom” columns. The columns marked "Qty", "Price", and "Amount" suggest these relate to financial transactions, likely involving goods or services.

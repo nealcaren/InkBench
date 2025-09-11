@@ -1,0 +1,36 @@
+The image shows a page from a register of Union Soldiers interred in Beaufort National Cemetery, South Carolina. Here is the transcription of the visible details:
+
+| No.  | Name                     | Co. | Rank | Regiment                    | Date of death | Sec. | Grave | Remarks             |
+|------|--------------------------|-----|------|-----------------------------|---------------|------|-------|---------------------|
+| 4179 | Scot, C. D.              | D   |      | 92d Illinois                |               | 7    | 92    |                     |
+| 4180 | Sheridan, John            | H   |      | 69th New York               |               | 25   | 81    |                     |
+| 4181 | Sherod, Charles          | B   |      | 9th Indiana cavalry         |               | 8    | 58    |                     |
+| 4182 | Sinley, Charles          | L   |      | 9th Michigan cavalry        |               | 8    | 55    |                     |
+| 4183 | Singleton, Charles        | K   |      | 103d U.S. colored troops     |               | 30   | 61    |                     |
+| 4184 | Small, Samuel             | F   |      | 103d U.S. colored troops     |               |      |       |                     |
+| 4185 | Strickland, Wayne         | E   |      | 33d U.S. colored troops      |               | 31   | 18    |                     |
+| 4186 | Smith, William            | F   |      | 33d U.S. colored troops      |               | 31   | 19    |                     |
+| 4187 | Simonds, Mingo           | D   |      | 103d U.S. colored troops     |               | 31   | 164   |                     |
+| 4189 | Sneering, Andrew          | B   |      | 103d U.S. colored troops     |               | 31   | 14    |                     |
+| 4190 | Stevens, James            |     |      | 7th United States infantry  |               | 35   | 23    |                     |
+| 4191 | Seaman, A.               |     |      | 7th Connecticut             |               | 19   | 57    |                     |
+| 4192 | Stewart, S. H.            |     |      | 3d Rhode Island heavy arty. |               | 19   | 23    |                     |
+| 4193 | Sorrel, Thomas            |     |      | 7th United States infantry  |               | 19   | 47    |                     |
+| 4194 | Shay, Thomas              |     |      | 7th United States infantry  |               | 15   | 33    |                     |
+| 4195 | Scott, Samuel             |     |      | 7th United States infantry  |               | 2    | 27    |                     |
+| 4196 | Sullivan, Daniel          |     |      | 7th United States infantry  |               | 10   | 26    |                     |
+| 4197 | Smoger, Charles           |     |      | 7th United States infantry  |               | 68   | 33    |                     |
+| 4198 | Snyder, Fred              |     |      | 161st New York              |               | 2    | 32    |                     |
+| 4199 | Seifert, B.               |     |      | 161st New York              |               | 36   | 38    |                     |
+| 4200 | Schmiel, Nick             |     |      | 161st New York              |               | 35   | 61    |                     |
+| 4201 | Sickel, Henry              |     |      | 48th Illinois               |               | 35   | 61    |                     |
+| 4202 | Smith, Henry              |     |      | 11th Illinois               |               | 3    | 27    |                     |
+| 4203 | Smith, A. B.              |     |      | 2d Lieutenant               |               | 13   | 26    |                     |
+| 4204 | Shuman, Henry             |     |      | 76th Ohio                   |               | 7    | 3     |                     |
+| 4205 | Shirod, J. B.             |     |      | 7th United States infantry  |               | 17   | 12    |                     |
+| 4206 | Smith, John B.            |     |      | 48th Ohio                   |               | 36   | 161   |                     |
+| 4207 | Strobie, James            |     |      | 33d New Jersey              |               | 38   | 172   |                     |
+| 4210 | Sacks, J.                 |     |      | 142d Pennsylvania           |               | 35   | 61    |                     |
+| 4211 | Simmons, James            |     |      | 7th Connecticut             |               | 29   | 1     |                     |
+| 4212 | Spires, William           |     |      | 7th Connecticut             |               |      |       |                     |
+| 4213 | Sullivan, Richard         |     |      | 113th Ohio                  |               |      |       |                     |

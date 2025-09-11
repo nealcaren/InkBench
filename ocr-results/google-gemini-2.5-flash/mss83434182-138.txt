@@ -1,0 +1,43 @@
+NATIONAL CEMETERY, SOUTH CAROLINA. 133
+
+4746 Webster, George . . . . . . . . . . . . . . . . . . . . . . C 75th New York . . . . . . . . . . . . 27 47
+4747 Walten, Robert. . . . . . . . . . . . . . . . . . . . . . . C 14th New Hampshire... . . . . . . . . 17 67
+4748 Withers, William . . . . . . . . . . . . . . . . . . . . . . C 75th New York . . . . . . . . . . . . 27 45
+4749 Wate, Isaac. . . . . . . . . . . . . . . . . . . . . . . Gov't clerk. . . . . . . . . . C 14th Maine . . . . . . . . . . . . . 25 77
+4750 Webster, Samuel J. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C 28th Iowa . . . . . . . . . . . . . 26 27
+4751 Whittier, James . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C 153d New York . . . . . . . . . . . . 19 25
+4752 Williams, Charles B. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C 153d New York . . . . . . . . . . . . 19 96
+4753 West, Lyman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B 175th New York . . . . . . . . . . . . 27 131
+4754 Wye, Edward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B 175th New York . . . . . . . . . . . . 27 180
+4755 Williams, C. L. . . . . . . . . . . . . . . . . . . . . . . Captain. . . . . . . . . . . C 13th Kentucky . . . . . . . . . . . . 3 14
+4756 Williams, J . . . . . . . . . . . . . . . . . . . . . . . . Lieutenant. . . . . . . . . C 16th Connecticut . . . . . . . . . . . 6 11
+4757 Waters, John M. . . . . . . . . . . . . . . . . . . . . . . Seaman . . . . . . . . . . . C Steamer_Rettel . . . . . . . . . . . . 3 109
+4758 White, C. L. . . . . . . . . . . . . . . . . . . . . . . . Sergeant. . . . . . . . . . . F 31st New York . . . . . . . . . . . . 27 183
+4759 White, W. J. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . G 103d U. S. colored troops. . . . . . . . . 31 184
+4760 Wise, C. M. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A 103d U.S. colored troops . . . . . . . . . 31 186
+4761 Williams, Sylvester . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . I 103d U. S. colored troops. . . . . . . . . 31 169
+4762 Walker, George . . . . . . . . . . . . . . . . . . . . . . . Sergeant. . . . . . . . . . . B 103d U. S. colored troops. . . . . . . . . 31 180
+4763 Wade, James . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . H 103d U. S. colored troops. . . . . . . . . 31 169
+4764 Walse, Benjamin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . H 103d U. S. colored troops. . . . . . . . . 31 
+4765 Williams, Daniel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A 103d U. S. colored troops. . . . . . . . . 31 183
+4766 Welser, Adam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B 103d U. S. colored troops. . . . . . . . . 31 184
+4767 Waters, Thomas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . K 103d U. S. colored troops. . . . . . . . . 31 169
+4768 Wiggins, John L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A 103d U. S. colored troops. . . . . . . . . 31 
+4769 Wilkerson, J . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . I 103d U. S. colored troops. . . . . . . . . 31 169
+4770 Wilford, Robert . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B 103d U. S. colored troops. . . . . . . . . 31 169
+4771 Wail, John . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F 39th United States Infantry. . . . . . . . . 12 8
+4772 Webber, John R. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . H 21st Michigan . . . . . . . . . . . . . 9 31
+4773 Warren, Alonso . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . D 1st Michigan . . . . . . . . . . . . . . 41 115
+4774 Williams, John C. . . . . . . . . . . . . . . . . . . . . . . Captain. . . . . . . . . . . F 7th United States Infantry . . . . . . . . 3 17
+4775 White, Frederick . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . F 7th United States Infantry . . . . . . . . 3 16
+4776 Williams, A. J. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A 3d Kentucky cavalry . . . . . . . . . . . 2 33
+4777 Whitfield, Tyler . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . A 27th Ohio - battery . . . . . . . . . . . 10 
+4778 Walker, J. R. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 
+4779 W- W- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 107
+4780 Whorton, J . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 24
+4781 Wisner, E. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 40
+4782 Webner, Frederick . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B 113th Ohio . . . . . . . . . . . . . . 5 
+4783 Woodley, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+4784 Williams, Aaron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+4785 Williams, Stephen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . B 152d Pennsylvania . . . . . . . . . . . . 25
+4786 Whitney, A. R. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . H 1st New York dragoons . . . . . . . . . 88

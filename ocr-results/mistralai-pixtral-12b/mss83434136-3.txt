@@ -1,0 +1,50 @@
+```
+156
+
+Richmond
+
+John C. Moore    184.22.53       Henry & Moore
+C. McAulay       185.12.40       Joseph T. Henley
+P.H. Nicklin & Co. 168.10.00       J.A. Hadden & Co.
+Geo. C. Royal    16.15.00       E.J. DeRussy
+E.H. Gates       110.00.00       C.C. Sibley
+E.S. Bradshaw    110.00.00       Pollard
+E. Shephard      187.22.53       Tinney & Moore
+James Lawrence   125.00.00       G.C. McKinney
+John Allen       138.24.00       E.C. McKinney
+E.J. DeRussy     108.10.00       L.M. Dance
+
+2. Geo. C. Royal and Son
+Commission & Forward
+Annapolis
+3. Tinney & Moore
+Commission & Forward
+Annapolis
+4. J.A. Hadden & Co.
+Manufacturers
+Commission & Forward
+Annapolis
+5. E.J. DeRussy
+Commission & Forward
+Annapolis
+6. C.C. Sibley
+Manufacturers
+Commission & Forward
+Annapolis
+7. Pollard
+Manufacturers
+Commission & Forward
+Annapolis
+8. G.C. McKinney
+Manufacturers
+Commission & Forward
+Annapolis
+9. E.C. McKinney
+Manufacturers
+Commission & Forward
+Annapolis
+10. L.M. Dance
+Manufacturers
+Commission & Forward
+Annapolis
+```

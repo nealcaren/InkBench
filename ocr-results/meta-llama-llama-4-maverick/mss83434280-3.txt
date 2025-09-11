@@ -1,0 +1,19 @@
+ENLISTED.
+
+NAME:                  John Frank
+
+| ENLISTED |
+WHEN. | TERM. | RATING. |
+| 1863 | One year | Ord |
+
+CITY, TOWN, OR
+COUNTY. | DATE. | AGE. | OCCUPATION. | EYES. | HAIR. | COMPLEX-
+ION. | HEIGHT.
+|  | 22 |  |  |  |  | Feet. | Inches.
+N. York |  | | Brd. Make | Negro. | 5 | 4 1/2
+
+WHERE BORN AND PERSONAL DESCRIPTION.
+
+[In the margin]
+5 4 1/2
+The height is written twice, once in the designated field and again in the margin.

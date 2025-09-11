@@ -1,0 +1,36 @@
+# 134
+
+## BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA—CONFIRMED.
+
+### UNION SOLDIERS INTERRED IN
+
+| No. | Name | Rank | Co. | Regiment | Date of Death | Cause of Death | Sec. | Grave. | Remarks |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | White, A. R. | Corporal | 51 | 1st Illinois Infantry | 12-31-63 | Wound recruited | 34 | 982 |  |
+| 2 | Wilson, J. S. | Sergeant | 44 | 7th Ohio Infantry | 10-15-62 | Scarlet fever | 33 | 977 |  |
+| 3 | Williams, E. W. | Private | 57 | 10th Illinois Infantry | -- | Scarlet fever | 33 | 978 |  |
+| 4 | Hills, A.B. | Corporal | 41 | 9th Illinois Infantry | 3-9-62 | Scarlet fever | 33 | 978 |  |
+| 5 | Evans, H. | Private | 6 | 7th Ohio Infantry | 5-17-61 | Scarlet fever | 33 | 978 |  |
+| 6 | Weed, C. L. | Private | 58 | 33d Ohio Infantry | 1-10-62 | Scarlet fever | 33 | 978 |  |
+| 7 | McPherson, W. M. | Corporal | 10 | 5th Ohio Infantry | 2-21-62 | Scarlet fever | 33 | 978 |  |
+| 8 | Murray, A. | Corporal | 12 | 9th Illinois Infantry | 7-7-63 | Scarlet fever | 33 | 978 |  |
+| 9 | Watson, P. C. | Private | 25 | 9th Illinois Infantry | 1-1-62 | Scarlet fever | 33 | 978 |  |
+| 10 | Arnold, S. C. | Corporal | 20 | 3d Michigan Infantry | 10-5-63 | Scarlet fever | 33 | 978 |  |
+| 11 | White, A. R. | Corporal | 51 | 9th Ohio Infantry | 12-31-63 | Wound recruited | 34 | 982 |  |
+| 12 | Williams, E. W. | Private | 44 | 10th Illinois Infantry | -- | Scarlet fever | 33 | 978 |  |
+| 13 | Evans, H. | Private | 6 | 7th Ohio Infantry | 5-17-61 | Scarlet fever | 33 | 978 |  |
+| 14 | Weed, C. L. | Private | 58 | 33d Ohio Infantry | 1-10-62 | Scarlet fever | 33 | 978 |  |
+| 15 | McPherson, W. M. | Corporal | 10 | 5th Ohio Infantry | 2-21-62 | Scarlet fever | 33 | 978 |  |
+| 16 | Murray, A. | Corporal | 12 | 9th Illinois Infantry | 7-7-63 | Scarlet fever | 33 | 978 |  |
+| 17 | Watson, P. C. | Private | 25 | 9th Illinois Infantry | 1-1-62 | Scarlet fever | 33 | 978 |  |
+| 18 | Arnold, S. C. | Corporal | 20 | 3d Michigan Infantry | 10-5-63 | Scarlet fever | 33 | 978 |  |
+
+-date of death:
+  - Date of death is irrevocable
+  - Omitted where not known at time of application for interment
+
+- cause of death:
+  - Omitted where not known
+
+- remarks:
+  - Remarks omitted where not applicable or not necessary

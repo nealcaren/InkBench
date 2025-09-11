@@ -1,0 +1,86 @@
+**BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA**
+
+| Number | Name                | Rank          | Company | Regiment/Unit                          | Burial Section |
+|--------|---------------------|---------------|---------|----------------------------------------|----------------|
+| 3074   | Miller, Peter       |               |         | 103d U.S. colored troops                | F              |
+| 3075   | Morgan, E.          |               |         | 103d U.S. colored troops                | G              |
+| 3076   | Mason, Lewis        |               |         | 103d U.S. colored troops                | G              |
+| 3077   | Murry, Robert       |               |         | 103d U.S. colored troops                | C              |
+| 3078   | McBride, Wm.        |               |         | 334th U.S. colored troops               | F              |
+| 3079   | Morse, Wm.          |               |         | 10th Illinois heavy artillery           | H              |
+| 3080   | McMeans, J.         |               |         | 3d Rhode Island heavy artillery         | F              |
+| 3081   | Morgan, C. B.       |               |         | 15th New York                           | D              |
+| 3082   | Magadorn, John      |               |         |                                        | F              |
+| 3083   | Morris, C. H.       | Ord. sergeant |         |                                        | H              |
+| 3084   | Margrison, Franklin | 2d lieutenant |         |                                        | F              |
+| 3085   | May, James          | Private       |         |                                        | H              |
+| 3086   | Millis, Con.        |               |         | 7th U.S. infantry                       | 2              |
+| 3087   | Marillins, James    |               |         | 7th U.S. infantry                       | 2              |
+| 3088   | Meagles, Edward     |               |         | 7th U.S. infantry                       | 2              |
+| 3089   | McGregor, Chas.     |               |         | 7th U.S. infantry                       | 2              |
+| 3090   | Macgregory, Chas.   |               |         | 7th U.S. infantry                       | 2              |
+| 3091   | Martin, Jack        |               |         | 7th U.S. infantry                       | 3              |
+| 3092   | Mayer, Andrew       |               |         | 7th U.S. infantry                       | 3              |
+| 3093   | McLean, Fred        |               |         | 7th U.S. infantry                       | 5              |
+| 3094   | Murphy, Wm.         |               |         | 7th U.S. infantry                       | 2              |
+| 3095   | Murphy, Jeff        |               |         | 7th U.S. infantry                       | 2              |
+| 3096   | Morrin, Edward      | Sergeant      | A       | 47th Ohio                               | 9              |
+| 3097   | Morton, E. P.       |               |         | 27th Massachusetts                      | 9              |
+| 3098   | Mullins, W.         |               |         | 113th Illinois                          | 15             |
+| 3099   | More, David         | Philip        |         | 139th New York                          | 7              |
+| 3100   | Morris, Philip      |               |         | 72d Ohio                                | 12             |
+| 3101   | Morris, R. H.       |               |         | 7th U.S. infantry                       | 9              |
+| 3102   | Morris, Nelson      |               |         | 7th Tennessee                           | 9              |
+| 3103   | Maloney, W. D.      |               |         | 34th U.S. colored troops                | 2              |
+| 3104   | Miller, John        |               |         | 99th U.S. colored troops                | 29             |
+| 3105   | Metzler, C.         |               |         | 107th Ohio volunteer infantry           | 9              |
+| 3106   | Menshawer, J.       |               |         | 43d New York                            | 5              |
+| 3107   | McLeod, Geo.        |               |         | 107th Ohio volunteer infantry           | 67             |
+| 3108   | McVear, Robt.       | Sergeant      | B       | 99th U.S. colored troops                | 62             |
+| 3109   | Madison, Alfred     |               |         | 7th U.S. infantry                       | 1              |
+| 3110   | Metcalf, Daniel     |               |         | 7th U.S. infantry                       | 57             |
+| 3111   | McIntire, F. S.     |               |         | 9th Maine volunteers                    | 32             |
+| 3112   | Munney, Willington  |               |         | 9th Maine volunteers                    | 20             |
+| 3113   | McEnurey, Melvin    |               |         | 9th Maine volunteers                    | 20             |
+| 3114   | Maloney, W.         |               |         | 97th Pennsylvania                       | 10             |
+
+| Burial Section | Grave Number |
+|----------------|---------------|
+| F              | 31            |
+| G              | 182           |
+| F              | 7             |
+| H              | 169           |
+| F              | 20            |
+| H              | 27            |
+| F              | 57            |
+| H              | 20            |
+| F              | 24            |
+| H              | 15            |
+| F              | 21            |
+| H              | 4             |
+| F              | 9             |
+| H              | 5             |
+| 2              | 2             |
+| 2              | 2             |
+| 2              | 4             |
+| 2              | 3             |
+| 3              | 3             |
+| 3              | 19            |
+| 5              | 20            |
+| 2              | 52            |
+| 2              | 40            |
+| 9              | 48            |
+| 9              | 45            |
+| 15             | 7             |
+| 7              | 113           |
+| 12             | 9             |
+| 9              | 9             |
+| 2              | 2             |
+| 29             | 114           |
+| 9              | 38            |
+| 57             | 92            |
+| 32             | 53            |
+| 20             | 46            |
+| 20             | 10            |
+
+Page Number: 69

@@ -1,0 +1,15 @@
+Below is the complete transcript of the form:
+
+---
+
+| NAME              | ENLISTED                           | WHERE BORN AND PERSONAL DESCRIPTION                                 |
+|-------------------|-------------------------------------|--------------------------------------------------------------------|
+|                   | WHEN  | TERM  | RATING  | CITY, TOWN, CO.      | DATE | AGE | OCCUPATION | EYES | HAIR | COMPLEXION | HEIGHT             |
+|                   |       |       |         |                      |      |     |            |      |      |            | Feet     Inches    |
+| John Frank        | 1863  | One Ord.         | 7 ord. year | Sea N. York |  | 22 year | Sailed | Black |                  | 5  4 1/2 |
+
+**Note**: The terms "One Ord." and "7 ord. year" are interpreted as abbreviations for "One Ordinary" and "7 year ord.," respectively, based on an informed guess as the document is not entirely clear.
+
+---
+
+The remainder of the paper appears to be blank or has faint unreadable text.

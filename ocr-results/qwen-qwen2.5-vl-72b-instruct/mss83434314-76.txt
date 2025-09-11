@@ -1,0 +1,34 @@
+The provided image is a blank form titled "MUSTER ROLL," specifically Form No. 13, used for recording details of soldiers in a company of a regiment in the United States Army. Below is the complete transcription of the form's structure and instructions:
+
+---
+
+**FORM NO. 13.**
+
+**MUSTER ROLL of Captain ______, Company ______ of the ______ Regiment of ______, United States Army, (Colonel ______,) from the ______ day of _______, 186__, when last mustered, to the ______ day of _______, 186__.**
+
+---
+
+**PAY ROLL of the Company from the ______ day of _______, 186__, when last paid, to the ______ day of _______, 186__.**
+
+---
+
+**NAMES. Present and absent. (Privates in alphabetical order.)**
+
+| No. | NAMES. | RANK | JOINED FOR SERVICE AND ENROLLED AT GENERAL RENDEZVOUS. | MUSTERED INTO SERVICE. | LAST PAID. (See note 6.) | NAMES. Present. |
+|-----|--------|------|---------------------------------------------------------|------------------------|--------------------------|------------------|
+|     |        |      | When. Where. By whom. Period.                           | When. Where. By whom.  | By Pay master. To what time. |                  |
+
+---
+
+**NOTES.**
+
+1. All officers and soldiers are to be taken up on the rolls as soon as assigned to the company by competent authority, whether they have yet joined, or not, and to be dropped, when similarly transferred from it.
+2. Under the head of REMARKS, the date when any assignment takes effect, the No., date, &c., of orders assigning an officer or soldier to join, whether originally or from any absence; the date of an officer's assuming, or being relieved from command; the nature and commencement of any extra, or daily duty, on which officers or soldiers may be; all changes of rank, by promotion, appointment, or reduction, with date of same, and No., date, &c., of order; all authorized stoppages, fines, &c., with No., date, &c., of order; in case of absence, the nature and commencement of same, (to be repeated on every roll, while it lasts;) if wounded in battle, or in action, the place and date thereof, with the effect, &c., &c., must be carefully stated opposite to the name of the person concerned; and everything else necessary, either to account fully for every individual of the company, or to guide the paymaster, or insure justice to the soldier and to the United States.
+
+---
+
+**REMARKS.**
+
+---
+
+The form includes columns for recording the names, ranks, dates of joining service, enrollment details, muster information, payment status, and remarks for each soldier. The right side of the form is designated for the PAY ROLL, detailing financial transactions related to the soldiers' service.

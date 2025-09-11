@@ -1,0 +1,62 @@
+### Transcription of the Image
+
+#### Header:
+**MUSTER ROLL of Captain ______, Company (—), of the ______ Regiment of ______, United States Army, (Colonel ______), from the ______ day of ______, 186—, to the ______ day of ______, 186—.**
+
+**PAY ROLL of the Company from the ______ day of ______, 186—, to the ______ day of ______, 186—.**
+
+---
+
+### Table Structure
+
+#### Left Section: Details of Enlistment and Service
+
+| No. | NAMES. Present and absent. (Privates in alphabetical order.) | RANK. | JOINED FOR SERVICE AND ENROLLED AT GENERAL RENDEZVOUS. | MUSTRERED INTO SERVICE. | LAST PAID. (See note 6.) | NAMES. Present. |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | When. Where. By whom. Period. | When. Where. By whom. | By Paymaster. To what time. |  |  |  |
+
+#### Middle Section: Remarks
+
+**NOTES.**
+
+1. All officers and soldiers are to be taken up on the rolls, so soon as assigned to the company by competent authority, whether they have yet joined, or not; and to be dropped, when similarly transferred from it.
+2. Under the head of REMARKS, the date when any assignment takes effect, the No., date, &c., of order therefor; the date of any officer or soldier's joining, whether originally from any absence, the date of an officer's assuming, being relieved from any rank or special command, extra, or duty on which officers or soldiers may be; all changes of rank by promotion, appointment, or reduction, with date of same, and No., date, &c., of order; all authorized stoppages, fines, sentences, with No., date, &c., of order, and period assigned for same, (to be repeated on every roll, while it lasts); if wounded in battle, or injured on duty—if sick, or confined, a remark to that effect, &c., &c., must be carefully stated opposite to the name of the person concerned, with everything else necessary, either to account fully for every individual of the company, to guide the paymaster, or insure justice to the soldier and to the United States.
+
+---
+
+#### Right Section: Payroll Details
+
+|  | Period post. |  |  |  |  |  |  | Balance pay. |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| WITNESS. |  |  |  |  |  |  |  |  |  |  |
+| RECEIVED PAYMENT OF— |  |  |  |  |  |  |  |  |  |  |
+
+---
+
+### Columns for Payroll Details
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dlys. |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+#### Payroll Section Columns:
+- **Pay roll.**
+- **Amount of pay.**
+- **Retained & pen.**
+- **Matcmts.**
+- **Clothing.**
+- **Forage.**
+- **Subsistence.**
+- **40 cents per day, use of horse and harness.**
+- **Total due.**
+- **Amount of stoppages.**
+- **Balance paid.**
+
+#### Additional Instructions
+**REMARKS.**
+

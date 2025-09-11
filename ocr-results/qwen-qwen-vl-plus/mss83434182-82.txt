@@ -1,0 +1,47 @@
+Here is the complete transcript of the provided image:
+
+```
+2620 Larabie, Charles M.    Private    E    8th Maine    19    139
+2621 Littlefield, David M.  do    do    D    do    19    121
+2622 Lord, Tobias          do    do    B    8th Maine    19    113
+2623 Legran, Daniel S.     do    do    do    19    143
+2624 Lambert, Charles      C    6th Connecticut    36    44
+2625 Lander, James        do    do    E    11th New York    36    41
+2626 Landers, Wm          do    do    F    7th Connecticut    36    37
+2627 Lobdell, Richard     do    do    I    1st New York engineers    36    36
+2628 Locks, Wm           do    do    G    49th New York    15    86
+2629 Lewis, Francis       do    do    H    14th New York    32    23
+2630 Lord, Wm            do    do    I    12th New York    35    179
+2631 Lewis, Geo. A.       do    do    J    15th New York    36    196
+2632 Lynch, Mathias       do    do    K    12th Indiana    36    32
+2633 Lewis, Rockwell      do    do    L    13th Connecticut    36    36
+2634 Lewis, Jno. P.       do    do    M    54th New York    26    84
+2635 LesSage, Lewis       do    do    N    do    24    44
+2636 Lance, Jacob A.      do    do    O    29th Yeoman Reserve Corps    8    69
+2637 Lewis, David        do    do    P    53rd Indiana    8    63
+2638 Libb, Jacob         do    do    Q    12th Indiana    9    42
+2639 Libb, Ashley        do    do    R    107th Ohio    11    107
+2640 Libb, Wm            do    do    S    6th Missouri    30    96
+2641 Lindell, John       Corporal    T    15th Connecticut    31    100
+2642 Lewis, Smart        Corporal    U    do    33rd U.S. colored troops    30    96
+2643 Locke, Jonathan     Corporal    V    do    102d U.S. colored troops    31    100
+2644 Luck, F.            Corporal    W    do    do    30    14
+2645 Lewis, S. D.        Corporal    X    do    do    30    14
+2646 Leverer, J.         Corporal    Y    do    do    30    14
+2647 Laph, B. J.         Corporal    Z    do    do    30    14
+2648 Lovery, D.          Corporal    A    do    do    30    14
+2649 Looney, John        Corporal    B    do    do    30    14
+2650 Leverett, C.        Private    C    4th Virginia    30    14
+2651 Jenkens, J. A.      Private    D    26th Virginia    30    14
+2652 Leitch, J. W.       Private    E    29th Connecticut    30    14
+2653 Lane, J. H.        Private    F    30th Ohio    9    53
+2654 Lampman, Linman     Private    G    29th Ohio    9    53
+2655 Long, Jas. H.      Private    H    58th Indiana    5    33
+2656 Lane, Samuel       Private    I    21st Indiana    27    106
+2657 Leach, A. B.       Private    J    141st New York    23    51
+2658 Liles, G.          Private    K    1st New York    23    106
+2659 Lloyd, Adam        Private    L    1st Alabama cavalry    23    51
+2660 Lane, Wm          Private    M    do    do    23    51
+```
+
+This transcript captures all the names, ranks, units, and corresponding numbers as they appear in the image.

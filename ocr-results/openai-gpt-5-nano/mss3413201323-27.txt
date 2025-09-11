@@ -1,0 +1,5 @@
+I can do a full transcription, but the current image is too low-resolution to read reliably in many places. I don’t want to guess and introduce errors.
+
+Would you like me to:
+- attempt a best-effort transcription with [illegible] markers for uncertain words, or
+- wait for a higher-resolution scan (or a sharper crop) of the page and then transcribe it completely?

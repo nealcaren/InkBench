@@ -1,0 +1,38 @@
+**NATCHEZ NATIONAL CEMETERY, MISSISSIPPI**
+
+**UNION SOLDIERS INTERRED IN**
+
+| No. | Name                | Rank      | Co. | Regiment                          | Date of death   | Sec. | Grave. | Original place of burial.          |
+|-----|---------------------|-----------|-----|-----------------------------------|-----------------|------|--------|-----------------------------------|
+| 1   | Atkinson, John H.   | Private   | K   | 95th Illinois infantry             | Aug. 24, 1863   | 1    | 71     | Natchez, Mississippi              |
+| 2   | Astings, Troy       | Private   | G   | 4th Illinois cavalry               | Oct. 31         | 15   | 49     | Washington, Mississippi           |
+| 3   | Anderson, Henry     | Private   | I   | 58th U.S. colored infantry         |                 | 15   | 149    | Vidalia, Louisiana                |
+| 4   | Allen, Daniel       | Sergeant  | F   | 5th United States artillery        | May 23, 1864    | 15   | 244    | Natchez, Mississippi              |
+| 5   | Beebe, Charles A.   | Private   | A   | 12th Wisconsin infantry            | Apr. 29, 1864   | 1    | 20     | Do.                               |
+| 6   | Brown, D.           | Private   | H   | 12th Wisconsin infantry            | Oct. 1, 1863    | 1    | 26     | Do.                               |
+| 7   | Blanehand, W. W.    | Private   | K   | 12th Wisconsin infantry            | Oct. 24, 1863   | 1    | 28     | Do.                               |
+| 8   | B——, S.             |           |     |                                   | Sept. 26, 1863  | 1    | 48     | Do.                               |
+| 9   | Baltzell, J. L.     |           |     | 76th Illinois infantry             | Oct. 27, 1863   | 1    | 54     | Do.                               |
+| 10  | Bush, William F.    |           |     | 76th Illinois volunteers           | Oct. 27, 1863   | 1    | 67     | Do.                               |
+| 11  | Broken, Henry A.    |           |     | 4th Illinois cavalry               | Aug. 18, 1864   | 1    | 80     | Do.                               |
+| 12  | Burwell, W. J.      |           |     | 15th Illinois cavalry              | Oct. 14, 1863   | 1    | 82     | Do.                               |
+| 13  | Biggs, Paul         |           |     | 46th Illinois infantry             | Dec. 7, 1863    | 1    | 86     | Do.                               |
+| 14  | Bates, John         |           |     | 2d Illinois artillery              | Dec. 19, 1863   | 1    | 87     | Do.                               |
+| 15  | Brahm, August       |           |     | 15th Illinois infantry             | Oct. 27, 1863   | 1    | 98     | Do.                               |
+| 16  | Balzell, W.         |           |     | 76th Illinois infantry             | Nov. 14, 1863   | 1    | 107    | Do.                               |
+| 17  | Bennington, T.      |           |     | 15th Ohio artillery                | Dec. 13, 1863   | 1    | 113    | Do.                               |
+| 18  | Boyd, William E.    | Private   | I   | 2d —— artillery                    |                 | 2    | 21     | Do.                               |
+| 19  | Bettos, A.          |           |     | 29th Illinois infantry             | Feb. 10, 1864   | 3    | 36     | Do.                               |
+| 20  | Becktol, J.         |           |     | 12th Wisconsin infantry            | Feb. 25, 1864   | 3    | 43     | Do.                               |
+| 21  | Bringat, John       |           |     | 47th Pennsylvania                  | Feb. 14, 1864   | 3    | 94     | Do.                               |
+| 22  | Broker, H.          |           |     | 35th Wisconsin infantry            | Jan. 24, 1864   | 3    | 98     | Do.                               |
+| 23  | Brokett, W. P.      |           |     | U.S. iron clad Tennessee           |                 | 4    | 16     | Do.                               |
+| 24  | Brown, Edward       |           |     | 4th Illinois cavalry               | June 27, 1863   | 5    | 45     | Plantation, Louisiana             |
+| 25  | Brewer, Henry       |           |     | 66th U.S. colored infantry         | Aug. 13, 1867   | 7    | 72     | Meadville, Mississippi            |
+| 26  | Blake, J.           | Private   | L   | 20th Illinois infantry             | Nov. 20, 1865   | 7    | 74     | Vidalia, Louisiana                |
+| 27  | Boughton, Edgar     | Sergeant  | K   | 70th U.S. colored infantry         |                 | 14   | 174    | Natchez, Mississippi              |
+| 28  | Benton, Lucius      |           |     |                                   |                 | 14   | 8      | Do.                               |
+| 29  | Brady, George       |           | I   |                                   |                 | 14   | 64     | Do.                               |
+| 30  | Burke, George       |           |     |                                   |                 | 15   | 134    | Do.                               |
+| 31  | Black, Benjamin     | Private   | E   | 58th U.S. colored infantry         | Sept. 1, 1863   |      |        |                                   |
+| 32  | Bardlett, James     |           |     |                                   |                 |      |        |                                   |

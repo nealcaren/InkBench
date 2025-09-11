@@ -1,0 +1,67 @@
+```
+142    UNION SOLDIERS INTERRED IN
+
+                                 Original place of burial
+                                Natchez, Mississippi.
+                                                                                  
+ No.   Sec. (Grave)                                         
+  1      71               49               149     
+  2      15               15               15  
+  3      14               24               244  
+  4      20               20               27  
+  5      483              67               64  
+  6      686              1                107  
+  7      3                74               244  
+  8      29               43               48  
+  9      178              14               14   
+  10     134                                            
+
+                         NATCHEZ NATIONAL CEMETERY, MISSISSIPPI
+                                                                                  
+ Date of death.                                             
+     Aug. 31, 1863     Apr. 24, 1864     Apr. 28, 1864  
+     Sept. 3, 1864     Sept. 24, 1864     Oct. 27, 1864  
+     Dec. 7, 1863      Dec. 10, 1864     Dec. 13, 1864  
+     Feb. 21, 1864     Feb. 28, 1864     June 27, 1865  
+     Nov. 29, 1865     Sept. 7, 1863  
+                                                                                  
+                         Regiment                                 
+  35th Illinois infantry     15th U.S. Colored cavalry        
+  1st U.S. Colored infantry  4th Wisconsin infantry           
+  31st Illinois infantry      70th Illinois volunteers         
+  47th Illinois infantry      46th Illinois infantry          
+  11th Ohio infantry          
+  33rd Illinois infantry      51st Pennsylvania infantry    
+  4th U.S. colored cavalry    60th U.S. colored infantry     
+                                                                                  
+     Co.              Rank.                                      
+     K                 Private                                         
+     I                 Private                                         
+     F                 Sergeant                                       
+     A                 Private                                         
+     D                 Private                                         
+     H                 Private                                         
+     K                 Private                                         
+     I                 Private                                         
+     G                 Private                                         
+     D                 Private                                         
+     A                 Private                                         
+     A                 Private                                         
+                                                                                  
+ Name.                                       
+  Atkinson, John H.        
+  Trivett, Jerry            
+  Anderson, Henry        
+  Allen, Daniel           
+  Briscoe, Charles A.  
+  Bensel, W.W.            
+  Blazko, J.L.            
+  Bell, Henry J.           
+  Begg, John A.            
+  Bandy, William E.         
+  Brook, Edward          
+  Brook, John            
+  Butler, George          
+  Clark, George W.         
+  Bradley, Thomas          
+```

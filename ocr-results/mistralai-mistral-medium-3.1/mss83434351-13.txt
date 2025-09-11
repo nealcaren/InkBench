@@ -1,0 +1,80 @@
+No.
+|
+1
+| 1818 | Oct 30 | 25 | 2 | 10 | 1/2 | 1/2 | 29 1/2
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 2 | 1818 | Nov 16 | 23 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 3 | 1819 | Jan 25 | 28 | 2 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 4 | 1819 | Feb 1 | 27 | 3 | 1 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 5 | 1819 | Feb 18 | 17 | 2 | 10 | 1/2 | 1/2 | 20 |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 6 | 1819 | Mar 15 | 24 | 3 | 10 | 1/2 | 1/2 | 29 |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 7 | 1819 | Apr 12 | 27 | 3 | 10 | 1/2 | 1/2 | 32 |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 8 | 1819 | May 10 | 28 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 9 | 1819 | May 31 | 21 | 2 | 10 | 1/2 | 1/2 | 25 |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 10 | 1819 | Jun 28 | 28 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 11 | 1819 | Jul 26 | 28 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 12 | 1819 | Aug 23 | 28 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 13 | 1819 | Sep 20 | 28 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| 14 | 1819 | Oct 18 | 28 | 3 | 10 |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+
+No. of Shares | Names
+--- | ---
+1 | Ralph Thornton
+1 | Aaron Hate
+1 | Harlon Hate
+1 | Court Uniform
+1 | Nathaniel Seaton Esqr.
+1 | Founders Court
+
+|   |   |
+|---|---|
+| 13 1/2 | Henry Hate |
+| 1 | John Lloyd |
+| 1 | James Norris |
+| 1 | William Norris |
+| 1 | Edmund Shear |
+| 1 | Edmund Rees Esqr. |
+| 1 | David Jenkins |
+| 1 | Henry Morgans Esqr. |
+| 1 | Henry Morgans Jr. Esqr. |
+| 1 | Henry Davies |
+| 1 | Great Court |
+| 1 | Boston Meyrick Esqr. |
+| 1 | Boston Meyrick Junr. |
+| 1 | Blanket Weston |
+| 1 | John Phillips & Son |
+| 1 | Mansel Llewelyn Esqr. |
+| 1 | Benjamin Lloyd |
+| 1 | Founders Court Junior |

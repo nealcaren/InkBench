@@ -1,0 +1,48 @@
+**Richmond**
+
+| Name                | Amount | Description                          | Commission & Taxes | Board | Total |
+|---------------------|--------|--------------------------------------|--------------------|-------|-------|
+| John C. Moore       | 184    | 2 Girls Ellen and Ann                | 375                | 30    | 405   | 1,595.00 |
+|                     | 22     |                                      |                    |       |       |          |
+|                     | 23     | Finney & Miss.                       |                    |       |       |          |
+| C.M. Duerson        | 198    | Joseph J. Henley                     |                    |       |       |          |
+|                     | 133    |                                      |                    |       |       |          |
+|                     |        | Boy Henry                            | 2250               |       |       |          |
+|                     |        | Commission & Taxes                   | 168.75             |       |       |          |
+|                     |        | Board                                | 75                 | 243.75| 2,006.25 |
+| P.A. Webster & Co.  | 168    | J.M. Haden & Co.                     |                    |       |       |          |
+|                     | 133    |                                      |                    |       |       |          |
+|                     |        | Man Allan                            | 5500               |       |       |          |
+|                     |        | Commission & Taxes                   | 412.50             |       |       |          |
+|                     |        | Board                                | 60                 | 472.50| 5,027.50 |
+| Wm. H. Payne        | 143    | E.J. Duval                           |                    |       |       |          |
+|                     | 16     |                                      |                    |       |       |          |
+|                     |        | Boy Tom                              | 4550               |       |       |          |
+|                     |        | Commission & Taxes                   | 341.25             |       |       |          |
+|                     |        | Board                                | 341.25             |       | 4,208.75 |
+| E.H. Gates          | 110    | E.L. Grant                           |                    |       |       |          |
+|                     | 23     |                                      |                    |       |       |          |
+|                     |        | Girl Maria                           | 4000               |       |       |          |
+|                     |        | Commission & Taxes                   | 300                |       |       |          |
+|                     |        | Board                                | 300                |       | 3,700.00 |
+| Ed N. Bradley       | 321    | Pollard                              |                    |       |       |          |
+|                     | 160    |                                      |                    |       |       |          |
+|                     |        | Woman Amy & 2 Children               | 4100               |       |       |          |
+|                     |        | Commission & Taxes                   | 307.50             |       |       |          |
+|                     |        | Board & Medical Exam                 | 205                | 512.50| 3,587.50 |
+| R.C. Wherry         | 168    | Finney & Miss.                       |                    |       |       |          |
+|                     | 23     |                                      |                    |       |       |          |
+|                     |        | Girl Laura                           | 2800               |       |       |          |
+|                     |        | Commission & Taxes                   | 210                |       |       |          |
+|                     |        | Board                                | 15                 | 225   | 2,575.00 |
+| James Lawrence      | 125    | C.G. McMurry                         |                    |       |       |          |
+|                     | 142    |                                      |                    |       |       |          |
+|                     |        | Woman Jane & 2 Children              | 4000               |       |       |          |
+|                     |        | Commission & Taxes                   | 300                |       |       |          |
+|                     |        | Board                                | 30                 | 330   | 3,670.00 |
+| Wm. Allen           | 138    | C.G. McMurry                         |                    |       |       |          |
+|                     | 24     |                                      |                    |       |       |          |
+|                     | 208    | D. McDaniel                          |                    |       |       |          |
+|                     |        | Girl Patsy                           | 2900               |       |       |          |
+|                     |        | Woman Rose                           | 1950               |       |       |          |
+|                     |        | Commission & Taxes                   | 365.75             |       |       |          |

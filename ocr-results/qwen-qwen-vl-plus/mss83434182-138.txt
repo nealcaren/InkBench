@@ -1,0 +1,47 @@
+Here is the complete transcript of the provided image:
+
+```
+4746 Webster, George..............C..........75th New York..............27
+4747 Walton, Robert..............C..........14th New Hampshire........47
+4748 Wharton, William............C..........75th New York..............27
+4749 Ware, Isaac..................C..........14th Maine.................45
+4750 Whisker, Samuel J...........C..........Gov't clerk................47
+4751 Whittier, Charles B.........C..........1321 New York.............25
+4752 West, L......................C..........1321 New York.............96
+4753 West, T......................C..........1321 New York.............27
+4754 West, Edward.................D..........1294 New York.............20
+4755 West, Edward.................D..........1294 New York.............131
+4756 Walker, William J............C..........Captain..................27
+4757 Williams, C. L..............C..........18th Kentucky.............3
+4758 Williams, John M............C..........Lieutenant.................6
+4759 White, W. J..................C..........16th Connecticut...........11
+4760 Wise, C. M...................E..........1141st New York...........27
+4761 Williams, Sylvester..........F..........33d U. S. colored troops....1069
+4762 Walker, George...............G..........1084 U. S. colored troops....27
+4763 Wade, James..................B..........33d U. S. colored troops....20
+4764 Wallace, Benjamin............B..........180
+4765 Williams, Daniel............Sergeant......33d U. S. colored troops....3
+4766 Webster, Adam...............A..........31
+4767 Whales, Thomas..............A..........186
+4768 Williams, Jim L.............F..........1084 U. S. colored troops....31
+4769 Wilford, Robert.............F..........1084 U. S. colored troops....169
+4770 Walsh, John..................F..........45th United States infantry..31
+4771 Walsh, John R...............F..........7th United States infantry..12
+4772 Webster, Alonzo.............H..........33d U. S. colored troops....8
+4773 Warren, John C..............H..........21st Michigan...............2
+4774 Williams, C. L.............H..........1st Michigan...............31
+4775 White, C. L..................H..........1st Kentucky cavalry.......175
+4776 Warnerer, Frederick........H..........7th United States infantry..41
+4777 Walker, J. R...............H..........1084 U. S. colored troops....16
+4778 Whittfield, Tyler...........H..........7th Ohio..................10
+4779 W.........................W..........29th Michigan...............33
+4780 Worlton, J..................F..........13th Michigan...............41
+4781 Wisner, E...................B..........13th Michigan...............107
+4782 Wisner, Frederick...........B..........41
+4783 Whitney, Aaron..............A..........13th Michigan...............5
+4784 Williams, Stephen..........B..........1st New York dragoons........40
+4785 Whitlow, A..................H..........153d Pennsylvania...........25
+4786 Whitlow, A. R...............H..........1st New York dragoons........89
+```
+
+This transcript captures all the text present in the image, including the names, ranks, units, and numbers associated with each individual.

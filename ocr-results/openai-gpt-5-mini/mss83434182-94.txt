@@ -1,0 +1,45 @@
+3074  Miller, Peter ................................ 103d U. S. colored troops  E  131
+3075  Morgan, Jas. ................................ 103d U. S. colored troops  C  189
+3076  Murray, Robt. ............................... 103d U. S. colored troops  G  160
+3077  Murphy, T. .................................. 103d U. S. colored troops  F  87
+3078  Mace, Wm. ................................... 33d U. S. colored troops   D  27
+3079  Moreau, Jno. ................................. 31st U. S. colored troops   F  92
+3080  Morgan, Wm. ................................ 31st U. S. colored troops   B  29
+3081  Morgan, Jno. ................................. 31st U. S. colored troops   H  21
+3082  Morgan, C. H. ............................... 31st U. S. colored troops   A  18
+3083  Morriss, O. Jno. ............................ 31st U. S. colored troops   I  15
+3084  Morris, Jno. ................................ 31st U. S. colored troops   D  13
+3085  Morris, O. H. ............................... 31st U. S. colored troops   C  12
+3086  Morris, Jas. ................................. 31st U. S. colored troops   G  10
+3087  May, Jno. Stephen ........................... 31st U. S. colored troops   E  8
+3088  Mills, Con. ................................ 1st S. C. colored infantry  2d lieutenant  5
+3089  McGregor, Chas. ............................. 1st S. C. colored infantry  Private  2
+3090  McKay, Edw'd. ............................... 1st S. C. colored infantry  Private  3
+3091  Marst, Jack ................................. 1st S. C. colored infantry  Private  9
+3092  Martin, Jno. W. ............................. 1st S. C. colored infantry  Private  14
+3093  Murphy, Fred ............................... 1st S. C. colored infantry  Private  15
+3094  Murphy, Jef ................................. 1st S. C. colored infantry  Private  21
+3095  Morton, Thos. ............................... 1st S. C. colored infantry  Private  22
+3096  Morton, David ............................... 1st S. C. colored infantry  Private  23
+3097  More, J. H. ................................ 1st S. C. colored infantry  Private  24
+3098  More, D. P. ................................ 1st S. C. colored infantry  Private  25
+3099  Molineux, Wm. .............................. 1st S. C. colored infantry  Private  26
+3100  Morris, P. F. ............................... 7th U. S. infantry         A  21
+3101  Morris, H. W. .............................. 7th U. S. infantry         B  20
+3102  Miloney, W. D. ............................. 7th U. S. infantry         C  19
+3103  Milroy, C. J. .............................. 7th U. S. infantry         D  18
+3104  Melder, C. J. .............................. 7th U. S. infantry         E  17
+3105  McLeod, Geo. ............................... 7th U. S. infantry         F  16
+3106  McIvor, Alfred ............................. 7th U. S. infantry         G  15
+3107  McClendon, W. S. ........................... 7th U. S. infantry         H  14
+3108  McIntyre, Milton ........................... 7th U. S. infantry         I  13
+3109  McElroy, Wm. ............................... 9th Maine volunteers      H  11
+3110  Mahoney, Melvin ............................ 9th Maine volunteers      G  10
+3111  Mahoney, Wm. ............................... 97th Pennsylvania volunteers F  9
+
+[Table totals at bottom of columns]
+60  37  20  10  46  52  44  51  30  29  27  25  22  21  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA. 69
+
+(Note: Dots indicate column separators as in the original table.)

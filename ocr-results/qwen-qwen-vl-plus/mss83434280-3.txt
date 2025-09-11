@@ -1,0 +1,6 @@
+NAME.
+ENLISTED.
+WHERE BORN AND PERSONAL DESCRIPTION.
+WHEN. | TERM. | RATING. | CITY, TOWN, OR COUNTY. | DATE. | AGE. | OCCUPATION. | EYES. | HAIR. | COMPLEXION. | HEIGHT. | Feet. | Inches.
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+John Frank | 1863 | one year Sea | N.York | 22 | Brush | Negro | 5'4" |

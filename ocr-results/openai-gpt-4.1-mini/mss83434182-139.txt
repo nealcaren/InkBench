@@ -1,0 +1,28 @@
+134       UNION SOLDIERS INTERRED IN
+
+----------------------------------------------------------------------------------------------------------------------
+| No.   | Name                    | Rank.    | Co.   | Regiment.                       | Date of death. | Sec. | Grave. | Remarks. |
+----------------------------------------------------------------------------------------------------------------------
+| 4787  | White, A. R.             |          | D     | 12th Kennedy cavalry            |                | 23   | 58    |          |
+| 4788  | Walben, J. J.            |          | M     | 16th Illinois                  |                | 7    | 84    |          |
+| 4789  | Wiley, Elias             |          | G     | 34th U. S. colored troops      |                | 29   | 129   |          |
+| 4790  | Williams, Harmon W.      |          | D     | Virginia aug. corps.            |                | 10   | 67    |          |
+| 4791  | Whitmore, E.             |          | H     | 75th Ohio                     |                | 16   | 75    |          |
+| 4792  | White, L. C.             |          | E     | 54th Massachusetts             |                | 10   | 109   |          |
+| 4793  | Williams, John           |          | D     | 12th Ohio                    |                |      |       |          |
+| 4794  | Wilson, Alexander        |          | E     | 24th U. S. colored troops      |                | 32   | 91    |          |
+| 4795  | Williams, Washington     |          | E     | 24th Florida cavalry          |                | 20   | 25    |          |
+| 4796  | Williamson, Arthur       |          | I     | 99th U. S. colored troops      |                | 20   | 48    |          |
+| 4797  | Ware, Wilbert            |          | E     | 9th Maine                     |                | 20   | 81    |          |
+| 4798  | Williamson, Jerry        |          | I     | 9th Maine                     |                |      |       |          |
+| 4799  | Wooten, William A.       |          | I     | 91st Pennsylvania              |                | 37   | 64    |          |
+| 4800  | Wilson, Henry T.         |          | K     | 97th Pennsylvania              |                |      |       |          |
+| 4801  | Wilson, William          |          | G     | 97th Pennsylvania              |                | 37   | 62    |          |
+| 4802  | Wooldridge, J. C.        |          | H     | 4th Tennessee                 |                | 23   | 10    |          |
+| 4803  | Wright, J.               |          | G     | U. S. Penna.                   |                | 6    | 28    |          |
+| 4804  | Wright, J. C.            |          | H     | 24th U. S. colored troops      |                | 7    | 9     |          |
+| 4805  | Wright, J. V.            | Corporal | H     | 24th U. S. colored troops      |                | 30   | 143   |          |
+| 4806  | Wreight, W. J.           |          | E     | 48th New York                 |                | 12   | 41    |          |
+| 4807  | Wadkins, J. J.           | Corporal | F     | 25th New York cavalry          |                |      |       |          |
+| 4808  | Walston, J. R.           | Lieutenant| F    | 51st Indiana                 |                |      |       |          |
+----------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,310 @@
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA.
+69
+2074 Miller, Peter
+2075 Morgan, E................. G
+2076 Murry, Lewis............ E
+2077 Murry, Robt............... F
+2078 Mason, Lewis............ E
+2079 McBride, W. M........... G
+2080 Morse, Wm................. C
+2081 Marlellus, Franklin..... H
+2082 Morgan, C................ F
+2083 Marrilies, James........ D
+2084 Mills, Con................... A
+2085 Mills, W. D................ H
+2086 Morton, E. P.............. F
+2087 Morton, David........... G
+2088 Marilies, F. S............. E
+2089 Martin, Jack.............. E
+2090 Meagles, Edwd........... G
+2091 Martin, Jack.............. E
+2092 Morris, P. H............... G
+2093 Morris, R. H............... G
+2094 Monroe, Nelson.......... E
+2095 Maloney, W.D.......... G
+2096 Morgan, C............. F
+2097 Murphy, Jeff.............. G
+2098 Murphy, War.............. F
+2099 Maclean, Fred ........ E
+3000 Margeston, Franklin.. G
+3001 Morgan, C. John......... F
+3002 Magadorn, C. John..... H
+3003 McBride, W. m......... G
+3004 Morse, Wm. ............... C
+3005 Marilies, James... ........ D
+3006 Mills, Con................ A
+3007 Mills, W. D.......... H
+3008 Morton, E. P.............. F
+3009 Morton, David............ G
+3010 Marilies, F. S..... E
+3011 Martin, Jack............. E
+3012 Meagles, Edwd........ G
+3013 Martin, Jack.............. E
+3014 Morris, P. H.............. G
+3015 Morris, R. H............... G
+3016 Monroe, Nelson......... E
+3017 Maloney, W.D......... G
+3018 McBurney, Milton .... F
+3019 McBurney, Melvin... G
+3020 Miller, Jno.............. F
+3021 Meszies, C................ H
+3022 Meushower, J........... G
+3023 McLeod, Geo............. F
+3024 McVicar, Robt.......... E
+3025 McLeod, Geo............. H
+3026 McVean, Robt............ G
+3027 Martin, Robt............. F
+3028 Morris, David........... G
+3029 Marilies, W. D.......... E
+3030 Mills, Con.................. H
+3031 Morton, E. P.............. F
+3032 Morton, David............ G
+3033 Marilies, F. S............. E
+3034 Martin, Jack.............. E
+3035 Meagles, Edwd........ G
+3036 Morris, P. H............... G
+3037 Madison, Daniel ........ F
+3038 Metcalf, G. F............. E
+3039 McInire, F. S............. G
+3040 Maloney, Wilington... F
+3041 McKinsey, Washington.. G
+3042 McBurney, Melvin..... H
+3043 Maloney, W. .............. G
+3044 Miller, Jno............... F
+3045 Moore, Nelson.......... E
+3046 Margeston, Frankin G
+3047 Morgan, C... H
+3048 McBride, W. m........... G
+3049 Morse, Wm................. C
+3050 Marilies, James ........ D
+3051 Mills, Con.................. A
+3052 Mills, W. D................ H
+3053 Morton, E. P.............. F
+3054 Morton, David............ G
+3055 Marilies, F. S............. E
+3056 Martin, Jack.............. E
+3057 Meagles, Edwd........ G
+3058 Morris, P. H............... G
+3059 Morris, R. H............... G
+3060 Monroe, Nelson......... E
+3061 Maloney, W. D........ G
+3062 Morgan, C................ F
+3063 Murphy, Jeff............ G
+3064 Murphy, War............. F
+3065 McBride, W. M......... G
+3066 Morse, Wm................. C
+3057 Marilies, James........ D
+3058 Mills, Con.................. A
+32 39th New York......... 12 45
+33 113th Illinois........... 9 52
+35 New York............... 2 9
+37 79th Ohio................ 2 14
+38 Tennessee............... 2 53
+39 34th U. S. colored troops. 9 114
+40 43d Illinois.............. 23 97
+41 3d New York............ 7 67
+43 7th U. S. infantry ..... 26 5
+45 7th U. S. infantry ..... 5 7
+46 7th U. S. infantry ..... 5 5
+47 47th Ohio................ 2 40
+49 27th Massachusetts..... 2 40
+50 103d U. S. colored troops. 2 59
+51 157th New York........ 6 7
+52 14th U. S. infantry .... 27 19
+63 107th Ohio volunteer infantry 9 20
+67 7th Ohio volunteer infantry 2 21
+71 7th U. S. Infantry..... 2 10
+74 U. S. Infantry.......... 1 21
+99 5th U. S. Infantry..... 40 53
+113 9th U. S. Infantry ...... 7 46
+114 90th U. S. colored troops. 9 5
+169 9th Maine volunteers..... 20 98
+182 9th Maine Volunteers... 1 67
+190 97th Pennsylvania..... 31 89
+27 57
+19 89
+8 40
+9 10
+9 4
+2 13
+2 2
+2 2
+2 2
+2 12
+9 23
+2 5
+5 23
+9 39
+4 114
+2 97
+2 67
+2 5
+2 5
+2 40
+2 40
+2 50
+6 7
+27 19
+9 20
+2 10
+1 21
+2 53
+9 46
+20 10
+37 60
+H.  Sergeant
+E.  Sergeant
+F.  Sergeant
+G.  Sergeant
+F.  Sergeant
+G.  Sergeant
+E.  Sergeant
+F.  Sergeant
+G.  Sergeant
+Ord. sergeant.
+2d lieutenant.
+Private.
+Ord. sergeant.
+H.  27th Ohio.
+K.  39th New York.
+H.. Maine Volunteers
+F. K.  9th Maine volunteer
+G. K. 90th U. S. colored troops.
+F.  9th U. S. infantry.
+G.  97th Pennsylvania.
+E.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+E.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+E.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+E.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+E.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+E.  7th U. S. infantry.
+F.  7th U. S. infantry.
+G.  7th U. S. infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E.  7th U. S. Infantry.
+F.  7th U. S. Infantry.
+G.  7th U. S. Infantry.
+E. F. G. F. G. F. G. E. F. G. F. G. E. F. G. F. G. E.
+
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E.
+F.
+G.
+F.
+G.
+E. 

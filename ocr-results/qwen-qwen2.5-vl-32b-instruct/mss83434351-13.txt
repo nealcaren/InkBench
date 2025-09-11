@@ -1,0 +1,49 @@
+### Transcription of the Table
+
+The table appears to be a financial or inventory ledger with handwritten entries. Below is a transcription of the visible text in the table:
+
+---
+
+#### **Header Section**
+| Column 1 (Leftmost) | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 | Column 8 | Column 9 | Column 10 | Column 11 | Column 12 | Column 13 |
+|---------------------|----------|----------|----------|----------|----------|----------|----------|----------|-----------|-----------|-----------|-----------|
+| **Mr. Nelson** | **Mr. Bradley** | **Dr. Adams** | **Mr. Smith** | **Mr. Johnson** | **Mrs. Brown** | **Ms. White** | **Mr. Davis** | **Mr. Wilson** | **Mr. Taylor** | **Mrs. Harris** | **Ms. Clark** | **Total** |
+
+#### **Body of the Table (Rows with Entries)**
+1. **Row 1**
+   | **Item** | **110 19 23 38** | **6 120** | **13 15 24 40** | **1 32 38 14 30 5 26 100 16 16 18** | **Notes** |
+   |----------|------------------|-----------|------------------|-------------------------------------|----------|
+   | Flax      |                  |           |                  |                                     |          |
+
+2. **Row 2**
+   | **Item** | **1 68 6 2 8** | **4** | **16** | **2 3** | **2 5** | **8 3 23 38 11 30 3 4** | **9 8 8 8 8** | **33** | **1 2 9** | **2 3** | **2 6** | **3** |
+   |----------|----------------|-------|--------|---------|---------|-------------------------|-------------|-------|-----------|--------|--------|------|
+   | Lux      |                |       |        |         |         |                         |             |       |           |        |        |      |
+
+3. **Row 3**
+   | **Item** | **1.66 67** | **02** | **16** | **21** | **3** | **5 11** | **10 126 16** | **31** | **2** | **3** | **8 2 110 128 16** | **81 66 80** |
+   |----------|-------------|--------|--------|--------|-------|----------|---------------|--------|-------|-------|-----------------|------------|
+   | Jelly    |             |        |        |        |       |          |               |        |       |       |                 |            |
+
+4. **Row 4**
+   | **Item** | **Wars 0 6 7 6 6** | **1.66 6 7 6 6** | **1 8** | **112** | **2 43 21 6 12 92 14** | **2 66 30** | **21** | **3** | **82** | **6 11 11 128 16** | **81 66 80** | **81 66 89** |
+   |----------|--------------------|-----------------|---------|---------|-------------------------|-------------|--------|--------|---------|-----------------|-------------|--------------|
+   | Felt     |                    |                 |         |         |                         |             |        |        |         |                 |             |              |
+
+#### **Label at the Top Right**
+- **Text:** "Excess of Revenue over Income" (partially visible)
+
+#### **Label at the Bottom Right**
+- **Text:** "Total Due at Fritz 161689" (partially visible)
+
+---
+
+### Notes:
+1. The table is structured into 13 columns, with some rows containing numerical data and descriptions.
+2. The columns seem to list individuals or categories, while the rows contain specific items or measurements.
+3. There are some partially filled rows and blank cells.
+4. Numerical entries appear in a somewhat irregular format, suggesting they may represent monetary amounts, measurements, or other data types.
+5. The header section seems to indicate different parties or persons involved in the transactions or measurements.
+6. The handwriting is consistent across the table.
+
+If further clarification or context is needed, please let me know!

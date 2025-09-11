@@ -1,0 +1,65 @@
+242  THIRTIETH REGIMENT INFANTRY, U.S.C.T., MD. VOL.--COMPANY C.
+
+NAME.               | RANK.         | DATE OF ENLISTMENT OR MUSTER IN. | DATE OF MUSTER OUT OR DISCHARGE. | REMARKS.
+--------------------|---------------|------------------------------------|----------------------------------|---------------------------------------------------------------
+Smith, Samuel (2)    | Private        | Mar. 31, 1864                      | Dec. 10, 1865                    |
+Stephens, Perry      | Private        | Mar. 31, 1864                      | Dec. 10, 1865                    |
+Stansbury, Benjamin | Private        | Feb. 7, 1864                       | Dec. 10, 1865                    | Absent sick since Dec. 6, 1864, Co. M. O. rolls.
+Snowden, Isaiah      | Private        | Feb. 24, 1864                      |                                  | Missing in action, July 30, 1864; supposed to have been killed, Co. M. O. rolls.
+Simmons, Henry       | Private        | Feb. 25, 1864                      | Dec. 10, 1865                    |
+Snowdon, Henry       | Private        | June 16, 1864                      |                                  | Died March 21, 1864.
+Thompson, Thomas     | Corporal       | Feb. 27, 1864                      | Dec. 10, 1865                    |
+Thompson, George W.  | Private        | Feb. 9, 1864                       | Dec. 10, 1865                    |
+Turner, Dennis       | Private        | Feb. 24, 1864                      | Dec. 10, 1865                    |
+Talling, Randolph    | Private        | May 27, 1864                       | Dec. 10, 1865                    |
+Talbot, Henry        | Private        | Feb. 24, 1864                      | Dec. 10, 1865                    |
+Tilghman, Samuel     | Private        | Feb. 24, 1864                      | April 11, 1864                  | Transferred to Navy.
+Vance, Stephen       | Private        | May 17, 1864                       | Dec. 10, 1865                    |
+Willmer, Levin       | Sergeant       | Feb. 11, 1864                      | Dec. 10, 1865                    |
+Woods, John H.       | Sergeant       | Sept. 15, 1864                     | Dec. 10, 1865                    |
+Waters, Robert       | Corporal       | Mar. 31, 1864                      | Dec. 10, 1865                    |
+Wing, Charles E.     | Private        | Feb. 24, 1864                      | Dec. 10, 1865                    |
+Waters, Stephen      | Private        | Mar. 31, 1864                      | Dec. 10, 1865                    |
+Webster, John        | Private        | Feb. 27, 1864                      | Dec. 10, 1865                    |
+Weaver, Benjamin     | Private        | Mar. 19, 1864                      | Dec. 10, 1865                    |
+Wisly, Cyrus T.      | Private        | Feb. 27, 1864                      | June 17, 1865                    |
+Wallace, Greenberry  | Private        | Feb. 27, 1864                      | April 11, 1864                  | Transferred to Navy.
+Williams, Edward     | Private        | Feb. 25, 1864                      | April 11, 1864                  | Transferred to Navy.
+Wilkinson, Phillip W. | Private        | Feb. 9, 1864                       | Dec. 10, 1865                    |
+Ward, Anthony        | Private        | Mar. 31, 1864                      |                                  | Died Aug. 4, 1864, of wounds received in action.
+Wilkinson, Wash'n    | Private        | May 26, 1864                       |                                  | Died Aug. 26, 1864.
+
+COMPANY D.
+
+COMMISSIONED OFFICERS.
+
+NAME.                 | RANK.           | DATE OF ENLISTMENT OR MUSTER IN. | DATE OF MUSTER OUT OR DISCHARGE. | REMARKS.
+----------------------|-----------------|------------------------------------|----------------------------------|---------------------------------------------------------------
+Eben Whitney          | Captain         | Feb. 26, 1864                      | Dec. 10, 1865                    |
+Charles B. Sanders    | 1st Lieutenant  | Mar. 3, 1864                       | Dec. 10, 1865                    | See Roster, Field and Staff.
+Jacob Foster          | 1st Lieutenant  | April 5, 1865                      | Dec. 10, 1865                    | Entered the service as 2nd Lieutenant; promoted 1st Lieutenant, Oct. 26, 1865.
+Ira B. Quimby         | 2nd Lieutenant  | Feb. 13, 1864                      | Jan. 11, 1865                    | Disability.
+
+ENLISTED MEN.
+
+NAME.                 | RANK.           | DATE OF ENLISTMENT OR MUSTER IN. | DATE OF MUSTER OUT OR DISCHARGE. | REMARKS.
+----------------------|-----------------|------------------------------------|----------------------------------|---------------------------------------------------------------
+Allan, James          | 1st Sergeant    | Feb. 23, 1864                      | Dec. 10, 1865                    |
+Addison, Joseph       | Private         | Feb. 25, 1864                      | Dec. 10, 1865                    |
+Bowzer, James H.      | Sergeant        | Mar. 19, 1864                      | Dec. 10, 1865                    |
+Brown, John           | Corporal        | Feb. 27, 1864                      | Dec. 10, 1865                    |
+Banker, Tigle W.      | Private         | Mar. 31, 1864                      | Dec. 10, 1865                    |
+Barrett, John         | Private         | May 18, 1864                      | Dec. 10, 1865                    |
+Blackstone, Charles   | Private         | Feb. 23, 1864                      | Dec. 10, 1865                    |
+Brice, Aaron          | Private         | Feb. 23, 1864                      | Dec. 10, 1865                    |
+Brice, Daniel         | Private         | Feb. 23, 1864                      | Dec. 10, 1865                    |
+Brown, Charles        | Private         | Feb. 24, 1864                      | Dec. 10, 1865                    |
+Brown, William        | Private         | Feb. 25, 1864                      | Dec. 10, 1865                    |
+Bryan, Thomas H.      | Private         | May 17, 1864                       | Dec. 10, 1865                    |
+Buckner, Andrew       | Private         | Feb. 24, 1864                      | Dec. 10, 1865                    |
+Burgess, Joseph       | Private         | Feb. 23, 1864                      | Dec. 10, 1865                    |
+Burr, Daniel          | Private         | Feb. 23, 1864                      | Dec. 10, 1865                    |
+Bostick, John         | Private         | Feb. 27, 1864                      |                                  | Missing in action, July 30, 1864.
+Bordley, Perry        | Private         | Feb. 25, 1864                      |                                  | Died March 22, 1864, of disease.
+Boyd, William         | Private         | Feb. 22, 1864                      |                                  | Died of wounds received in action, Dec. 1, 1864.
+Brice, William F.     | Private         | Feb. 26, 1864                      |                                  | Died March 12, 1864, of disease.

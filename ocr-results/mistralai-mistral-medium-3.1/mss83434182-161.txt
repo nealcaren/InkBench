@@ -1,0 +1,31 @@
+156  UNION SOLDIERS INTERRED IN NATCHEZ NATIONAL CEMETERY, MISSISSIPPI—Continued.
+
+---
+No.  | Name                     | Rank            | Co.  | Regiment Sec.  | Date of death  | Grave | Original place of burial
+----|--------------------------|-----------------|------|----------------|----------------|-------|-------------------------
+3035 | Unknown                  | Unknown         |      | 2nd U.S. colored troops |   | 245  | Natchez, Mississippi
+3039 | Unknown                  | Unknown         |      | 58th U.S. colored infantry | 15 Apr 1864 | 251 | Do.
+3041 | Unknown                  | Unknown         |      | 58th U.S. colored infantry | 15 Apr 1864 | 252 | Do.
+3042 | Unknown                  | Unknown         |      | 58th U.S. colored infantry | 15 Apr 1864 | 253 | Do.
+3045 | Vandervin, James         | Private         | H    | 16th New York heavy artillery | 15 Apr 1864 | 254 | Do.
+3046 | W. I.                    |                 |      | 15th Wisconsin infantry | 14 Apr 1864 | 255 | Do.
+3048 | Wohlford, G.             | 3rd corporal    | A    | 11th Illinois infantry | 29 Aug 1863 | 257 | Do.
+3049 | Walker, E. D.            | Private         | B    | 32nd Illinois infantry | 1 Sep 1863 | 258 | Do.
+3050 | Webb, M. F.              | Private         | A    | 15th Illinois infantry | 2 Sep 1863 | 259 | Do.
+3052 | Wolfard, George           | Private         | A    | 11th Ohio artillery | 28 Aug 1863 | 1 | Do.
+3053 | Wells, R. M.             | Private         | F    | 26th Ohio artillery | 15 Jun 1865 | 117 | Do.
+3055 | Witcher, William          | Private         | C    | 8th New Hampshire infantry | 19 Jun 1864 | 2 | Do.
+3056 | Wind, Charles            | Private         | H    | 35th Wisconsin infantry | 8 Aug 1864 | 3 | Do.
+3058 | Wells, Green B.           | Acting master's mate |  | U.S.S. Chillicothe | 28 Apr 1864 | 5 | Do.
+3059 | Walters, Charles Frederick| Fireman         |      | U.S.S. Avenger | 26 Nov 1864 | 6 | Rodney, Mississippi
+3060 | Ward, Albert              | Private         | K    | 29th U.S. colored infantry | 20 Mar 1865 | 7 | Do.
+3061 | Woodford, Allen           | Corporal        | I    | 6th U.S. colored heavy artillery | 10 Aug 1867 | 8 | Natchez, Mississippi
+3062 | Washington, George        | Private         | C    | 70th U.S. colored infantry | 20 Mar 1865 | 9 | Do.
+3064 | Walker, Thornton, Philip   | Private         | B    | 6th U.S. colored heavy artillery | 11 Aug 1865 | 12 | Do.
+3065 | Washam, Jackson           | Private         |      | 6th U.S. colored heavy artillery | 11 Aug 1865 | 13 | Do.
+3067 | Wilson, John              | Private         | F    | 6th U.S. colored cavalry | 13 May 1865 | 230 | Do.
+3068 | Wakefield, James          | Private         | B    | 70th U.S. colored infantry | 13 May 1865 | 159 | Do.
+3069 | Walker, Nat              | Private         | C    | 5th U.S. colored cavalry | 23 Apr 1865 | 178 | Concordia, Louisiana
+3070 | Washington, George        | Private         | A    | 6th U.S. colored cavalry | 23 Apr 1865 | 191 | Do.
+3072 | Williams, Joseph, Elias    | Private         | E    | 83rd Ohio infantry | 12 Mar 1865 | 12 | Do.
+3073 | Zickparse, Elias          | Private         |      | 58th U.S. colored infantry | 6 Mar 1865 | 6 | Natchez, Mississippi

@@ -1,0 +1,37 @@
+28
+UNION SOLDIERS INTERRED IN
+
+
+| No. | Name. | Rank. | Co. | Regiment. | Sec. | Grave. | Date of death. | Remarks. |
+|-----|--------|--------|------|-----------|------|--------|----------------|----------|
+| 761 | Cotton, H. G. | Private | E    | 9th Maine volunteers. | 12   | 40     |                |          |
+| 762 | Calvey, G.    | do     | C    | 115th New York volunteers. | 20   | 47     |                |          |
+| 763 | Cassidy, G.   | do     | D    | 115th New York volunteers. | 21   | 51     |                |          |
+| 764 | Crandall, Paul | do     | G    | 8th Maine volunteers.     | 19   | 116    |                |          |
+| 765 | Clark, A.     | Corporal | K    | 115th New York volunteers. | 21   | 53     |                |          |
+| 766 | Claybourne, S. E | Private | D    | 115th New York volunteers. | 21   | 34     |                |          |
+| 767 | Chatham, Charles | do     | A    | 94th Massachusetts vols.   | 15   | 85     |                |          |
+| 768 | Chatten, Aug. | do     | B    | 23d Massachusetts vols.   | 38   | 22     |                |          |
+| 769 | Chapman, W. H. | do     | D    | 115th New York volunteers. | 21   | 54     |                |          |
+| 770 | Cramer, F.     | Sergeant | I    | 98th Pennsylvania vols.   | 36   | 42     |                |          |
+| 771 | Cramer, Aug.   | Private | B    | 76th New York engineers.  | 28   | 90     |                |          |
+| 772 | Cronk, T.      | do     | D    | 9th New Hampshire vols.   | 30   | 120    |                |          |
+| 773 | Crocker, J.    | do     | I    | 3d New Hampshire vols.    | 17   | 20     |                |          |
+| 774 | Caban, Daniel L. | do     | E    | 3d New Hampshire vols.    | 17   | 47     |                |          |
+| 775 | Chapman, John  | do     | A    | Schooner Locust Point     | 6    | 129    |                |          |
+| 776 | Cooley, Thomas F. | Private | B    | 54th Massachusetts vols.  | 16   | 65     |                |          |
+| 777 | Cooper, John   | do     | G    | 55th Massachusetts vols.  | 15   | 37     |                |          |
+| 778 | Curtiss, John   | do     | D    | 55th Massachusetts vols.  | 15   | 57     |                |          |
+| 780 | Claybourne, John | do     | H    | 33d U.S. colored troops.   | 30   | 90     |                |          |
+| 781 | Curtis, Franklin | do     | K    | 33d U.S. colored troops.   | 30   | 88     |                |          |
+| 782 | Curtin, Aug.    | do     | A    | 34th U. S. colored troops. | 30   | 127    |                |          |
+| 783 | Cratin, Franklin | do     | R    | 115th New York volunteers. | 21   | 117    |                |          |
+| 784 | Campbell, Frank | do     | A    | 125th U. S. colored troops. | 32   | 102    |                |          |
+| 785 | Campbell, York  | do     | I    | 124th U. S. colored troops. | 32   | 142    |                |          |
+| 786 | Chapman, W.     | do     | E    | 104th U. S. colored troops. | 31   | 127    |                |          |
+| 787 | Powers, William | do     | H    | 33d U. S. colored troops.   | 30   | 180    |                |          |
+| 788 | Cammell, Mzareena | do     | B    | 23d U. S. colored troops.   | 39   | 22     |                |          |
+| 789 | Cooner, Henry   | do     | H    | 3d U. S. colored troops.   | 32   | 32     |                |          |
+| 790 | Cammel, Christopher, Janos | do     | B    | 3d U. S. colored troops.   | 32   | 33     |                |          |
+| 791 | Coburn, Guy     | do     | E    | 104th U. S. colored troops. | 31   | 32     |                |          |
+| 792 | Curts, John     | 2d mate |     | Schooner Annie           |      | 84     |                |          |

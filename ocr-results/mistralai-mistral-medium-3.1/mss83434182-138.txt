@@ -1,0 +1,57 @@
+The image shows a page from "Beaufort National Cemetery, South Carolina." Here is the transcription of the visible information:
+
+---
+
+| Name                     | Company | Rank        | Regiment State | Date of Death |
+|--------------------------|---------|-------------|----------------|--------------|
+| Webster, George          | G       |             | 75th New Hampshire |              |
+| Webster, Robert          | G       |             | 75th New Hampshire |              |
+| Walters, William         | G       |             | 14th New York    |              |
+| Waters, William          | G       |             | 14th New York    |              |
+| Webster, James           | G       |             | 14th New York    |              |
+| Wadsworth, Frederick     | G       |             | 14th New York    |              |
+| Wager, John              | C       |             | 28th Iowa        |              |
+| Walker, Charles B.       | G       |             | 13th New York    |              |
+| Walker, John             | G       |             | 13th New York    |              |
+| Walker, John M.          |         |             | 1st New York     |              |
+| Walker, Robert           |         |             | 1st New York     |              |
+| Walker, William J.       |         |             | 1st New York     |              |
+| Walker, William          |         |             | 1st New York     |              |
+| Wallace, John            |         |             | 13th New York    |              |
+| Wallace, Thomas          |         |             | 13th New York    |              |
+| Wallace, John L.         |         |             | 13th New York    |              |
+| Walker, John             |         |             | 77th New York    |              |
+| Walker, William          |         |             | 77th New York    |              |
+| Walker, George           |         |             | 77th New York    |              |
+| Walker, Charles          |         |             | 77th New York    |              |
+| Walker, George           |         |             | 77th New York    |              |
+| Walker, William          |         |             | 77th New York    |              |
+| Walker, Charles          |         |             | 97th Pennsylvania |              |
+| Walker, John             |         |             | 97th Pennsylvania |              |
+| Walker, William          |         |             | 97th Pennsylvania |              |
+| Walker, Stephen A.       |         |             | 97th Pennsylvania |              |
+| Walker, Aaron R.         |         |             | 97th Pennsylvania |              |
+| Walker, Whitney A.       |         |             | 97th Pennsylvania |              |
+
+---
+
+| Company | 27  | 47 | 67 | 88 | 107 | 127 | 157 | 184 | 186 | 193 |
+|---------|-----|----|----|----|-----|-----|-----|-----|-----|-----|
+|         |     | 41 |    |    |  12 |  9  |  31 |  31 |  27 |  23 |
+
+| Company | A   | B   | C   | D   | E   | F   | G   | H   | I   | K   |
+|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|         | 17  | 25  | 27  | 31  | 33  | 34  | 31  | 24  | 20  | 18  |
+
+---
+
+| Regiment and State       | Date of Death | Notes                |
+|--------------------------|---------------|----------------------|
+| 75th New Hampshire      |               |                      |
+| 14th New York            |               |                      |
+| 28th Iowa                |               |                      |
+| 1st New York             |               | 1st New York Dragoons |
+| 77th New York            |               |                      |
+| 97th Pennsylvania        |               |                      |
+
+---
