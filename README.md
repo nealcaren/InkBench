@@ -3,10 +3,11 @@
 InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vision inputs to transcribe historical documents. 
 
 
-**Character Accuracy Results (1-CER).** *September 10, 2025.* 
+**Character Accuracy Results (1-CER).** *September 24, 2025.* 
 
 |                                     | Overall | Book Page | Handwritten | Mixed | Other Typed/Printed | Cost per 1K |
 |:-----------------------------------:|:-------:|:---------:|:-----------:|:-----:|:-------------------:|:-----------:|
+| qwen3-vl-235b-a22b-instruct    | 0.89    | 0.91      | 0.90        | 0.83  | 0.91                | $2.14       |
 | openai-gpt-4.1-mini                 | 0.88    | 0.88      | 0.91        | 0.83  | 0.93                | $0.11       |
 | google-gemini-2.5-flash             | 0.87    | 0.87      | 0.88        | 0.84  | 0.89                | $1.22       |
 | openai-gpt-5-mini                   | 0.87    | 0.86      | 0.89        | 0.82  | 0.91                | $0.13       |
@@ -15,6 +16,7 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 | qwen-qwen2.5-vl-72b-instruct        | 0.82    | 0.89      | 0.76        | 0.83  | 0.71                | $4.47       |
 | anthropic-claude-sonnet-4        | 0.82    | 0.85      | 0.77        | 0.79  | 0.86                | $37.90       |
 | mistralai-mistral-medium-3.1        | 0.80    | 0.82      | 0.81        | 0.75  | 0.84                | $4.21       |
+| meta-llama-3.2-90b-vision	        | 0.79    | 0.84      | 0.71        | 0.74  | 0.89                | $3.24       |
 | openai-gpt-4o-mini                  | 0.78    | 0.80      | 0.80        | 0.67  | 0.98                | $0.59       |
 | anthropic-claude-3.5-haiku          | 0.77    | 0.80      | 0.75        | 0.71  | 0.80                | $6.12       |
 | qwen-qwen-vl-plus                   | 0.74    | 0.83      | 0.58        | 0.75  | 0.85                | $1.43       |
@@ -27,7 +29,8 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 | qwen-qwen2.5-vl-32b-instruct        | 0.53    | 0.63      | 0.45        | 0.31  | 0.76                | $12.68      |
 | meta-llama-llama-4-maverick         | 0.47    | 0.80      | 0.00        | 0.46  | 0.56                | $1.94       |
 | google-gemma-3-12b-it               | 0.46    | 0.61      | 0.49        | 0.18  | 0.33                | $0.17       |
-| Tesseract                           | 0.34    | 0.54      | 0.01        | 0.29  | 0.63                | $0.00       |
+| Tesseract                           | 0.34    | 0.54      | 0.01        | 0.29  | 0.63                |             |
+| x-ai-grok-4-fast.                   | 0.33    | 0.29      | 0.36        | 0.29  | 0.49                |             |
 | mistralai-pixtral-12b               | -0.09   | 0.10      | -0.04       | 0.31  | -1.78               | $0.65       |
 
 
