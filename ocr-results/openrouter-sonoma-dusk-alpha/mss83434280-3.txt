@@ -1,0 +1,5 @@
+No. | Name | Address | When born | Where born | Sex | Color | Age | Occupation | Whether over 21 years | Naturalized | Naturalization papers No. | Date of papers
+
+John Frank | 1234 | 2nd St | 20 March | 1845 | M | W | 24 | Clerk | Yes | No |  |  
+
+|  |  |  |  |  |  |  |  |  |  |  |  |

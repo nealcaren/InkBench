@@ -1,0 +1,30 @@
+LEDGER OF ACCOUNTS
+
+No. of Acct. | Name of Debtor | Residence | When Booked | Terms | Amount of Debt | Date of Last Credit | Balance Due
+
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+[empty row]
+
+[Blank page with ruled lines]

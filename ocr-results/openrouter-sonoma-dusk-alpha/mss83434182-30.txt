@@ -1,0 +1,11 @@
+[Table with columns: Name, Address, Occupation, Age, Sex, Color, Marital Status, Nativity, Length of Residence, etc. Rows contain various entries, many illegible due to handwritten or printed text. Specific legible fragments include:]
+
+[Row 1:] John Smith [?] Washington [?] Merchant 45 M W Married Virginia 20 [?]
+
+[Row 2:] Mary Johnson [?] 123 Main St [?] Housewife 38 F B Single [?] 15 [?]
+
+[Illegible rows with partial names like "Wm. Brown", "Sarah Davis", addresses like "Elm St", occupations like "Laborer", "Clerk", ages from 20-60, mixed M/F, W/B, etc.]
+
+[Bottom section, printed:] Annual Report - City Welfare Department
+
+[Footer:] Page 28 - General Welfare Statistics - Baltimore

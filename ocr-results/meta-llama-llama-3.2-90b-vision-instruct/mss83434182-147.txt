@@ -1,0 +1,37 @@
+142
+
+UNION SOLDIERS INTERRED IN
+
+NATCHEZ NATIONAL CEMETERY, MISSISSIPPI.
+
+
+| Name | Rank | Co. | Regiment | Date of death | Sec. | Grave. | Original place of burial |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Atkinson, John H. | Private |  | 96 Illinois infantry | Aug. 24, 1863 | 1 | 1 | Natchez, Missi. |
+| Ashwood, Troy | Private |  | Do | Oct. 31, | 1 | 71 | Do |
+| Auderwood, Henry | Private |  | 4th U.S. cavalry | Oct. 31, | 1 | 149 | Washington, Mississippi. |
+| Allen, Henry | Sergeant |  | 5th U.S. colored cavalry | May 23, 1864 | 1 | 49 | Vidalia, Louisiana. |
+| Beebee, Daniel |  |  | 56th United States artillery | Apr. 29, 1864 | 2 | 212 | Natchez, Missi. |
+| Brown, Charles A |  |  | 12th Wisconsin infantry | Oct. 24, 1863 | 1 | 244 | Do |
+| Blanchard, W. D. |  |  | Do | Sept. 10, 1863 | 1 | 20 | Do |
+| Baltzell, J. L. |  |  | Do | Oct. 26, 1863 | 1 | 26 | Do |
+| Bush, William F. |  |  | 76th Illinois infantry | Oct. 27, 1863 | 1 | 27 | Do |
+| Broken, Henry A. |  |  | Do | Oct. 18, 1863 | 1 | 28 | Do |
+| Biggs, J. |  |  | 15th Illinois volunteers | Aug. 7, 1863 | 4 | 48 | Do |
+| Bates, John | Private |  | 46th Illinois infantry | Dec. 3, 1863 | 5 | 67 | Do |
+| Boyd, William | Private |  | 13th Illinois infantry | Dec. 7, 1863 | 5 | 90 | Do |
+| Braham, John | Private |  | 76th Illinois infantry | Dec. 9, 1863 | 5 | 86 | Do |
+| Bazzell, August. W. | Private |  | Do | Dec. 11, 1863 | 5 | 87 | Do |
+| Benjamin, T. E. | Private |  | Do | Dec. 19, 1863 | 5 | 88 | Do |
+| Boyd, John | Private |  | 2d Illinois artillery | Nov. 14, 1863 | 5 | 107 | Do |
+| Beckett, J. W. P. |  |  | 15th Ohio artillery | Dec. 13, 1863 | 2 | 21 | Do |
+| Brockett, H. W. P. |  |  | Do | Feb. 10, 1864 | 2 | 36 | Do |
+| Brown, Edward |  |  | 29th Illinois infantry | Feb. 14, 1864 | 2 | 94 | Meadville, Mississippi. |
+| Boughton, A. |  |  | 12th Wisconsin infantry | Jan. 24, 1864 | 5 | 98 | Natchez, Missi. |
+| Bettis, John | Private |  | 47th Pennsylvania | Jan. 14, 1864 | 7 | 16 | Do |
+| Bringout, Lucius |  |  | U.S. iron clad Tennessee | June 27, 1863 | 16 | 45 | Plantation, Louisiana. |
+| Brewster, J. Henry | Sergeant |  | 4th Illinois cavalry - | Aug. 13, 1867 | 7 | 74 | Vidalia, Louisiana. |
+| Blake, George | Private |  | 20th United States infantry | Aug. 20, 1864 | 7 | 78 | Natchez, Missi. |
+| Brady, J. | Private |  | 66th U.S. colored infantry | Nov. 20, 1865 | 17 | 174 | Do |
+| Burkett, Benjamin | Private |  | 70th U.S. colored infantry | - - - 1863 | 7 | 8 | Do |
+| Bartlett, James | Private |  | 58th U.S. colored infantry | Sept. - - 1863 | 14 | 134 | Do |

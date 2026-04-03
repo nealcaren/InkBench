@@ -1,0 +1,14 @@
+
+
+{
+    "images": [
+        {
+            "image_number": "1",
+            "content": "Round-the-World Study Project World Crusade Against Communism\nWhere RTWSP Students Will Go: Throughout their ten-week journey, RTWSP students will travel to over 25 foreign countries via a specially chartered flight departing from Byrd Airfield in Richmond. Their itinerary includes stops in Washington, Baltimore, Philadelphia, Pittsburgh, Detroit, Chicago, St. Louis, Los Angeles, and San Francisco. After California, no further stops until they reach Hawaii. From there, they will continue to Wake Island, Tokyo, Formosa, the Philippines, Indonesia, Singapore, Cambodia, Siam (Thailand), Burma (Myanmar), India, Pakistan, Arabia, Ethiopia, Sudan, Egypt, and Palestine. Along the way, they will engage with foreign leaders, promote democracy, and visit significant historical sites, including ancient Egyptian monuments. Their voyage through Africa will honor their ancestral homeland, followed by stops in Athens, Rome, Paris, Antwerp, and London. The final leg of the trip will return them to Richmond via Ireland, Canada, and New York.\nWho Goes: Fifty students from Virginia Union University will be selected based on their recommendation, academic aptitude, and moral character. Their selection will prioritize intellectual merit and readiness for global travel.\nCollege Credit: Students will earn between nine and twelve credit hours across disciplines such as international affairs, cultural relations, art appreciation, geography, anthropology, and fieldwork.\nWhere the Money Will Come From: Funding will come from cooperative financing involving students, their families, community organizations, the RTWSP Assistance Scholarship Fund, and foreign governments covering living expenses during stops.\nAssistance Scholarship Fund: A university-appointed committee will award scholarships to needy participants on a case-by-case basis."
+        },
+        {
+            "image_number": "2",
+            "content": "I've made Lizzie her last letters. She was incredibly competent, though I can't rewrite anything about her appointment efficiency at 1601. However, I must stress that nurse must demonstrate proper attention to be retained. Many have mentioned Lizzie's incompetency, but I've never received her letters.\nOrid.has, I'll send you 4 ton of Ceclote and that is the date I have the celestial is at the Boot IC Mel Panteler in Luke, neither in Tiffany. I don't think it's proper English but at least it's in broken English. I've sent the down, and that your answer has been sent down, but I still notice bruising on your hand. Oh, please be prepared to euthanize each Peterson. I'd hate to see her hurt."
+        }
+    ]
+}

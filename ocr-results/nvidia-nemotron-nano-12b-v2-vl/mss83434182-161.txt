@@ -1,0 +1,53 @@
+
+
+156  
+UNION SOLDIERS INTERRED IN  
+Natchez National Cemetery  
+Table of The Union Soldiers interred in Natchez National Cemetery.  
+
+---  
+
+| **No.** | **Name**                                   | **Rank**         | **Co.** | **Regiment**                                  | **Date of Death**     | **Original Place of Burial**               |  
+|---------|-------------------------------------------|------------------|---------|-----------------------------------------------|-----------------------|--------------------------------------------|  
+| 3035    | Unknown, 2                                | 2                |         |                                               |                       | 245, 246                                  |  
+| 3039    | Unknown, 4                                |                 |         |                                               |                       | 251–254                                  |  
+| 3041    | Unknown, 2                                |                 |         |                                               |                       | 255, 256                                  |  
+| 3042    | Unknown, 1                                |                 |         |                                               |                       | 257                                      |  
+| 3045    | Unknown, 3                                |                 |         |                                               |                       | 259–261                                  |  
+| 3046    | Vanderkin, James                          |                 |         |                                               |                       | 15                                        |  
+| 3047    | V. W.                                      |                 |         |                                               |                       | 29                                        |  
+| 3048    | W. A. I.                                   |                 |         |                                               |                       | 9                                         |  
+| 3049    | Woolford, G.                              |                 |         |                                               |                       | 83                                        |  
+| 3050    | Walker, E. D                              | 3d corporal     | A       | 3d Ohio artillery                             | Sept. 10, 1863       | Do*.                                       |  
+| 3051    | Webb, M. F                                |                 |         |                                               |                       | 108                                       |  
+| 3052    | Wolford, George                           | Private          | A       | 11th Illinois infantry                       | Aug. 28, 1863        | Do*.                                       |  
+| 3053    | Weaver, E. A                              | Private          |          | 26th Ohio artillery                          | June 15, 1865        | Do*.                                       |  
+| 3054    | Wells, R. M.                              | do               | F       | 8th New Hampshire infantry                   | Oct. 19, 1864        | Do*.                                       |  
+| 3055    | Witchery, William                         | do               | C       | 8th New Hampshire intelligence               | Oct. 19, 1864        | Do*.                                       |  
+| 3056    | Wind, Charles                             | do               | H       | 35th Wisconsin infantry                      | Aug. 1, 1864         | Do*.                                       |  
+| 3057    | White, Green B.                           | Acting masts mate|          | 5th U. S. Chillicothe                        | April 21, 1864       | Do*.                                       |  
+| 3058    | Wells, Charles S.                         |                 |         |                                               |                       | 97                                        |  
+| 3059    | Walters, Frederick                        |                 |         | U. S. S. Avenger'*                           | Nov. 26, 1864        | Do*.                                       |  
+| 3060    | Ward, Albert                              |                 |         | U. S. S. Hartford                            |                       | 66                                        |  
+| 3061    | Woodford, Allen                           | Private          | K       | 20th U. S. infantry                          | Mar. 20, 1865        | Natchez, Mississippi.*                     |  
+| 3062    | Washington, George                        | Corporal         | I       | 66th U. S. colored troops                    | Aug. 15, 1865        | Do*.                                       |  
+| 3063    | Walker, George Walker                     | do               | C       | 70th U. S. colored infantry                  | Sep. 20, 1865        | Do*.                                       |  
+| 3064    | Walker, Thornton                           | Private          | B       | 70th U. S. colored infantry                  | Do*.                  | Do*.                                       |  
+| 3065    | Washington, Philip                        | do               | D       | 6th U. S. heavy artillery                    | Do*.                  | Do*.                                       |  
+| 3066    | Williams, Jackson                         |                 |         |                                               |                       | 357                                       |  
+| 3067    | Wilson, John                              | Private          | F       | Do* 6th heavy artillery                      | Mar. 20, 1865        | Do*.                                       |  
+| 3068    | Walker, William *                         |                 |         | 58th U. S. colored infantry                  |                       | 588, Mississippi.*                         |  
+| 3069    | Wakefield, James                          | Private          | B       | 70th U. S. colored infantry                  | Nov. 23, 1865        | Do*.                                       |  
+| 3070    | Walker, Nat                               | do               | C       | 5th U. S. colored cavalry                    | Sept. 3, 1863        | Concordia, Louisiana.*                     |  
+| 3071    | Washington, George                        | do               |          | 6th U. S. colored infantry                   | Do*.                  | Do*.                                       |  
+| 3072    | Willians, Joseph                          | do               | A       | 58th U. S. colored infantry                  | Sept. 3, 1863        | Do*.                                       |  
+| 3073    | Zickpurse, Elías                          | do               | E       | 83d Ohio infantry                            | Do*.                  | Do*.                                       |  
+
+---  
+**Notes (from Typewritten Content Only):**  
+- Asterisks (*) denote original burial locations later relocated to the Natchez National Cemetery.  
+- Columns are as printed, with no handwritten additions.  
+
+**Correction Key:**  
+- "Acklin 6 O.D. Natchez Mississippi" → *Do*.  
+- Timing corrections and anonymized entries (e.g., "Unknown") are preserved as printed.

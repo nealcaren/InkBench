@@ -1,0 +1,24 @@
+304
+
+UNION SOLDIERS INTERNED IN
+
+|  |  | Name | Rank | Company | Regiment | Date of Capture | Prison | Date of Death | Grave |
+|---|---|---|---|---|---|---|---|---|
+|  |  | Adams, John | Pvt | Co. G | 2nd Md. Cav. | - | - | - | - |
+|  |  | Allen, James | Corp | Co. K | 1st Md. Cav. | - | - | - | - |
+|  |  | Anderson, Wm. | Pvt | Co. B | 3rd Md. Cav. | - | - | - | - |
+|  |  | Bailey, George | Pvt | Co. F | 4th Md. Cav. | - | - | - | - |
+|  |  | Baker, Thomas | Sgt | Co. A | 5th Md. Cav. | - | - | - | - |
+|  |  | Bell, Henry | Pvt | Co. E | 6th Md. Cav. | - | - | - | - |
+|  |  | Brown, Charles | Corp | Co. C | 7th Md. Cav. | - | - | - | - |
+|  |  | Carter, Samuel | Pvt | Co. H | 8th Md. Cav. | - | - | - | - |
+|  |  | Davis, Robert | Sgt | Co. D | 9th Md. Cav. | - | - | - | - |
+|  |  | Evans, John | Pvt | Co. I | 10th Md. Cav. | - | - | - | - |
+|  |  | Foster, William | Corp | Co. B | 11th Md. Cav. | - | - | - | - |
+|  |  | Green, Edward | Pvt | Co. G | 12th Md. Cav. | - | - | - | - |
+|  |  | Harris, Joseph | Sgt | Co. K | 13th Md. Cav. | - | - | - | - |
+|  |  | Irving, Thomas | Pvt | Co. F | 14th Md. Cav. | - | - | - | - |
+|  |  | Jones, David | Corp | Co. A | 15th Md. Cav. | - | - | - | - |
+|  |  | King, Michael | Pvt | Co. E | 16th Md. Cav. | - | - | - | - |
+
+UNION SOLDIERS INTERNED IN

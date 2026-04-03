@@ -1,0 +1,20 @@
+185
+
+Rechnennet
+
+Ale. Marschall für den Kap.	1
+	Gr. Marschall	1	2	2
+
+Ale. Marschall	J. Marschall	1	2	2
+
+J. August	Ch. Marschall	1	2	2
+
+E. Jäger	Ch. Müller	3	5	8
+
+S.J. Pfitzer	Bl. Müller	3	5	8
+
+M. Lang	Gr. für Liebe	3	5	8
+
+G. Liebhart	Gr. Jäger	3	5	8
+
+A. Liebhart	Ch. für Liebe	3	5	8

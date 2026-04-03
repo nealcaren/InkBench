@@ -1,0 +1,33 @@
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA
+123
+
+
+
+| Name | Rank | Company | Regiment | Days Sick | Days Sick in Hospital | Remarks |
+| --- | --- | --- | --- | --- | --- | --- |
+| Webster, George | Gov't clerk |  | 71st New Hampshire | 43 | 47 |  |
+| Webster, Isaac |  |  | 11th New Hampshire | 29 |  |  |
+| Webster, William S. |  | I | 29th Iowa | 26 | 22 |  |
+| Welster,  |  | C | 134th New York | 99 |  |  |
+| Welster, James C. B. |  | C | 175th New York |  | 31 |  |
+| Welsher, Thomas |  | A | 102d U.S. colored troops | 31 |  |  |
+| Werder, Lyran. | Captain |  | 16th Kentucky |  | 128 |  |
+| West, Charles B. |  |  | 135th New York | 12 |  |  |
+| White, John M. |  |  | 158th New York | 8 |  |  |
+| White, J. Robert |  |  | 88th New York colored troops | 31 |  |  |
+| White, C. L. | Lieutenant |  | 161st New York | 9 |  |  |
+| White, William J. |  | K | 8th U.S. colored troops | 41 |  |  |
+| Whiton, J' Tyler. |  |  | 14th Ret. 8th New York | 24 | 41 |  |
+| Whitfield, Frederick |  |  | 27th Ohio battery | 10 | 3 |  |
+| Wiggins, Thomas |  | I | 103d U.S. colored troops | 31 |  |  |
+| Wiknerso, John L. |  | K | 102d U.S. colored troops |  | 169 |  |
+| Wiley, Benjamin | Sergeant |  | 103d U.S. colored troops |  | 186 |  |
+| Williams, James |  | H | 33d U.S. colored troops | 11 | 134 |  |
+| Williams, Daniel |  | I | 102d U.S. colored troops |  | 31 |  |
+| Wise, C. J. | Seaman |  | 8th Ret. Connecticut |  | 9 |  |
+| Witherell, John M. |  | G | 23d U.S. colored troops | 41 | 107 |  |
+| Woelfer, John R. |  |  | 1st New York dragoons |  | 88 |  |
+| Woodley, Frederick |  | A | 1st New Jersey | 2 | 40 |  |
+| Wener, Peter |  |  | 1st New York dragoons | 6 |  |  |
+| Weiser, Aaron |  | H | 1st New York dragoons |  | 25 |  |
+| Whitnley, A. R. Stephen |  |  | 1st New York dragoons |  | 88 |  |

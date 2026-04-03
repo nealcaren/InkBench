@@ -1,0 +1,10 @@
+ENLISTED.
+
+WHERE BORN AND PERSONAL DESCRIPTION.
+
+| NAME. | WHEN. | TERM. | RATING. | CITY, TOWN, OR COUNTY. | DATE. | AGE. | OCCUPATION. | EYES. | HAIR. | COMPLEXION. | HEIGHT. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  | Feet. | Inches. |
+| John Frank | 1863 7 Oct | One year | Ord Seaman | N york |  | 22 | Brush maker | e | Negro |  | 5 | 4 1/2 |
+
+The Hyards

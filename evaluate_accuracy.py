@@ -18,6 +18,9 @@ SUMMARY_BY_MODEL_CSV = Path("ocr_eval_summary_by_model.csv")
 SUMMARY_BY_MODEL_AND_TYPE_CSV = Path("ocr_eval_summary_by_model_and_type.csv")
 MODEL_ACCURACY_WIDE_CSV = Path("ocr_eval_model_accuracy.csv")  # <<< NEW
 
+#HYPS_ROOT = Path("ocr-results-newprompt")
+#HYPS_ROOT = Path("ocr-results-newprompt-openai")
+
 # jiwer normalization knobs
 LOWERCASE = True
 NORMALIZE_SPACES = True
@@ -163,6 +166,18 @@ def evaluate(align_n: int = 0,
         "wer", "cer", "cer_alnum", "ref_word_count", "hyp_word_count"
     ]
 
+    # Load existing results to avoid re-processing
+    existing_results = {}
+    already_processed = set()
+    if RESULTS_CSV.exists():
+        with RESULTS_CSV.open("r", newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                key = (row["image_name"], row["model"])
+                existing_results[key] = row
+                already_processed.add(key)
+        print(f"Loaded {len(already_processed)} existing results from {RESULTS_CSV}")
+
     rows = []
 
     per_model: Dict[str, Dict[str, List[float]]] = defaultdict(lambda: defaultdict(list))
@@ -174,6 +189,9 @@ def evaluate(align_n: int = 0,
     hyps_by_model: Dict[str, List[str]] = defaultdict(list)
     failures_for_align: List[Tuple[str, str, str, str]] = []
 
+    processed_count = 0
+    skipped_count = 0
+
     for entry in bench_entries:
         image_name = entry["image_name"]
         typ = entry["type"]
@@ -184,6 +202,13 @@ def evaluate(align_n: int = 0,
         ref_text = read_text(ref_path)
 
         for m in models:
+            # Skip if this combination was already successfully processed
+            key = (image_name, m)
+            if key in existing_results and existing_results[key].get("status") == "ok":
+                skipped_count += 1
+                continue
+
+            processed_count += 1
             hyp_path = HYPS_ROOT / m / f"{stem}.txt"
             hyp_text = read_text(hyp_path)
 
@@ -228,11 +253,36 @@ def evaluate(align_n: int = 0,
             if align_n > 0 and (w > 0 or c > 0) and len(failures_for_align) < align_n:
                 failures_for_align.append((m, image_name, ref_text, hyp_text))
 
+    # Merge existing results (only "ok" status, as we re-evaluated others) with new rows
+    existing_ok_rows = [row for row in existing_results.values() if row.get("status") == "ok"]
+    all_rows = existing_ok_rows + rows
+
+    # Also aggregate existing OK results for summary statistics
+    for existing_row in existing_ok_rows:
+        m = existing_row["model"]
+        typ = existing_row["type"]
+        try:
+            w = float(existing_row["wer"])
+            c = float(existing_row["cer"])
+            c_alnum = float(existing_row["cer_alnum"])
+
+            per_model[m]["wer"].append(w)
+            per_model[m]["cer"].append(c)
+            per_model[m]["cer_alnum"].append(c_alnum)
+
+            per_model_type[m][typ]["wer"].append(w)
+            per_model_type[m][typ]["cer"].append(c)
+            per_model_type[m][typ]["cer_alnum"].append(c_alnum)
+        except (ValueError, KeyError):
+            pass  # Skip malformed existing rows
+
+    print(f"Processed {processed_count} new pairs, skipped {skipped_count} already-evaluated pairs")
+
     # Write detailed per-sample results
     with RESULTS_CSV.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
         w.writeheader()
-        for r in rows:
+        for r in all_rows:
             w.writerow({k: r.get(k, "") for k in fieldnames})
 
     # Per-model summary

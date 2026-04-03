@@ -1,0 +1,77 @@
+Monthly Return of Clothing, Camp & Garrison Equipage
+Received and issued at Fort Mound Fa. [Fla.]
+Quarter Master: H. G. Neill Q.M. Sergt.
+Date: December 31st 1866
+
+**On Hand to be accounted for**
+
+| Item | When Received | No of Invoice | From Whom Received | Quantity |
+|---|---|---|---|---|
+| Dates, etc. | Decmbr 31st 1866 | 1 | Lt. H. G. Neill A.A.Q.M. | (See below) |
+
+**Item Quantities Received:**
+*Column Headers correspond to table columns from left to right*
+
+| Item Name | Quantity Received | Total to be Accounted for |
+|---|---|---|
+| Caps Forage | 110 | 110 |
+| Straw Hats | 119 | 119 |
+| Woolen Hats | 23 | 23 |
+| Coats Uniform | 38 | 38 |
+| Metallic Scales Single Prs of | 6 | 6 |
+| Trowsers Foot | 120 | 120 |
+| Kersey Pants | [blank] | [blank] |
+| Knit Shirts | 13 | 13 |
+| Lined Blouses | 150 | 150 |
+| Unlined Blouses | 24 | 24 |
+| Flannel Shirts | 46 | 46 |
+| Drawers Prs of C.F. | 4 | 4 |
+| Negro Brogans Prs of | 1 | 1 |
+| Bootees Infty Prs of Sewed | 5 | 5 |
+| Knit Overshirts | 325 | 325 |
+| Great Coats | 38 | 38 |
+| Bootees Negro Prs of | 14 | 14 |
+| Bootees Pegged Prs of | 30 | 30 |
+| Blankets Woolen | 5 | 5 |
+| Knapsacks & Straps | 26 | 26 |
+| Haversacks Painted | 100 | 100 |
+| Canteens & Straps | 162 | 162 |
+| Haversacks unpainted | 161 | 161 |
+| [Unlabeled Column] | 50 | 50 |
+
+---
+
+**Issues**
+
+| Date | No of Voucher | To Whom Issued |
+|---|---|---|
+| Decmbr 31st 1866 | 1 | Capt H. K. Diehl |
+| " " " | 2 | Capt H. K. Diehl |
+
+**Quantities Issued (by Item):**
+
+| Item Name | Voucher 1 Issued | Voucher 2 Issued | Total Issued | On Hand to be accounted for |
+|---|---|---|---|---|
+| Caps Forage | 35 | 1 | 36 | 75 |
+| Straw Hats | | | | 119 |
+| Woolen Hats | | | | 23 |
+| Coats Uniform | | | | 38 |
+| Metallic Scales Single Prs of | 1 | | 1 | 5 |
+| Trowsers Foot | 29 | | 29 | 91 |
+| Kersey Pants | | 13 | 13 | 13 |
+| Knit Shirts | 2 | | 2 | 148 |
+| Lined Blouses | 3 | | 3 | 19 |
+| Unlined Blouses | | | | 40 |
+| Flannel Shirts | | | | 2 |
+| Drawers Prs of C.F. | | | | 1 |
+| Negro Brogans Prs of | | | | 5 |
+| Bootees Infty Prs of Sewed | 26 | | 26 | 299 |
+| Knit Overshirts | | | | 38 |
+| Great Coats | 3 | | 3 | 11 |
+| Bootees Negro Prs of | | | | 30 |
+| Bootees Pegged Prs of | 5 | | 5 | 24 |
+| Blankets Woolen | 2 | | 2 | 37 |
+| Knapsacks & Straps | 100 | | 100 | [blank] |
+| Haversacks Painted | 125 | | 125 | 37 |
+| Canteens & Straps | 76 | | 76 | 85 |
+| Haversacks unpainted | | | | 50 |

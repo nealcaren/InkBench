@@ -1,0 +1,37 @@
+142
+
+UNION SOLDIERS INTERRED IN  
+
+NATCHEZ NATIONAL CEMETERY, MISSISSIPPI.
+
+No.  Name.                    Rank.    Co.  Regiment.                         Date of death.    Sec.  Grave.  Original place of burial.  
+
+1    Atkinson, John H.        Private  K    95th Illinois infantry            Aug. 31, 1863      1     71      Natchez, Mississippi.  
+2    Atwood, Jerry            Private  I    58th U. S. colored infantry       Aug. 31, 1863      1     49      Washington, Mississippi.  
+3    Atwood, Henry            Private  F    58th U. S. colored infantry       Apr. 23, 1864      1     449     Vidalia, Louisiana.  
+4    Anderson, Henry          Private  D    58th U. S. colored infantry       Apr. 23, 1864      1     149     Natchez, Mississippi.  
+5    Allen, Daniel            Private  A    6th Tennessee cavalry             Apr. 23, 1864      1     244     Do.  
+6    Allen, Charles A.        Private  H    12th Wisconsin infantry           Sept. 24, 1863     1     252     Do.  
+7    Arnold, W. W.            Sergeant K    120th Illinois infantry           Oct. 27, 1863      1     97      Do.  
+8    Barnard, J. W. W.        Private  A    120th Illinois infantry           Oct. 27, 1863      1     297     Do.  
+9    Bazel, J. L.             Private  F    45th Illinois volunteers          Oct. 27, 1863      1     438     Do.  
+110  Beck, Henry F.           Private  C    45th Illinois infantry            Dec. 17, 1863      1     67      Do.  
+112  Berg, John J.            Private  G    45th Illinois infantry            Dec. 17, 1863      1     684     Do.  
+113  Begg, William            Private  D    45th Illinois infantry            Dec. 17, 1863      1     687     Do.  
+114  Belt, Adam               Private  K    45th Illinois infantry            Dec. 19, 1863      1     863     Do.  
+115  Belt, August             Private  G    45th Illinois infantry            Dec. 19, 1863      1     1073    Do.  
+118  Bent, Henry              Private  I    45th Illinois infantry            Feb. 29, 1864      1     238     Do.  
+121  Biddle, Wm. T. E.        Private  G    5th Ohio cavalry                  Mar. 3, 1864       1     52      Planters, Louisiana.  
+123  Bishop, John J.          Private  I    32d Illinois infantry             Mar. 3, 1864       1     298     Vidalia, Louisiana.  
+223  Bissell, E. P.           Private  D    58th U. S. colored infantry       June 27, 1863      3     36      Natchez, Mississippi.  
+223  Bissell, Edward          Private  A    58th U. S. colored infantry       Nov. 30, 1863      3     74      Do.  
+225  Bixby, John              Private  I    3d Tennessee cavalry              Feb. 21, 1864      3     474     Do.  
+226  Bixby, John              Private  A    3d Tennessee cavalry              Feb. 24, 1864      3     63      Do.  
+327  Black, George            Private  I    4th U. S. colored artillery       Sept. 27, 1863     4     7       Plaquemine, Louisiana.  
+328  Black, George            Private  H    60th U. S. colored infantry       Nov. 29, 1865      4     178     Vidalia, Louisiana.  
+329  Black, George            Private  A    63d U. S. colored infantry        --- 1863           4     17      Natchez, Mississippi.  
+330  Black, George            Private  C    63d U. S. colored infantry        --- 1863           4     15      Do.  
+331  Black, Spencer           Private  E    63d U. S. colored infantry        --- 1863           4     134     Do.  
+332  Black, Stephen           Private  G    63d U. S. colored infantry        --- 1863           4     15      Do.  
+333  Black, Sylvanus          Sergeant I    63d U. S. colored infantry        --- 1863           4     134     Do.  
+335  Bartlett, James          Private  E    58th U. S. colored infantry       Sept. —, 1863      4     15      Do.

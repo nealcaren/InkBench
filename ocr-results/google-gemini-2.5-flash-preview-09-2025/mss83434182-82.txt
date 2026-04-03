@@ -1,0 +1,44 @@
+| 2620 | Larabee, Charles M.. . . . . . . . . . | Private . . . . . . . . . | E | 8th Maine. . . . . . . . . . . | 19 | 139 |
+|---|---|---|---|---|---|
+| 2621 | Littlefield, Charles M. . . . . . . . . | . . do. . . . . . . . . . | K | 8th Maine. . . . . . . . . . . | 19 | 121 |
+| 2622 | Littlefield, David M. . . . . . . . . . | . . do. . . . . . . . . . | B | 8th Maine. . . . . . . . . . . | 19 | 113 |
+| 2623 | Lord, Tobias. . . . . . . . . . . . . | . . do. . . . . . . . . . | D | 8th Maine. . . . . . . . . . . | 19 | 143 |
+| 2624 | Legran, Daniel S. | . . do. . . . . . . . . . | C | 6th Connecticut. . . . . . . . . | 36 | 44 |
+| 2625 | Lambert, Charles. . . . . . . . . . . . | . . do. . . . . . . . . . | B | Quartermaster's Department. . . . | 36 | 14 |
+| 2626 | Lander, James . . . . . . . . . . . . . | . . do. . . . . . . . . . | G | 127th New York. . . . . . . . . | 28 | 142 |
+| 2627 | Loucks, Wm. . . . . . . . . . . . . . | . . do. . . . . . . . . . | I | 144th New York. . . . . . . . . | 27 | 37 |
+| 2628 | Lobdell, Richard. . . . . . . . . . . . | . . do. . . . . . . . . . | F | 7th Connecticut. . . . . . . . . | 26 | 142 |
+| 2629 | Lewis, Francis . . . . . . . . . . . . . | . . do. . . . . . . . . . | I | 1st New York engineers. . . . . | 26 | 36 |
+| 2630 | Lord, Wm. . . . . . . . . . . . . . . . | . . do. . . . . . . . . . | F | 7th Connecticut. . . . . . . . . | 26 | 84 |
+| 2631 | Lewis, Geo. A. . . . . . . . . . . . . . | . . do. . . . . . . . . . | G | 127th New York. . . . . . . . . | 15 | 88 |
+| 2632 | Lynch, Mathias. . . . . . . . . . . . . | . . do. . . . . . . . . . | H | 40th Massachusetts. . . . . . . . | 15 | 23 |
+| 2633 | Lewis, Rockwell . . . . . . . . . . . . | . . do. . . . . . . . . . | I | 142d New York. . . . . . . . . . | 126 | 32 |
+| 2634 | Lewis, Jno. P. . . . . . . . . . . . . . | Corporal | D | 17th Connecticut. . . . . . . . . | 84 | 44 |
+| 2635 | LeSage, Lewis . . . . . . . . . . . . . | Private | F | 54th New York. . . . . . . . . . | 62 | 69 |
+| 2636 | Lance, Jacob A. . . . . . . . . . . . . | . . do. . . . . . . . . . | A | 55th Pennsylvania. . . . . . . . | 63 | 42 |
+| 2637 | Lewis, David. . . . . . . . . . . . . . | . . do. . . . . . . . . . | H | 20th Veteran Reserve Corps. . . . | 69 | 8 |
+| 2638 | Link, Jacob . . . . . . . . . . . . . . | . . do. . . . . . . . . . | B | 12th Indiana. . . . . . . . . . . | 9 | 100 |
+| 2639 | Labdell, Asbury . . . . . . . . . . . . | . . do. . . . . . . . . . | K | 19th Indiana. . . . . . . . . . . | 9 | 42 |
+| 2640 | Lehman, Wm. . . . . . . . . . . . . . | . . do. . . . . . . . . . | B | 19th Indiana. . . . . . . . . . . | 9 | 63 |
+| 2641 | Lucid, John. . . . . . . . . . . . . . . | . . do. . . . . . . . . . | G | 107th Ohio. . . . . . . . . . . . | 9 | 62 |
+| 2642 | Lewis, Smart. . . . . . . . . . . . . . | Corporal | G | 6th Missouri. . . . . . . . . . . | 31 | 14 |
+| 2643 | Lete, Jonathan . . . . . . . . . . . . . | . . do. . . . . . . . . . | C | 33d U. S. colored troops. . . . . | 31 | 96 |
+| 2644 | Luck, F. . . . . . . . . . . . . . . . . | . . do. . . . . . . . . . | C | 102d U. S. colored troops. . . . . | 30 | 102 |
+| 2645 | Lewis, Julius. . . . . . . . . . . . . . | . . do. . . . . . . . . . | . . . . . . . . . . . . . | 30 | 14 |
+| 2646 | Leeper, S. D. . . . . . . . . . . . . . | . . do. . . . . . . . . . | E | 32d U. S. colored troops. . . . . | 30 | 14 |
+| 2647 | Lapp, B. J. . . . . . . . . . . . . . . | . . do. . . . . . . . . . | . . . . . . . . . . . . . | . . | . . |
+| 2648 | Looney, D. . . . . . . . . . . . . . . . | . . do. . . . . . . . . . | . . . . . . . . . . . . . | . . | . . |
+| 2649 | Looney, John . . . . . . . . . . . . . . | . . do. . . . . . . . . . | D | 4th Virginia. . . . . . . . . . . | 9 | 34 |
+| 2650 | Leverett, C. . . . . . . . . . . . . . . | . . do. . . . . . . . . . | A | 26th Virginia. . . . . . . . . . . | 9 | 53 |
+| 2651 | Leakons, J. A. . . . . . . . . . . . . . | Private | I | 29th Connecticut. . . . . . . . . | 9 | 60 |
+| 2652 | Leigh, J. W. . . . . . . . . . . . . . | . . do. . . . . . . . . . | K | 70th Ohio. . . . . . . . . . . . . | 9 | 33 |
+| 2653 | Lane, J. H. . . . . . . . . . . . . . . | . . do. . . . . . . . . . | C | 33d Ohio. . . . . . . . . . . . . | 5 | 5 |
+| 2654 | Lampman, Luman . . . . . . . . . . . . | . . do. . . . . . . . . . | C | 58th Indiana. . . . . . . . . . . | 5 | 33 |
+| 2655 | Long, Jas. B. . . . . . . . . . . . . . | . . do. . . . . . . . . . | G | 2d Iowa . . . . . . . . . . . . . | 27 | 106 |
+| 2656 | Lane, Samuel . . . . . . . . . . . . . . | . . do. . . . . . . . . . | C | 141st New York. . . . . . . . . . | 23 | 51 |
+| 2657 | Leach, A. B. . . . . . . . . . . . . . . | . . do. . . . . . . . . . | K | 1st Alabama cavalry. . . . . . . . | . . | . . |
+| 2658 | Liles, G. . . . . . . . . . . . . . . . . | . . do. . . . . . . . . . | . . . . . . . . . . . . . | . . | . . |
+| 2659 | Lloyd, Adam . . . . . . . . . . . . . . | . . do. . . . . . . . . . | . . . . . . . . . . . . . | . . | . . |
+| 2660 | Lane, Wm.. . . . . . . . . . . . . . . . | . . do. . . . . . . . . . | . . . . . . . . . . . . . | . . | . . |
+
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA. 77

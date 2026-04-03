@@ -1,0 +1,17 @@
+148
+
+Rent Roll
+
+Alex. Mc. [?] Rent
+
+C. Ravenel      Jany Rent      50    50
+
+J. Ravenel      Feby Rent      25    25
+
+E. Lyons        Mar Rent       25    25
+
+J. P. Huger     April Rent     15    15
+
+Mary Ravenel    May Rent       25    25
+
+H. L. Pinckney  June Rent      25    25

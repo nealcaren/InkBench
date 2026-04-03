@@ -1,0 +1,31 @@
+
+
+### Manual Video Game
+
+#### Introduction
+Manual video games are interactive experiences that require players to perform specific sequences of actions, or "moves," on a gaming device. These games often blend entertainment with educational elements, challenging players to think critically and strategically while navigating complex rules and environments.
+
+#### Game Platforms
+- **Console**: Traditional gaming systems like PlayStation, Xbox, or Nintendo Switch.
+- **Computer**: PC games that require a keyboard and mouse.
+- **Handheld Console**: Portable devices like the Nintendo 3DS or Steam Deck.
+- **Smart Device**: Mobile games played on smartphones or tablets.
+
+#### Controller Types
+Different games utilize various controller setups:
+- **Gamepad Joystick**: Used for movement (e.g., left hand on joystick, right hand on buttons).
+- **Start/Select Button**: For pausing or exiting the game.
+- **Esc Keyboard**: Often used in PC games to exit the game or menu.
+
+#### Gameplay Mechanics
+Players engage in actions such as:
+- **Joystick Motion**: Navigating character movements.
+- **Button Presses**: Interacting with game environments (e.g., attacking, defending).
+
+#### Educational and Strategic Elements
+Many manual video games incorporate realistic scenarios, often inspired by real-world challenges. These can include:
+- **Resource Allocation**: Similar to "Strategy for hospital resource allocation."
+- **Risk Management**: Understanding the implications of decisions made within the game.
+
+#### Conclusion
+Manual video games offer a unique blend of entertainment and education, allowing players to immerse themselves in various scenarios while developing critical thinking and problem-solving skills. By engaging with these games, players can explore complex rules and strategies that mirror real-life situations.

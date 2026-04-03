@@ -8,19 +8,20 @@ import os
 import mimetypes
 
 
-def transcribe_historical_document(image_path: str, api_key: str = None, samples_folder: str = "samples", model: str = "google/gemma-3-27b-it") -> str:
+def transcribe_historical_document(image_path: str, api_key: str = None, samples_folder: str = "samples", model: str = "google/gemma-3-27b-it", return_usage: bool = False):
     """
     Transcribe a historical document image using OpenRouter API with few-shot learning examples.
-    
+
     Args:
         image_path (str): Path to the image file to transcribe
         api_key (str, optional): OpenRouter API key. If None, reads from OPENROUTER_API_KEY env var
         samples_folder (str): Path to folder containing sample images and their transcriptions
         model (str): Model to use for transcription (default: "google/gemma-3-27b-it")
-        
+        return_usage (bool): If True, return (text, usage_dict) tuple instead of just text
+
     Returns:
-        str: Transcribed text from the document
-        
+        str or tuple: Transcribed text, or (text, usage_dict) if return_usage=True
+
     Raises:
         FileNotFoundError: If image file doesn't exist
         ValueError: If API key is not provided
@@ -241,11 +242,22 @@ Following these directions when transcribing the text in the image.
     try:
         response = requests.post(url, headers=headers, json=payload)
         response.raise_for_status()  # Raises an HTTPError for bad responses
-        
+
         result = response.json()
-        # print(result)
-        return result["choices"][0]["message"]["content"]
-        
+        try:
+            text = result["choices"][0]["message"]["content"]
+        except KeyError:
+            print(model)
+            print(result)
+            if return_usage:
+                return None, {}
+            return None
+
+        if return_usage:
+            usage = result.get("usage", {})
+            return text, usage
+        return text
+
     except requests.RequestException as e:
         raise requests.RequestException(f"API call failed: {e}")
     except (KeyError, IndexError) as e:

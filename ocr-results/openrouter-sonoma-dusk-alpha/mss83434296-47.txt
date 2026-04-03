@@ -1,0 +1,28 @@
+44
+Document No. 1
+
+EXHIBIT D
+Schedule of Interest
+
+Showing amount of Interest accrued on Bonds from
+July 1st, 1861, to July 1st, 1865.
+
+Interest of $1000 from July 1st, 1861, to July 1st, 1865.
+
+ 1862 From July 1st, 1862, to July 1st, 1863 $30.00
+ 1863 From July 1st, 1863, to July 1st, 1864  30.00
+ 1864 From July 1st, 1864, to July 1st, 1865  30.00
+ 1865 From July 1st, 1865, to July 1st, 1866  30.00
+ a From Jan 1st, 1865, to July 1st, 1865  15.00
+ 1 From July 1st, 1865, to July 1st, 1866  30.00
+ m From April 1st, 1865, to July 1st, 1865  6.00
+ n From June 1st, 1865, to July 1st, 1865  4.00
+ o From July 1st, 1865, to July 1st, 1866  30.00
+ p From Aug 1st, 1865, to July 1st, 1866  28.00
+ q From Sept 1st, 1865, to July 1st, 1866  26.00
+ r From Oct 1st, 1865, to July 1st, 1866  25.00
+ s From Nov 1st, 1865, to July 1st, 1866  24.00
+ t From Dec 1st, 1865, to July 1st, 1866  22.00
+ u From Jan 1st, 1866, to July 1st, 1866  20.00
+
+$360.00

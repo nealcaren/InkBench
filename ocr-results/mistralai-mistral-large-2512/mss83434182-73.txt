@@ -1,0 +1,40 @@
+68
+
+UNION SOLDIERS INTERED IN
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA—Continued.
+
+| No.  | Name                | Rank.       | Co. | Regiment.                          | Date of death. | Sec. | Grave. | Remarks. |
+|------|---------------------|-------------|-----|------------------------------------|----------------|------|--------|----------|
+| 2281 | Jones, Robert...... | Private     | D   | 54th Massachusetts.                | .............. | 16   | 73     |          |
+| 2292 | Joiner, George..... | do.         | I   | 54th Massachusetts.                | .............. |      | ..     |          |
+| 2293 | Johnson, Stephen... | do.         | F   | 54th Massachusetts.                | .............. |      | ..     |          |
+| 2294 | Johnson, Cesar..... | do.         | E   | 1st Massachusetts.                 | .............. |      | ..     |          |
+| 2285 | Jackson, Charles... | do.         | A   | 104th U.S. colored troops.         | .............. |      | 53     |          |
+| 2286 | Jenkins, James..... | do.         | ..  | 104th U.S. colored troops.         | .............. | 31   | ..     |          |
+| 2287 | Jenkins, .......... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | ..     |          |
+| 2288 | Jenkins, Peter..... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | ..     |          |
+| 2289 | Jackson, Charles... | do.         | ..  | 26th U.S. colored troops.          | .............. | ..   | 55     |          |
+| 2290 | Jenkins, Virgil.... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | ..     |          |
+| 2291 | Jackson, Andrew.... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | ..     |          |
+| 2297 | James, Samuel...... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | 57     |          |
+| 2298 | Jones, Anthony..... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | ..     |          |
+| 2304 | James, Prince...... | do.         | ..  | 104th U.S. colored troops.         | .............. | ..   | 72     |          |
+| 2296 | Johnson, George W.. | do.         | ..  | 55th New York.                     | .............. | ..   | ..     |          |
+| 2307 | Johnson, David..... | Sergeant    | H   | 14th New Hampshire.                | .............. | ..   | 101    |          |
+| 2247 | Jourdan, Stiles J.. | Private     | G   | 14th New Hampshire.                | .............. | ..   | 32     |          |
+| 2309 | Jarrett, Richard H. | do.         | ..  | 35th U.S. colored troops.          | .............. | ..   | ..     |          |
+| 2300 | Jarratt, James..... | do.         | ..  | 11th Iowa.                         | .............. | ..   | ..     |          |
+| 2301 | Johnson, Anderson.. | do.         | ..  | 9th Illinois.                      | .............. | ..   | ..     |          |
+| 2302 | Jones, David....... | do.         | D   | 36th Indiana.                      | .............. | 5    | 175    |          |
+| 2303 | Jenkins, Thomas.... | do.         | ..  | 34th U.S. colored troops.          | .............. | ..   | 90     |          |
+| 2304 | Johnson, M. A. E... | do.         | ..  | ...................................| .............. | ..   | ..     |          |
+| 2305 | Jones, D. J........ | ........... | ..  | ...................................| .............. | ..   | ..     |          |
+| 2306 | Jow, B. Gooldridge | do.         | ..  | ...................................| .............. | ..   | ..     |          |
+| 2307 | Joe, M. P.......... | ........... | ..  | ...................................| .............. | ..   | 29     |          |
+| 2308 | Johnson, J. P...... | ........... | F   | 14th West Virginia.                | .............. | 23   | 21     |          |
+| 2309 | Johnson, .......... | ........... | ..  | 1st Connecticut.                   | .............. | ..   | ..     |          |
+| 2310 | Johnson, R. S...... | ........... | ..  | 13th Massachusetts.                | .............. | 36   | ..     |          |
+| 2311 | Johnson, .......... | ........... | ..  | 5th New York.                      | .............. | 16   | ..     |          |
+| 2312 | Jewitt, J. E....... | ........... | B   | 6th Ohio.                          | .............. | 79   | ..     |          |
+| 2313 | Jenkins, R......... | ........... | E   | 5th Indiana.                       | .............. | 10   | ..     |          |
+| 2314 | Jones, Eaton....... | ........... | ..  | 141st New York.                    | .............. | 27   | 102    |          |

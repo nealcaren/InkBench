@@ -1,0 +1,61 @@
+156
+
+Richmond
+
+John S. Moore 164 22 23 Finney & Muser.
+2 Girls Ellen and Anne
+Commission & Paxes
+Board
+C. M. Duerson 98 $\sqrt{33}$ Joseph P. Henley.
+1 Boy Henry
+Commission & Paxes
+Board.
+P. A. Webster & Co. 168 75 $\sqrt{33}$ J. M. Haden & Co.
+1 Man Allan
+Commission & Paxes.
+Board.
+Wm. H. Payne. 143 \16 E. J. Duval.
+1 Boy Tom.
+Commission & Paxes.
+Board.
+E. H. Gates. 110 \23 E. S. Grant
+1 Giri Maria
+Commission & Paxes
+Ed. N. Bradley. 321 \60 Pollard
+1 Woman Amy & 2 Children.
+Commission & Paxes.
+Board & Medical Exam
+R. C. Wherry 108 23 23 Finney & Moser.
+1 Girl Laura
+Commission & Paxes
+James Lawrence 125 \342 C. G. McMurry.
+1 Woman Jane & 2 Children
+Commission & Paxes.
+Board.
+Wm. Allen. 138 24 \342 C. G. McMurry
+1 Girl Patsy
+\208 D. M. Daniel.
+1 Woman Rose
+Commission & Paxes.
+
+3000
+
+275 405 4.595 00
+30 2250
+
+168 75 243 75 2.006 25
+3300
+
+412 50 472 50 5.027 50
+60 1550
+
+241 25 341 25 4.208 75
+4000
+
+200 300 3.700 00
+300 4100
+
+307 50 312 50 3.587 50
+205 2800
+
+210 225 2.575 00

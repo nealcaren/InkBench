@@ -1,0 +1,58 @@
+
+
+**General Transcription Guide**  
+**Core Principles**  
+- Transcribe as the text appears on the image.  
+- Do not correct spelling, grammar, or word choice. Correct numbers only if required by Core Principles.  
+- Preserve original formatting (bold, italics, quotation marks, etc.).  
+
+**Text Handling**  
+- For blends of letters, use [?] for empty spaces.  
+- Do **not** transcribe images; use [[shorthand]] for indecipherable text.  
+- Transcribe notes in margins and footers follow the content they relate to.  
+
+**When Not to Transcribe**  
+- If the image contains blank pages, select “[Nothing to Transcribe]” and move on to the next document.  
+
+**Special Situations**  
+- **Handwriting**: Traditional cursive **should not** be transcribed.  
+  - Transcribe each word in the order it appears on the page in outline form as follows:  
+    *Kelly 8*  
+    *Shann*  
+    *TheoryParticularly*.  
+  - Notate paragraph digressions with * (asterisk).  
+- Nest corrections in **[correction]** as per narrator.  
+- **Mixed Handwriting**: If a document contains a blend of lowercase and uppercase lettering, preserve the original formatting.  
+
+**Document-Specific Guidelines**  
+- **Tables or Graphs**: Transcribe in paragraph form, focusing on data types and message.  
+
+**Transformation Instructions**  
+1. **ASSEMBLY**: Convert headers and major paragraphs above **1500 words** into uppercase using the same font (e.g., italics, bold, etc.), aligning titles separately.  
+2. **TRANSFORMATION**: Convert lowercase text to uppercase as per Assembly.  
+3. **TRANSCRIPT OF THE ITEM**: Transcribe the image as-is, using the same font and preserving spacing.  
+
+**Transcribed Content Overview**  
+- **“Who”**: “Who You Will Become” describes participants (2024–2028).  
+- **“What”**: “Your Impact” outlines contributions (2024–2028).  
+- **“When”**: “Timeline” maps key dates (2024–2028).  
+- **“Where”**: “Participation Locations” lists venues (2024–2028).  
+- **“How”**: “Engagement Criteria” details requirements.  
+
+*Document Fatigue: Personal Experience Map*  
+Fellow & Transformation Fellow Dr. Emily?  
+- Engaged with the “Your Impact” phase at a conference.  
+- Parallels drawn with past leadership roles.  
+- Goal: Align future plans with New Era’s objectives.  
+
+*Additional Notes*  
+- “Women on Bo**ards**: [sic] – Original word choice noted. “  
+- “The word ‘engage’ has been double-spelled.”  
+
+**Business Card (Lydia C. Thompson)**  
+Transformations: Updating personal titles.  
+- **LYDIA C. THOMPSON**  
+- **White**  
+- **1573 LeMar Dr**  
+- **Wooster, Ohio 44691**  
+- *“Change the world, one transformation at a time.”*

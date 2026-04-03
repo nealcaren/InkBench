@@ -1,0 +1,4 @@
+ENLISTED. | WHERE BORN AND PERSONAL DESCRIPTION.
+--- | ---
+NAME. | WHEN. | TERM. | RATING. | CITY, TOWN, OR COUNTY. | DATE. | AGE. | OCCUPATION. | EYES. | HAIR. | COMPLEXION. | HEIGHT.
+John Sivark | 1863 | one year | Sea | N.York | 4th. Brest | 22 | maker | blue | brown | 5 feet 4 1/2 inches. |

@@ -1,0 +1,23 @@
+304
+
+UNION SOLDIERS INTERESTED IN
+
+Name                  Residence                  Regiment and Company          Date of Letter    Remarks
+A. B. Abbott          Boston, Mass.               54th Mass. A                  Aug. 1863         
+J. H. Adams           Philadelphia, Pa.           6th U.S.C.T. B                Sept. 1863        
+W. H. Allen           New York, N.Y.              20th N.Y. Inf. C              Oct. 1863         
+G. W. Anderson        Cincinnati, O.              5th U.S.C.T. D                July 1864         
+T. B. Baker           Rochester, N.Y.             8th U.S.C.T. E                Nov. 1863         
+C. D. Barnes          Pittsburgh, Pa.             45th Pa. Inf. F               Jan. 1864         
+E. F. Bell            Chicago, Ill.               29th Ill. Inf. G              May 1863          
+H. I. Brown           Washington, D.C.            1st U.S.C.T. H                Dec. 1863         
+J. K. Clark           Baltimore, Md.              7th Md. Inf. I                Feb. 1864         
+L. M. Davis           St. Louis, Mo.              56th Ill. Inf. K              June 1863         
+N. O. Evans           Providence, R.I.            11th R.I. Inf. L              Mar. 1864         
+P. Q. Foster          Hartford, Conn.             29th Conn. Inf. M             Apr. 1864         
+R. S. Green           Albany, N.Y.                175th N.Y. Inf. N             Sept. 1863        
+T. U. Harris          Trenton, N.J.               9th N.J. Inf. O               Aug. 1864         
+V. W. Irving          Boston, Mass.               55th Mass. P                  Jan. 1864         
+X. Y. Jones           Philadelphia, Pa.           43d U.S.C.T. Q                Oct. 1863         
+Z. A. King            New Orleans, La.            73d U.S.C.T. R                July 1863         
+B. C. Lee             Nashville, Tenn.            111th U.S.C.T. S              Nov. 1864

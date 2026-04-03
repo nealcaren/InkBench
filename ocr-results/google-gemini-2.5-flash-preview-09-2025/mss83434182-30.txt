@@ -1,0 +1,45 @@
+| 644 | Congdon, J. S. | . . . . . . . . . . . . . | D | 142d N. Y. volunteers | . . . . | 27 | 112 |
+|---|---|---|---|---|---|---|---|
+| 645 | Clouch, H. W. | . . . . . . . . . . . . . | D | 85th Penn. volunteers | . . . . | 20 | 77 |
+| 646 | Churchill, O. H. | . . . . . . . . . . . . . | B | 3d New York artillery | . . . . | 36 | 69 |
+| 647 | Crussell, Walter | . . . . . . . . . . . . . | B | 9th Maine volunteers | . . . . | 36 | 73 |
+| 648 | Chandler, D. H. | . . . . . . . . . . . . . | B | 142d N. Y. volunteers | . . . . | 5 | 170 |
+| 649 | Chambers, Samuel | . . . . . . . . . . . . . | B | 127th N. Y. volunteers | . . . . | 18 | 118 |
+| 650 | Cole, P. H. | . . . . . . . . . . . . . | C | 62d Ohio volunteers | . . . . | 28 | 13 |
+| 651 | Conklin, G. W. | . . . . . . . . . . . . . | E | 112th N. Y. volunteers | . . . . | 26 | 21 |
+| 652 | Cole, J. J. | . . . . . . . . . . . . . | B | 3d Penn. volunteers | . . . . | 18 | 31 |
+| 653 | Crandell, Ephraim | Sergeant | B | 62d Ohio volunteers | . . . . | 15 | 2 |
+| 654 | Collins, G. W. | . . . . . . . . . . . . . | F | 127th N. Y. volunteers | . . . . | 28 | 59 |
+| 655 | Cobb | . . . . . . . . . . . . . | C | 127th N. Y. volunteers | . . . . | 15 | 87 |
+| 656 | Crall, William | . . . . . . . . . . . . . | C | 1st N. Y. engineers | . . . . | 38 | 167 |
+| 657 | Colberson, J. J. | . . . . . . . . . . . . . | F | 52d Penn. volunteers | . . . . | 14 | 44 |
+| 658 | Cole, J. J. | . . . . . . . . . . . . . | B | 9th Maine volunteers | . . . . | 34 | 134 |
+| 659 | Chaffee, J. J. | . . . . . . . . . . . . . | E | 117th N. Y. volunteers | . . . . | 20 | 43 |
+| 660 | Crandall, Walter | . . . . . . . . . . . . . | K | 52d Penn. volunteers | . . . . | 15 | 14 |
+| 661 | Cole, Charles | Bugler | E | 55th Mass. volunteers | . . . . | 27 | 108 |
+| 662 | Churchill, O. H. | Artificer | D | 4th N. H. volunteers | . . . . | 18 | 18 |
+| 663 | Car, Alexander | . . . . . . . . . . . . . | C | U. S. S. Wabash | . . . . | 6 | 67 |
+| 664 | Chapel, Charles F. | . . . . . . . . . . . . . | C | 13th Indiana volunteers | . . . . | 28 | 113 |
+| 665 | Case, N. M. | . . . . . . . . . . . . . | F | 3d R. I. heavy artillery | . . . . | 19 | 15 |
+| 666 | Campbell, C. M. | . . . . . . . . . . . . . | D | 3d R. I. heavy artillery | . . . . | 19 | 76 |
+| 667 | Connelly, Peter | . . . . . . . . . . . . . | H | 40th Mass. volunteers | . . . . | 10 | 96 |
+| 668 | Cisholm, A. | . . . . . . . . . . . . . | F | 67th Ohio volunteers | . . . . | 19 | 36 |
+| 669 | Curtis, William | | H | 3d R. I. heavy artillery | . . . . | 19 | 9 |
+| 670 | Cassaday, J. R. | . . . . . . . . . . . . . | E | 144th N. Y. volunteers | . . . . | 36 | 13 |
+| 671 | Cole, C. H. | . . . . . . . . . . . . . | C | 17th Connecticut volunteers | . . . . | 8 | 31 |
+| 672 | Clapp, Charles E. | . . . . . . . . . . . . . | E | 144th N. Y. volunteers | . . . . | 36 | 21 |
+| 673 | Cairns, William | . . . . . . . . . . . . . | H | 40th Mass. volunteers | . . . . | 38 | 32 |
+| 674 | Curtis, William | . . . . . . . . . . . . . | F | 67th Ohio volunteers | . . . . | 36 | 5 |
+| 675 | Cahill, James P. | . . . . . . . . . . . . . | B | 144th N. Y. volunteers | . . . . | 36 | 8 |
+| 676 | Connell, James P. | . . . . . . . . . . . . . | . . . . | U. S. S. Vermont (marine) | . . . . | 6 | 93 |
+| 677 | Carey, Henry | . . . . . . . . . . . . . | . . . . | U. S. Schooner W. G. Rogers | . . . . | 6 | 130 |
+| 678 | Clinton, William | Pilot | . . . . | U. S. S. Keystone State | . . . . | 6 | 121 |
+| 679 | Conway, John P. | . . . . . . . . . . . . . | . . . . | U. S. S. Nahant | . . . . | 6 | 89 |
+| 680 | Cobb | Quartermaster | . . . . | U. S. S. Keystone State | . . . . | 6 | 102 |
+| 681 | Clark, John G. | . . . . . . . . . . . . . | . . . . | U. S. S. Nahant | . . . . | 6 | 4 |
+| 682 | Collins, G. W. | . . . . . . . . . . . . . | . . . . | U. S. S. Susquehanna | . . . . | 6 | 63 |
+| 683 | Chambers, Alexander | . . . . . . . . . . . . . | C | U. S. S. Susquehanna | . . . . | 6 | 44 |
+| 684 | Cooper, J. | Private | C | 116th Ohio volunteers | . . . . | 10 | 117 |
+| | | | | | | | |
+| | | | | | | | 25 |
+| | | BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA. | | | | |

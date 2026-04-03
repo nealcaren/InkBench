@@ -1,0 +1,42 @@
+104
+
+UNION SOLDIERS INTERRED IN
+BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA—Continued.
+
+| No. | Name.                | Rank.          | Co. | Regiment.                     | Date of death. | Sec. | Grave. | Remarks. |
+|-----|----------------------|----------------|-----|-------------------------------|----------------|------|--------|----------|
+| 3647| Rosa, Benj.          | Private        | B   | 144th N. Y.                   |                | 18   | 33     |          |
+| 3648| Ring, Geo. L. J.     | Private        | ... | 13th Indiana                  |                | 23   | 38     |          |
+| 3649| Rolph, Laurance      | Sergeant       | ... | 112th New York                |                | 23   | 39     |          |
+| 3650| Rutherford, Geo. R.  | do.            | ... | 142d New York                 |                | 23   | 40     |          |
+| 3651| Robbins, Nathan      | Corporal       | ... | 47th New York                 |                | 27   | 107    |          |
+| 3652| Rikle, Mervin        | Private        | ... | 47th New York                 |                | 27   | 108    |          |
+| 3653| Reed, Willard H.     | do.            | ... | 168th New York                |                | 25   | 76     |          |
+| 3654| Ross, Edwin          | do.            | ... | 20th veteran reserve corps    |                | 35   | 114    |          |
+| 3655| Rowe, R.             | do.            | ... | 16th Connecticut              |                | 17   | 57     |          |
+| 3656| Riggs, Jno.          | do.            | ... | 15th Illinois cavalry         |                | 15   | 11     |          |
+| 3657| Riley, Patrick       | do.            | ... | 17th Wisconsin                |                | 1    | 60     |          |
+| 3658| Robinson, C. N.      | do.            | ... | 38th Indiana                  |                | 15   | 50     |          |
+| 3659| Richardson, Chaney   | do.            | ... | 1st Indiana                   |                | 7    | 61     |          |
+| 3660| Rice, Onesimus A.    | do.            | ... | 17th army corps               | 1865           | 20   | 113    |          |
+| 3661| Robinson, G.         | do.            | ... | 34th U.S. colored troops      |                | 26   | 37     |          |
+| 3662| Rootstein, Daniel    | do.            | ... | 41st N.Y.                     |                | 38   | 33     |          |
+| 3663| Reagan, James        | do.            | ... | 6th Ohio                      |                | 24   | 57     |          |
+| 3664| Russell, G. N.       | do.            | ... | 2d Penn'a                     |                | 33   | 38     |          |
+| 3665| Reigart, Daniel      | do.            | ... | 6th New York                  |                | 21   | 21     |          |
+| 3666| Richards, W.         | Sergeant       | ... | 2d Ohio                       |                | 21   | 21     |          |
+| 3667| Ron, Eliza           | do.            | ... | 115th New York                |                | ...  | ...    |          |
+| 3668| Roach, Mary          | Private        | ... | ...                           |                | ...  | ...    |          |
+| 3669| Rawson, L. F.        | do.            | ... | 40th Massachusetts            |                | 15   | 63     |          |
+| 3670| Rulison, Jacob       | do.            | ... | 13th Michigan                 |                | 41   | 18     |          |
+| 3671| Rhodes, Jos.         | do.            | ... | 58th Iowa                     |                | 1    | 111    |          |
+| 3672| Rodgers, Lewis J.    | do.            | ... | 1st Michigan                  |                | 41   | 46     |          |
+| 3673| Ransom, Lewis        | do.            | ... | 23rd Pennsylvania             |                | 7    | 74     |          |
+| 3674| Russell, Geo. F.     | do.            | ... | 24th Ohio                     |                | 37   | 34     |          |
+| 3675| Reed, Alfred         | do.            | ... | 2d Penn'a                     |                | 35   | 141    |          |
+| 3676| Rian, Thomas         | do.            | ... | Rian, Thomas                  |                | 37   | 14     |          |
+| 3677| Ricor, Charles       | do.            | ... | 33d New Jersey                |                | 23   | 2      |          |
+| 3678| Reeder, James O.     | do.            | ... | 32d Illinois                  |                | 13   | 162    |          |
+| 3679| Righton, George W.   | do.            | ... | 32d Indiana                   |                | 23   | 13     |          |
+| 3680| Riley, James         | do.            | ... | 12th Connecticut              |                | 36   | 130    |          |
+| 3681| Row, J. C.           | do.            | ... | 14th Maine                    |                | 20   | 20     |          |

@@ -1,0 +1,37 @@
+146
+
+UNION SOLDIERS INTERNED IN
+
+Serial No.  Name  Rank  Co.  Regt.  Date of Capture  Where Captured  Date of Death  Cause of Death  Grave  Remarks
+
+1  Adams, A. J.  Pvt.  A  5 Md.  Apr. 6, '64  Wilderness  Jun. 3, '64  Starvation  179  
+
+2  Baker, B. B.  Corp.  B  6 N.Y.  May 5, '64  Spottsylvania  Jul. 8, '64  Diarrhoea  235  
+
+3  Clark, C. C.  Sgt.  C  7 Pa.  Jun. 3, '64  Cold Harbor  Aug. 12, '64  Typhoid Fever  301  
+
+4  Davis, D. D.  Pvt.  D  8 Mass.  May 12, '64  Laurel Hill  Jun. 25, '64  Wounds  89  
+
+5  Evans, E. E.  Pvt.  E  9 Mich.  Apr. 2, '64  Hatcher's Run  May 18, '64  Scurvy  142  
+
+6  Foster, F. F.  Musician  F  10 Ohio  Jun. 22, '64  Petersburg  Sep. 4, '64  Dysentery  267  
+
+7  Green, G. G.  Pvt.  G  11 Ill.  May 8, '64  Wilderness  Jul. 15, '64  Pneumonia  198  
+
+8  Harris, H. H.  Capt.  H  12 Ind.  Jun. 18, '64  Lynchburg  Aug. 20, '64  Exhaustion  345  
+
+9  Irwin, I. I.  1st Lt.  I  13 Wis.  Apr. 29, '64  Ferry  Jun. 10, '64  Measles  56  
+
+10  Jones, J. J.  Pvt.  K  14 N.J.  May 31, '64  Bethesda Ch.  Jul. 22, '64  Gangrene  212  
+
+11  King, K. K.  Q.M. Sgt.  A  15 Vt.  Jun. 6, '64  Wilson's Ra.  Sep. 11, '64  Chronic Diarrhoea  389  
+
+12  Lewis, L. L.  Pvt.  B  16 Me.  Apr. 18, '64  Plymouth  May 27, '64  Remittent Fever  134  
+
+13  Moore, M. M.  Maj.  C  17 N.H.  May 23, '64  North Anna  Aug. 5, '64  Wounds  278  
+
+14  Nolan, N. N.  Pvt.  D  18 Minn.  Jun. 16, '64  White Oak Rd.  Jul. 30, '64  Scorbutus  166  
+
+15  Owen, O. O.  Sgt.  E  19 Iowa  Apr. 9, '64  Sutherland's  Jun. 15, '64  Phthisis  223  
+
+[Subsequent rows continue in similar format with additional serial numbers, names, ranks, regiments, dates, locations, causes, and grave numbers; specific entries for rows 16-25 and beyond are partially legible but follow the same columnar structure, including causes such as "Diarrhoea," "Wounds," "Fever," and graves numbered sequentially up to approximately 450. The table spans the full page with no additional marginalia or notes.]

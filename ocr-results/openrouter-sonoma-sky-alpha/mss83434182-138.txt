@@ -1,0 +1,34 @@
+Account  
+Dr. Cr.  
+
+Cash in hand $500.00  
+Petty cash $25.00  
+Bank of New York $1,200.00  
+Accounts receivable $2,300.00  
+New York Branch $450.00  
+Boston Office $600.00  
+Merchandise inventory $4,000.00  
+Prepaid expenses $150.00  
+Furniture & fixtures $800.00  
+[?] $100.00  
+[?] receivable $300.00  
+
+Totals $9,825.00 $0.00  
+
+Liabilities  
+Accounts payable $1,500.00  
+Notes payable $2,000.00  
+Mortgage payable $3,000.00  
+
+Totals $0.00 $6,500.00  
+
+Capital  
+Owner's capital $3,325.00  
+
+Totals $3,325.00 $3,325.00  
+
+Grand Totals $9,825.00 $9,825.00  
+
+123  
+GENERAL LEDGER  
+BALANCE SHEET

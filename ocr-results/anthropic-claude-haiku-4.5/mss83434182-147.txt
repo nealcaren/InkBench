@@ -1,0 +1,39 @@
+142                    UNION SOLDIERS INTERRED IN
+
+No. | Name | Rank | Co. | Regiment | Date of Death | Sex & Grave | Original place of burial
+
+1 | Aberson, John H. | . . . . . | . . . . . | 88th Illinois Infantry . . . . . | Aug. 24, 1863 | 1 | . . .
+2 | Ardsley, T. | . . . . . | K | Illinois Cavalry . . . . . | Oct. 24, 1863 | 71 | Neb.
+3 | Ashley, H. | . . . . . | . . . . . | . . . . . | . . . . . | 49 | Mo.
+4 | Athern, I. | Private | . . . . . | Wisconsin Infantry . . . . . | Aug. 21, 1863 | 42 | . . .
+5 | Allen, J. | . . . . . | . . . . . | . . . . . | Oct. 3, 1863 | 32 | . . .
+6 | Allen, J. | . . . . . | . . . . . | U.S. Colored Infantry . . . | Sept. 3, 1863 | 26 | . . .
+7 | Boyd, O. | . . . . . | A | Wisconsin Infantry . . . . . | . . . . . | 20 | . . .
+8 | Birchard, W.H. | . . . . . | K | . . . . . | . . . . . | 27 | . . .
+9 | Blinn, J. | . . . . . | . . . . . | Wisconsin Infantry . . . . . | Aug. 19, 1863 | 45 | . . .
+10 | Balcom, J. | . . . . . | . . . . . | . . . . . | . . . . . | 54 | . . .
+11 | Bartol, H.L. | Private | G | 88th Illinois Infantry . . . . . | Aug. 20, 1863 | 67 | . . .
+12 | Bacthers, J. | . . . . . | . . . . . | . . . . . | . . . . . | 32 | . . .
+13 | Besset, J. | . . . . . | . . . . . | Wisconsin Infantry . . . . . | Aug. 19, 1863 | 86 | . . .
+14 | Burdick, J. | . . . . . | . . . . . | . . . . . | . . . . . | 87 | . . .
+15 | Barnes, E. | . . . . . | . . . . . | . . . . . | . . . . . | 82 | . . .
+16 | Burne, John | . . . . . | D | 20th Ohio Infantry . . . . . | Oct. 27, 1863 | 88 | . . .
+17 | Bennett, A. | . . . . . | . . . . . | . . . . . | . . . . . | 107 | . . .
+18 | Bartley, J. | . . . . . | G | . . . . . | . . . . . | 1 | . . .
+19 | Blakely, O. | . . . . . | . . . . . | . . . . . | . . . . . | 21 | . . .
+20 | Boughton, H. | . . . . . | . . . . . | . . . . . | . . . . . | 43 | . . .
+21 | Booth, J. | . . . . . | . . . . . | . . . . . | . . . . . | 98 | . . .
+22 | Brown, J. | . . . . . | A | Wisconsin Infantry . . . . . | June 27, 1863 | 95 | . . .
+23 | Braden, J.H. | Private | I | . . . . . | . . . . . | 45 | . . .
+24 | Brewn, M.J. | . . . . . | . . . . . | . . . . . | . . . . . | 72 | Louisiania
+25 | Bowman, W. | . . . . . | . . . . . | Wisconsin Infantry . . . . . | . . . . . | 73 | Miss.
+26 | Brockway, L. | . . . . . | . . . . . | . . . . . | . . . . . | 71 | . . .
+27 | Britton, S. | . . . . . | . . . . . | . . . . . | . . . . . | 174 | . . .
+28 | Burton, J. | . . . . . | . . . . . | . . . . . | . . . . . | 64 | Miss.
+29 | Brower, J. | . . . . . | . . . . . | . . . . . | . . . . . | 134 | . . .
+30 | Burke, James | . . . . . | I | . . . . . | . . . . . | . . .  | . . .
+31 | Brockman, J. | . . . . . | . . . . . | . . . . . | Sept. 1, 1863 | 134 | . . .
+32 | Brown, J.H. | . . . . . | . . . . . | . . . . . | . . . . . | . . . | . . .
+33 | Brockhoff, H. | . . . . . | K | . . . . . | . . . . . | . . . | . . .
+34 | Brand, P. | . . . . . | . . . . . | . . . . . | . . . . . | . . . | . . .
+35 | Bertled, James | . . . . . | K | . . . . . | . . . . . | . . . | . . .

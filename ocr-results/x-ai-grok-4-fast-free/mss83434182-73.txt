@@ -1,0 +1,83 @@
+UNION SOLDIERS INTEREST
+
+County    Date
+
+Alamance  
+
+             0    0    0    0    0
+
+Alexander  
+
+             0    0    0    0    0
+
+Alleghany  
+
+             0    0    0    0    0
+
+Anson  
+
+             0    0    0    0    0
+
+Ashe  
+
+             0    0    0    0    0
+
+Beaufort  
+
+             0    0    0    0    0
+
+Bertie  
+
+             0    0    0    0    0
+
+Bladen  
+
+             0    0    0    0    0
+
+Brunswick  
+
+             0    0    0    0    0
+
+Buncombe  
+
+             0    0    0    0    0
+
+Burke  
+
+             0    0    0    0    0
+
+Cabarrus  
+
+             0    0    0    0    0
+
+Caldwell  
+
+             0    0    0    0    0
+
+Camden  
+
+             0    0    0    0    0
+
+Carteret  
+
+             0    0    0    0    0
+
+Caswell  
+
+             0    0    0    0    0
+
+Catawba  
+
+             0    0    0    0    0
+
+Chatham  
+
+             0    0    0    0    0
+
+Cherokee  
+
+             0    0    0    0    0
+
+Chowan  
+
+             0    0    0    0    0

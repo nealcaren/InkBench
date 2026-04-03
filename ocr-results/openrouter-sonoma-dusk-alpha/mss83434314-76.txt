@@ -1,0 +1,11 @@
+REGISTER OF DEATHS IN THE CITY OF RICHMOND FOR THE MONTH OF [illegible]
+
+[Header row, left section:] No. of Register | Name of Deceased | Date of Death | Age | Sex | Color | Condition (Single, Married, etc.) | Occupation | Place of Birth | Residence | Disease or Cause of Death | Place of Burial | Date of Burial | Name of Undertaker | Remarks
+
+[Header row, middle section:] Name of Deceased | Date of Death | Sex | Color | Condition | Occupation | Place of Birth | Residence | Disease or Cause of Death | Place of Burial | Date of Burial | Name of Undertaker | Remarks
+
+[Header row, right section:] Name of Deceased | Date of Death | Sex | Color | Condition | Occupation | Place of Birth | Residence | Disease or Cause of Death | Place of Burial | Date of Burial | Name of Undertaker | Remarks
+
+[Blank rows with no entries visible]
+
+[Second page: Blank form with identical headers and empty rows throughout]

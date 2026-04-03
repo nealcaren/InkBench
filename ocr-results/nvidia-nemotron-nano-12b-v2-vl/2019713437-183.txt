@@ -1,0 +1,3 @@
+
+
+Hello, I'm an AI that can transcribe texts found in images. Please upload the image you want me to transcribe and I'll provide you a detailed transcript.

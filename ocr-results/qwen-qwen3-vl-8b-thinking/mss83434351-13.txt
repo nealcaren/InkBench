@@ -1,0 +1,113 @@
+The General Ledger Book of the Boston Society for the Relief of the Poor
+
+Name: Mildred Pomeroy  
+No. of Patients: 2  
+Date: Nov. 14  
+Amount in Dollars: 35  
+Amount in Cents: 38  
+Number of Days: 19  
+
+Name: Hannah F. White  
+No. of Patients: 1  
+Date: Oct. 31  
+Amount in Dollars: 15  
+Amount in Cents: 40  
+Number of Days: 10  
+
+Name: Martha L. Smith  
+No. of Patients: 1  
+Date: Nov. 3  
+Amount in Dollars: 15  
+Amount in Cents: 40  
+Number of Days: 12  
+
+Name: Mary L. White  
+No. of Patients: 2  
+Date: Dec. 14  
+Amount in Dollars: 10  
+Amount in Cents: 50  
+Number of Days: 14  
+
+Name: Hester  
+No. of Patients: 1  
+Date: Nov. 16  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 5  
+
+Name: Mary H. Johnson  
+No. of Patients: 1  
+Date: Dec. 28  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 4  
+
+Name: Hannah P. Davis  
+No. of Patients: 1  
+Date: Jan. 4  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 3  
+
+Name: Hester F. Smith  
+No. of Patients: 2  
+Date: Jan. 5  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 2  
+
+Name: Mildred Pomeroy  
+No. of Patients: 2  
+Date: Dec. 1  
+Amount in Dollars: 35  
+Amount in Cents: 38  
+Number of Days: 19  
+
+Name: Hannah F. White  
+No. of Patients: 1  
+Date: Nov. 28  
+Amount in Dollars: 15  
+Amount in Cents: 40  
+Number of Days: 10  
+
+Name: Martha L. Smith  
+No. of Patients: 1  
+Date: Dec. 5  
+Amount in Dollars: 15  
+Amount in Cents: 40  
+Number of Days: 12  
+
+Name: Mary L. White  
+No. of Patients: 2  
+Date: Jan. 1  
+Amount in Dollars: 10  
+Amount in Cents: 50  
+Number of Days: 14  
+
+Name: Hester  
+No. of Patients: 1  
+Date: Dec. 15  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 5  
+
+Name: Mary H. Johnson  
+No. of Patients: 1  
+Date: Jan. 2  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 4  
+
+Name: Hannah P. Davis  
+No. of Patients: 1  
+Date: Jan. 11  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 3  
+
+Name: Hester F. Smith  
+No. of Patients: 2  
+Date: Jan. 21  
+Amount in Dollars: 25  
+Amount in Cents: 0  
+Number of Days: 2

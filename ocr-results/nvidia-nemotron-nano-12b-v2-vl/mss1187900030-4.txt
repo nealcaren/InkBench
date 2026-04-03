@@ -1,0 +1,171 @@
+
+
+Core Principles
+
+### Transcribe What You See
+- Preserve original spelling, grammar, and punctuation exactly as written
+- Do not paraphrase or correct errors
+- Type what you see, not what you think it should say
+- Transcribe text in the order it appears on the page (as you would read it aloud)
+
+### When Not to Transcribe
+- **Blank pages**: Check "Nothing to Transcribe" and save
+- **Images only**: If a page contains only images and no text, click "Nothing to Transcribe"
+- **Mass-produced content**: Skip pre-printed calendars, almanacs, and dates in diaries that don't aid historical discovery
+- **Shorthand**: Insert [[shorthand]] instead of attempting to transcribe shorthand symbols
+
+## Text Handling
+
+### Basic Text
+- Transcribe all legible text including letterheads, page numbers, and catalog numbers
+- Read and transcribe columns in logical reading order
+- Don't attempt to preserve formatting (bold, italic, underline, indentation)
+
+### Abbreviations and Symbols
+- Do not expand abbreviations - transcribe exactly as written
+- Transcribe symbols as they appear (&, $, £, §, etc.)
+- Use lowercase "s" for historical "long s" that looks like "f"
+
+### Line and Page Breaks
+- Preserve line breaks as they appear
+- When words break across lines on the same page, write the complete word on the first line
+- When words break across pages, transcribe the word on the first page
+- For multiple pages in one image, transcribe all pages in order with empty lines between them
+
+## Special Situations
+
+### Illegible or Unclear Text
+- Use [?] for completely illegible words
+- For partially readable words, transcribe visible letters: s[????] for "s" followed by unreadable letters
+- If you can't read much of a page, save and move to another document
+
+### Text Modifications
+- **Deletions**: Transcribe crossed-out text within square brackets [deleted text]
+- **Insertions**: Include inserted text in natural reading order without special notation
+- **Marginalia**: Transcribe margin notes within [* *], placed after relevant text or at the end if unrelated
+
+### Punctuation and Special Cases
+- Make best judgment for historical punctuation (en dash, em dash, etc.)
+- Reduce excessive ellipses to three dots (...)
+- Ignore bleed-through text (backward/mirror text from other side of thin paper)
+
+## Document-Specific Guidelines
+
+### Tables
+- Preserve relationships between columns and rows
+- Focus on capturing data accurately, not replicating exact layout
+- Use spaces and line returns to maintain readability
+
+### Newspapers
+- Transcribe all articles, not just seemingly relevant ones
+- Follow natural column reading order
+- Don't attempt to preserve layout
+
+### Envelopes
+- Transcribe all legible text including postmarks and stamps
+- Mark postmarks and stamps as marginalia [* *]
+
+### Cross-Writing
+- Transcribe layered text in natural reading order
+- Add "cross-writing" tag when applicable
+
+## Languages and Characters
+
+### Non-English Text
+- Transcribe completely in original language
+- Use correct characters (Ç not C)
+- Do not translate - transcribe only
+- Use alt codes for special characters
+
+## Quality Guidelines
+
+### What to Avoid
+- Don't describe images or non-text features in transcription
+- Don't add formatting characters or layout symbols
+- Don't guess at heavily damaged or illegible text
+
+---
+
+**Transcription of Image Item (Page 1):**
+
+deburechick- bus- Have may receiving none
+answer yes, exper- and D right - Jo has
+I'm beautiful much ever since he left
+and I do really think we will have Jestph
+time but I in-will in still later sharp. 
+Isbeth is more and Mannheim a four 
+here action here
+Material sight Two leave
+12 our tuesday cockpit Wednesday week 
+She could she Plus mor- people pasty ap- 
+Abedments you-- but I think I'll do odd- 
+morning and only a little not done and it is Jackie und GR
+in a great deal junjun during and confusion nicking
+the ochsoolle asel the fleet which advertised
+faught the jen- faught as full of folkt
+as possible I hope your will appear dinner 
+shopable a time as your will have row—a— 
+will not - therefore not
+will have 2 keep on-hand right 
+the Governor of Missiout' a few more days 
+$2,000 offerd for his Val and Daniel
+time has given himself up.
+Mother wishes me either and
+and enclosed you pendant love , 
+from Jacobyou Je and
+je sent a few leaves, 
+
+---
+
+**Transcription of Image Item (Page 2):**
+
+they are in the north now
+and Danie per-
+gresses so well that 
+I am sure Adeline will dance there
+Weeping.
+John+telethic! Eager news.
+Maria Mor-
+Dbry Mor-
+I left back long ago Jennifer 
+
+---
+
+**Complete Transcript:**
+
+department-...bus- Have may receiving none
+answer yes, exper- and D right - Jo has
+I'm beautiful much ever since he left
+and I do really think we will have Jestph
+time but I in-will in still later sharp. 
+Isbeth is more and Mannheim a four 
+here data action here
+Material sight Two leave
+12 our tuesday cockpit Wednesday week 
+She could she Plus mor- people pasty ap- 
+Abedments you-- but I think I'll do odd- 
+morning and only a little not done and it is Jackie und GR
+in a great deal junjun during and confusion nicking
+the ochsoolle asel the fleet which advertised
+faught the jen- faught as full of folkt
+as possible I hope your will appear dinner 
+shopable a time as your will have row—a— 
+will not - therefore not
+will have 2 keep on-hand right 
+the Governor of Missiout' a few more days 
+$2,000 offerd for his Val and Daniel
+time has given himself up.
+Mother wishes me either and
+and enclosed you pendant love , 
+from Jacobyou Je and
+je sent a few leaves, 
+
+they are in the north now
+and Danie per-
+gresses so well that 
+I am sure Adeline will dance there
+Weeping.
+John+telethic! Eager news.
+Maria Mor-
+Dbry Mor-
+I left back long ago Jennifer

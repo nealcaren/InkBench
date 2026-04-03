@@ -1,0 +1,16 @@
+A.C. Account of Expenses
+From July 1st to Dec 31st 1876
+
+     |    | 1876 | Dr. |
+Cash | 1  | July | 3 25 |
+Sundries | 3 | Aug  | 15  |
+Lodging | 10| Sept | 20  |
+     |    | Oct  |      |
+     |    | Nov  |      |
+     |    | Dec  |      |
+Sundries | - |      | 5   |
+     |    |      |      |
+
+[Bottom section, empty table cells with lines]
+
+Sundries | - |      |      |

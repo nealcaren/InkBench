@@ -1,0 +1,35 @@
+PAY ROLL.
+No.  MOBILE & OHIO R.R.
+
+| Name | No. | Days | Amt. |
+|------|-----|------|------|
+| J.W. Boyd | 1 | 26 | $52.00 |
+| C. Bryson | 2 | 26 | 52.00 |
+| Jno. Burns | 3 | 26 | 52.00 |
+| J. Clark | 4 | 26 | 52.00 |
+| J. Davis | 5 | 26 | 52.00 |
+| J. Doran | 6 | 26 | 52.00 |
+| G. Evans | 7 | 26 | 52.00 |
+| J. Flynn | 8 | 26 | 52.00 |
+| J. Green | 9 | 26 | 52.00 |
+| J. Hall | 10 | 26 | 52.00 |
+| J. Ives | 11 | 26 | 52.00 |
+| J. Jones | 12 | 26 | 52.00 |
+| J. Kane | 13 | 26 | 52.00 |
+| J. Lane | 14 | 26 | 52.00 |
+| J. Moore | 15 | 26 | 52.00 |
+| J. Nash | 16 | 26 | 52.00 |
+| J. O'Brien | 17 | 26 | 52.00 |
+| J. Pierce | 18 | 26 | 52.00 |
+| J. Quinn | 19 | 26 | 52.00 |
+| J. Reed | 20 | 26 | 52.00 |
+| J. Smith | 21 | 26 | 52.00 |
+| J. Taylor | 22 | 26 | 52.00 |
+| J. Upton | 23 | 26 | 52.00 |
+| J. Vance | 24 | 26 | 52.00 |
+| J. Ward | 25 | 26 | 52.00 |
+| J. Young | 26 | 26 | 52.00 |
+
+Checked
+$1352.00
+By Jno. Smith Asst. Supt.

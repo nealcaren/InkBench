@@ -1,0 +1,61 @@
+
+
+\begin{tabular}{cccccc}
+ & Name. & Rank. & Co. & Regiment. & Date of death. & Remarks.\\
+ & Jones, Robert..... Private ..... do ..... do ..... 54th\ Massachusetts ..... do ..... do ..... do..... F 54th Massachusetts ..... 7-..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... do ..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... do ..... 16..... F 54th Massachusetts ..... 73..... F 54th Massachusetts ..... 594h Massachusetts ..... do ..... 1- Massachusetts ..... do ..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... 73..... 54th Massachusetts ..... do..... 16..... Massachusetts ..... do ..... 54th Massachusetts ..... 8 do..... 16..... 54th Massachusetts ..... F P. 54th Massachusetts ..... 73..... 54th Massachusetts ..... 7-   54th Massachusetts ..... 73.....\\
+ & Johnson, George. & Private & do ..... do ..... & 54th U.S. colored troops ..... do ..... & do ..... F 104th U. S. colored troops ..... do ..... 104th U.S. colored troops ..... do ..... 104th U. S. colored troops ..... — Massachetts ..... 5404 U.S. colored troops ..... do .\\\\
+ & Johnson, Stephen. & Private & do..... do ..... do ..... do.\\\\\\
+ & Joiner, Norrer. & Private & do..... do ..... & 104th U. S. colored troops ..... do ..... & 5 .....\\
+ & Johnso, Caster- & Private & do..... do ..... do ..... F 104th U.S. co'red troops ..... do ..... & 31 ..... 2 ..... 31..... 53 .....\\
+ & Jackson, Charleton. & Private & do..... do..... do..... do..... 104th U.S. colored troops ..... do ..... & 31..... 31 ..... X \\\\\\
+Jenkins, Jans Scott) & Private & do ..... do ..... do..... do..... 104th U.S. colored troops ..... do ..... & 31 ..... 53 .....\\
+ & Jenkins, Josiah. & Private & do..... do..... do..... 104th\newline G\newline do..... do..... 104th U.S. colored troops ..... do ..... & 58\newline do ..... 29\newline do ..... 27\newline do ..... 58\newline do ..... 29\newline do ..... 27\newline do ..... 27\newline do..... 18 .... 18\newline do ..... 52\\
+Jackso, Charles. & Private & do ..... G do ..... do ..... & do..... do..... do ..... 26th\newline E\newline U.S.\ colored\newline troops ..... do ..... do\\\\\\
+ & Jenkiins, Virgild. & Private & do ..... do ..... do ..... do..... 104th U.S. colored troops ..... do..... & 31\newline do ..... do..... 31\newline do ..... 31\newline do ..... 31\newline do ..... 64\newline do ..... do ..... 31\newline do ..... 31\newline do ..... 26\newline do ..... 31\newline do ..... 98\newline do ..... 31\newline do ..... 98\newline do ..... 31\newline do ..... 98\newline do ..... 31\newline do ..... 86\newline do\newline do .. & do\newline do ... 31\newline do ..... 98\newline do..... 31\newline do .....\\
+ & James, Samuel. & Private & do ..... K\newline do ..... do ..... do..... 104th U. S. colored troops ..... do ..... & 31\newline do ..... 31\newline do ..... 31\newline do\newline do ..... 98\newline do\newline do ..... 31\newline do ..... 98\newline do ..... 31\newline do ..... 98\newline do ..... 31\newline do ..... 98\newline do ..... 31\newline do ..... 98\newline do \\
+James, Prince. & Private & do ..... do ..... do..... do..... do..... 104th U.\newline do\newline E\newline do ..... do\newline S\newline do..... do ..... 104th\newline G\newline U.S.\ newlamp\newline do\newline do\newline do\newline troops\newline do ..... do ..... 293h\newline U.S.\ newlamp\newline .do\newline troops\newline do.. & do\newline do\newline S\newline do\newline colored\newline troops\newline do\newline do\newline do\newline do\newline I\newline do\newline do\newline 98\newline do\newline 98\newline do\newline 31\newline do\newline 98\newline do\newline 98\newline do\newline 31\newline do\\
+Jonas, George W. & Sergeant & do ..... H\newline do\newline do\newline do\newline do\newline Sergeant\newline do\newline Sergeant\newline Sergeant\newline do\newline do\newline Colonel\newline H\newline do\newline Colonel\newline Albert\newline do\newline do\newline Major\newline E\newline do\newline do\newline and\newline Private\newline do\newline do\newline Sergeant & do ... do..... Sergeant## do\newline do\newline do\newline do\newline do\newline Lnewline Sergeant\newline do\newline data\newline do\newline do\newline do\newline do\newline G\newline New\newline York\newline Private\newline H\newline do\newline do\newline Colonel\newline E\newline do\newline (K.K.& suggests\newline Albert\newline had\newline do\newline data\newline Lee\newline do\newline Col.& \\\\\\
+Jameson, David & Private & do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline do\newline U.S\newline E\newline colored\newline Troops\newline Lee\newline Soldiers\newline G\newline do\newline data\newline Col\newline do & do\newline do\newline do\newline data\newline do\newline Alvar.\\\\\\
+Fischoa, Andrew. & Private & do\newline do\newline do\newline do\newline do\newline G\newline data\newline do\newline G\newline do\newline do\newline H\newline do\newline do\newline Sergeant\newline do\newline Majore\newline do\newline G\newline New\newline Hampshire\newline Private\newline do\newline do .... do\newline do\newline do\newline H\newline  ... newlamp\newline York\newline Private\newline b\newline do\newline do\newline U.S\newline 1nd.do\newline 7th\newline Ney\newline Hampshire\newline York\newline Private\newline do\newline do\newline do\newline Colonel\\\\\\
+Johnson, Richard\newline H 11 11 11 11 11 11\newline 16ine & Sergeant & do\newline do\newline do\newline do\newline Sergeant\newline do\newline Sergeant\newline do\newline do\newline Private\newline do\newline do\newline Sergeant\newline do\newline Private\newline do\newline do\newline Sergeant\newline data\newline private\newline do\newline do\newline Sergeant\newline private\newline do\newline do\newline Majore\newline Sergeant\newline Lee\newline do\newline Colonel\newline do\newline do\newline Majore\newline data\newline P rien\newline P\newline H\newline do\newline \&lt;\newline \end{tabular}
+
+\begin{tabular}{cccccc}
+No. & Name. & Rank. & Co. & Regiment. & Date of death. & Remarks. \\
+2231 & Jones, Robert & Private & D & 54th Massachusetts & 16 & 73 \\
+2232 & Joiner, George & Private & F & 54th Massachusetts & 7 & 8 \\
+2233 & Johnson, Stephen & Private & B & 54th Massachusetts & 8 & 90 \\
+ & Johnpert, Cassor & Private & F & 54th Massachusetts & 8 & 98 \\
+ & Jackson, Charles & Private & B & 54th Massachusetts & 8 & 98 \\
+ & Jenkins, James & Private & AI & 104th U.S. colored troops & '' & 101 \\
+ & Judges, Josiah & Private & I & 104th U.S. colored troops & 5 & 29 \\
+ & Jenkins, Peter & Private & E & 104th U.S. colored troops & 5 & 29 \\
+ & Jackson, Charles & Private & G & 104th U.S. colored troops & 5 & 29 \\
+ & Felrcln, Virganci & Private & G & 104th U.S. colored troops & 5 & 29 \\
+ & Apparently & do & B & 104th U.S. coloped troops & 5 & 30 \\
+ & Jackson, Andrew & Private & K & 104th U.S. colored troops & 5 & ?? \\
+ & Jones, Samuel & Private & A & 104th U.S. colored troops & 7 & 36 \\
+ & James, Prince & Private & E & 104th U.S. colored troops & 6 & IS \\
+ & Jackson, Anthony & Private & E & 104th U.S. colored troops & 6 & 6 \\
+ & Jones, George W. & Private & G & 104th U.S. colored troops & 6 & 86 \\
+ & Johnson, David & Private & H & 34th U.S. colored troops & 6 & 18 \\
+Jnersongs & Styles J. & Private &  & do & '' & AM \\
+Let. Farr & Private & F & 7th New Hampshire. & 6 & 52 \\
+Jcomposition & Private & H & 144th New York & 8 & 6 \\
+Jacment, Anderson & Private & I & 11th Iowa & 8 & \\
+Jonas, David & Private & E & 9th Illinois & 7 & 118 \\
+pishbaar & Private & D & 25th Indiana. & 8 & 90 \\
+2304 & Johnson, Thomas & Private & H & 34th U.S. colored troops & 9 & 98 \\
+ & Jawson\newline M.A. & ....... & ....... & ....... & ....... & ....... \\
+2305 & Jones, D.J & ....... & ....... & ....... & ....... & ....... \\
+ & Saw, B,Goworlande & ....... & ....... & ....... & ....... & ....... \\
+2307 & Joe, M.P & ....... & ....... & ....... & ....... & ....... \\
+ & Jascome, J & ....... & ....... & ....... & ....... & ....... \\
+2309 & outlettl., f & Sergeant & F & 14th West Virginia & 23 & 21 \\
+ & Jaazasw, R S & Sergeant & I & 17th Connecticut & 36 & 28 \\
+ & finer and & Sergeant & F & 17th Connecticut & 36 & do \\
+ & Jaewen, J & Sergeant & I & 18th Massac'h_tisiate & 15\n & 84 \\
+ & Jaewon, Joyce\\newline E. & Sergeant & F & 54th New York & 16 & 28 \\
+ & Jorsham, L-S & Sergeant & E & 6th Ohio & 26 & 28 \\
+ & Jawnsis, R. & Sergeant & } & not\newline pigs & 244, & 79 \\
+ & Jones, Eaton & Sergeant & F & not\newline pings & 27 & 100 \\
+\end{tabular}

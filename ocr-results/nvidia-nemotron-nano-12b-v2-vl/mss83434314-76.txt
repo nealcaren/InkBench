@@ -1,0 +1,27 @@
+
+
+\begin{tabular}{cccccccccccc}
+\multirow{2}{*}{**No.**} & \multirow{2}{*}{**NAMES. Present and absent. (Profession, weapon, taking ...)} & \multirow{2}{*}{**RANK**} & \multicolumn{4}{c}{**JOINED FORS AND EARLY AT General Rennesz. Commencement of first attachment by time.**} & \multicolumn{3}{c}{\textit{MUSTERED INTO SERVICE.}} & \multirow{2}{*}{**LAST PAID. (See note 6.)**} & \multirow{2}{*}{**NAMES present.**} & \multirow{2}{*}{**NOTES.**}\\
+ &  &  & **When.** & **Where.** & **By whome.** & **Period.** & **When.** & **Where.** & **By whom.** &  &  & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+\end{tabular}
+
+\begin{tabular}{cccccccccccc}
+\multicolumn{5}{c}{**Joined [HALAVASSEV]; to entry status (See note 7.)**} & \multicolumn{3}{c}{**MUSTERED TOO THAT Butter EARLY FANSFOR [HALAVASSEV]; to entry status (See note 7.)**} & \textbf{For uninterrupted.)} & \textbf{When combination errors were not unsure** (*} & \textbf{Defined among usage with will now (\*)} & \textbf{Exercises not collaterally numbers (actual batsen are mentioned)} & \textbf{Remarks about powder (\*)}\\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+ & & & & & & & & & & & & \\
+\end{tabular}

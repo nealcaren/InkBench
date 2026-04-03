@@ -1,0 +1,7 @@
+NAME. | ENLISTED. | WHERE BORN AND PERSONAL DESCRIPTION.
+| When. | Term. | Rating. | City, Town, or County. | Date. | Age. | Occupation. | Eyes. | Hair. | Complexion. | Height.
+| | | | | | | | | | | Feet. | Inches.
+John Frank | 1863 | one | Ord | N. York | | 22 | Brush | | | Negro. | 5 | 4½
+| | Oct. | year | Sea | | | | makr. | | | | |
+
+John Frank

@@ -1,0 +1,39 @@
+156
+UNION SOLDIERS INTERRED IN
+
+NATCHEZ NATIONAL CEMETERY, MISSISSIPPI—Continued.
+
+No.	Name.	Rank.	Co.	Regiment.	Date of death.	Sec.	Grave.	Original place of burial.
+3035	Unknown, 2		---	58th U.S. colored troops.		15	245, 246	Natchez, Mississippi.
+3039	Unknown, 4		---	58th U.S. colored troops.		15	251-254	Do.
+3041	Unknown, 2		---	58th U.S. colored troops.		15	255, 256	Do.
+3042	Unknown, 1		---	58th U.S. colored troops.		15	257	Do.
+3045	Unknown, 3		---	58th U.S. colored troops.		15	259-261	Do.
+3046	Vanderkin, James		---	16th New York.		4	15	Do.
+3047	V. W.		---	12th Wisconsin infantry.		1	29	Do.
+3048	W.A.I.		---	29th Wisconsin infantry.		1	9	Do.
+3049	Wohlford, G.		---	11th Illinois infantry.		1	83	Do.
+3050	Walker, E.D.	3d corporal	---	32d Illinois infantry.		1	93	Do.
+3051	Webb, M.F.		---	15th Ohio artillery.		1	108	Do.
+3052	Wolford, George.	Corporal	---	11th Illinois infantry.		1	117	Do.
+3053	Weaver, E.A.	Private	---	26th Ohio artillery.		2	3	Do.
+3054	Wells, R.M.	do	---	8th New Hampshire infantry.		2	4	Do.
+3055	Witchery, William.	do	---	8th New Hampshire infantry.		2	5	Do.
+3056	Wind, Charles.	do	---	35th Wisconsin infantry.		2	10	Do.
+3057	White, Green B.		---	---		3	111	Do.
+3058	Wells, Charles S.	Acting mast's mate.	---	U.S.S. Chillicothe.	April 28, 1864	*5	63	Acklin’s Plantation, Louisiana.
+3059	Walters, Frederick.	Fireman.	---	U.S.S. Avenger.	Nov. 26, 1864	5	97	Rodney, Mississippi.
+3060	Ward, Albert		---	U.S.S. Hartford.		7	66	Angola Plantation, Louisiana.
+3061	Woodford, Allen.	Private	---	20th U.S. infantry.		7	82	Vandalia, Louisiana.
+3062	Washington, George.	Corporal	---	66th U.S. colored infantry.	Aug. 10, 1867	1	167	Natchez, Mississippi.
+3063	Walker, George Walker.	do	---	70th U.S. colored infantry.		Mar. 20, 1865	11	123	Do.
+3064	Walker, Thornton.	Private	---	70th U.S. colored infantry.	Aug. 10, 1865	11	124	Do.
+3065	Washington, Philip.	do	---	6th U.S. heavy artillery.		11	357	Do.
+3066	Williams, Jackson.		---	---		12	278	A. V. Davis’s Plantation, La.
+3067	Wilson, John.	Private	---	6th ___ heavy artillery.		13	2	Do.
+3068	Walker, William.	Private	---	58th U.S. colored infantry.		13	230	Do.
+3069	Wakefield, James.	Private	---	70th U.S. colored infantry.		15	159	Do.
+3070	Walker, Nat.	do	---	5th U.S. colored cavalry.	April 23, 1865	15	178	Concordia, Louisiana.
+3071	Washington, George.	do	---	6th U.S. colored infantry.		15	191	Vidalia, Louisiana.
+3072	Williams, Joseph.	do	---	58th U.S. colored infantry.		15	196	Natchez, Mississippi.
+3073	Zickparse, Elias.	do	---	83d Ohio infantry	Mar. 12, 1865	2	6	Do.

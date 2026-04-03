@@ -1,0 +1,85 @@
+156                    UNION SOLDIERS INTERRED IN
+
+No. | Name | Rank | Co. | Regiment. | Date of death. | Sec. | Graves. | Original place of burial.
+
+3025 | Unborn, J. | . . . . | . . . . | . . . . | . . . . | 15 | 51206 | Salkoe, Mississippi.
+3026 | Unborn, J. | . . . . | . . . . | . . . . | . . . . | 15 | 51206 | do
+3041 | Unborn, J. | . . . . | . . . . | . . . . | . . . . | 15 | 51206 | do
+3042 | Unborn, J. | . . . . | . . . . | . . . . | . . . . | 15 | 51206 | do
+3043 | Unborn, James | . . . . | . . . . | . . . . | . . . . | 15 | 51206 | do
+3046 | Unborn, James | . . . . | . . . . | . . . . | . . . . | 15 | 51206 | do
+
+3047 | Underwood, A. | . . . . | . . . . | U.S. colored troops | . . . . | 4 | 29 | do
+3048 | Underwood, J. | . . . . | . . . . | . . . . | . . . . | 1 | 83 | do
+3050 | Upton, J. | . . . . | . . . . | New York cavalry | . . . . | 1 | 83 | do
+3051 | Usher, J. | . . . . | . . . . | Wisconsin infantry | . . . . | 1 | 112 | do
+3052 | Utley, A. | . . . . | . . . . | Illinois cavalry | . . . . | 1 | 113 | do
+3053 | Utley, J. | . . . . | . . . . | do | . . . . | 1 | 114 | do
+3054 | Utley, J. | . . . . | . . . . | do | . . . . | 1 | 114 | do
+
+3055 | Vail, New Hampshire | . . . . | . . . . | . . . . | . . . . | A | 11 | do
+3056 | Valentine, A. | . . . . | . . . . | New Hampshire infantry | . . . . | C | 63 | do
+3057 | Van Horne, B. | . . . . | . . . . | do | . . . . | C | 63 | do
+
+3059 | Vance, J. | . . . . | . . . . | do | . . . . | C | 63 | do
+3060 | Vane, Corporal | . . . . | . . . . | do | . . . . | C | 63 | do
+3061 | Vane, I. | . . . . | . . . . | do | . . . . | C | 63 | do
+3062 | Van Selden, J. | . . . . | . . . . | Armstrong infantry | Aug. 28, 1863 | C | 127 | do
+3063 | Vanscoy, J. | . . . . | . . . . | New Hampshire infantry | . . . . | F | 207 | do
+3064 | Vanzant, J. | . . . . | . . . . | do | . . . . | H | 267 | do
+
+3065 | Vaughn, George William | . . . . | . . . . | do | . . . . | H | 267 | do
+3067 | Velsey, I. | . . . . | . . . . | U.S. colored infantry | . . . . | . . . . | . . . . | do
+3068 | Vermilon, A. | . . . . | . . . . | do | . . . . | K | 336 | do
+3069 | Vernot, C. | . . . . | . . . . | do | . . . . | K | 336 | do
+
+3070 | Vicary, J. | . . . . | . . . . | do | . . . . | O | 352 | do
+3071 | Vicary, George | . . . . | . . . . | do | . . . . | O | 352 | do
+3072 | Vicary, William | . . . . | . . . . | do | . . . . | O | 352 | do
+3073 | Vickers, George | . . . . | . . . . | do | . . . . | A | 355 | do
+
+3074 | Vincent, N. George | . . . . | . . . . | do | . . . . | P | 431 | do
+3075 | Vincent, N. George | . . . . | . . . . | do | . . . . | P | 431 | do
+
+3079 | Vincent, William | . . . . | . . . . | do | . . . . | P | 446 | do
+3080 | Vinton, Charles | . . . . | . . . . | U.S. cavalry infantry | . . . . | B | 459 | do
+3081 | Violett, Andrew | . . . . | . . . . | do | . . . . | B | 459 | do
+
+3083 | Vittum, Andrew | . . . . | . . . . | do | . . . . | . . . . | 561 | do
+
+3085 | Vocall, James | . . . . | . . . . | do | . . . . | I | 159 | do
+3086 | Volle, William | . . . . | . . . . | do | . . . . | I | 159 | do
+
+3088 | Vogel, George | . . . . | . . . . | do | . . . . | . . . . | . . . . | do
+
+3089 | Vogel, George | . . . . | . . . . | do | . . . . | I | 159 | do
+3090 | Vogel, William | . . . . | . . . . | do | . . . . | I | 159 | do
+
+3091 | Vollaert, Andrew | . . . . | . . . . | Arkansas | April 25, 1865 | I | 159 | do
+3092 | Vonkirk, Andrew | . . . . | . . . . | Ohio cavalry | . . . . | . . . . | 152 | do
+3093 | Voohees, Henry | . . . . | . . . . | Virginia cavalry | . . . . | . . . . | 152 | do
+
+3095 | Voskamp, German | . . . . | . . . . | do | . . . . | A | 152 | do
+3096 | Voss, William | . . . . | . . . . | do | . . . . | O | 152 | Corinth, Illinois.
+3097 | Vought, N. George | . . . . | . . . . | do | . . . . | . . . . | . . . . | do
+
+3098 | Vowell, William | . . . . | . . . . | do | . . . . | I | 152 | do
+3099 | Vowel, N. George | . . . . | . . . . | do | . . . . | I | 152 | do
+3100 | Vreeland, N. George | . . . . | . . . . | do | . . . . | I | 152 | do
+
+3101 | Vreeland, N. George | . . . . | . . . . | do | . . . . | I | 152 | do
+3102 | Vulkert, Andrew | . . . . | . . . . | do | . . . . | . . . . | . . . . | Salkoe, Mississippi.
+
+3103 | Vulgert, Andrew | . . . . | . . . . | do | . . . . | . . . . | . . . . | do
+
+3105 | Vulkin, William | . . . . | . . . . | do | . . . . | . . . . | 152 | Ashley's Plantation, La.
+3106 | Vullar, Andrew | . . . . | . . . . | do | . . . . | I | . . . . | Salkoe, Mississippi.
+3107 | Vullar, Andrew | . . . . | . . . . | do | . . . . | I | . . . . | do
+
+3108 | Vuncanan, George | . . . . | . . . . | do | . . . . | D | 152 | do
+3109 | Vungel, William | . . . . | . . . . | do | . . . . | . . . . | 152 | do
+3110 | Vyner, George | . . . . | . . . . | do | . . . . | . . . . | 152 | do
+
+3111 | Waggon, James | . . . . | . . . . | do | . . . . | A | 152 | do
+3112 | Wagner, Henry | . . . . | . . . . | do | . . . . | B | 152 | do
+3113 | Zachman, George | . . . . | . . . . | do | . . . . | . . . . | 152 | do

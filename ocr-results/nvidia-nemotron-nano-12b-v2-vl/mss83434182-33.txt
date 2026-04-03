@@ -1,0 +1,41 @@
+
+
+\begin{tabular}{cccccccc}
+No. & Name & Rank & Co. & Regiment & Date of death & Sect. & Grave  \\
+\multicolumn{8}{c}{Remarks.} \\
+761 & Cotton, H & Private & E & 9th Maine volunteers &  .. & 20 & 12 \\
+762 & Clayve, G & do. & C & 115th New York volunteers &  .. & 31 & 40 \\
+763 & Cassidy, G & do. & D & 115th New York volunteers &  .. & 31 & 47 \\
+764 & Crandall, Paul & do. & G & 115th New York volunteers &  .. & 31 & *[?] 37 \\
+765 & Callamore, S. E & do. & H & 8th Maine volunteers &  .. & 19 & 116 \\
+766 & Clark, A & Private & D & 115th New York volunteers &  .. & 31 & 53 \\
+767 & Clayson, Charles & Corporal & A & 115th New York volunteers &  .. & 30 & 34 \\
+768 & Chatham, J & Seaman & P & U. S. steamer Pawnee &  .. & 26 & 25 \\
+769 & Crane, C & Private & P & 99th New York volunteers &  .. & 35 & 22 \\
+770 & Chapman, W. H. & Sergeant & B & 23d Massachusetts vols. &  .. & 15 & 54 \\
+771 & Cramer, F & do. & D & 1786 Pennsylvania vols. &  .. & 38 & 42 \\
+772 & Cantini, Aug & do. & I & - - New York engineers &  .. & 28 & 90 \\
+773 & Crook, T & do. & A & - - New York engineers &  .. & 28 & 120 \\
+774 & Cramer, J & do. & D & 76th Pennsylvania volunteers &  .. & 38 & 20 \\
+775 & Campbell, Andrew J & Private & A & 31 New Hampshire vols. &  .. & 17 & 47 \\
+776 & Colby, Daniel L & do. & A & 31 New Hampshire vols. &  .. & 17 & 46 \\
+777 & Caban, William & do. & B & 31 New Hampshire vols. &  .. & 17 & 29 \\
+778 & Carter, David & 2d matte. & B & Schooner Annira &  .. & & \\
+779 & Cogan, John & do. & B & Schooner Locust Point &  .. & & \\
+780 & Cooper, Thomas F & Private & B & 54th Massachusetts vols. &  .. & 16 & 129 \\
+781 & Curtis, John & Corporal & G & 5th Massachusetts vols. &  .. & 15 & 21 \\
+782 & Claybourne, Archie & Private & D & 55th Massachusetts vols &  .. & 15 & 37 \\
+783 & Curtis, Franklin & do, & B & 55th Massachusetts vols. &  .. & 15 & 8 \\
+784 & Craftin, August & do. & C & 33d U. S. colored troops &  .. & 30 & 90 \\
+785 & Campbell, Augustine & do. & H & 33d U. S. colored troops &  .. & 30 & 88 \\
+786 & Came, Frank & do & K & 33d (1st S. S. C.) volunteers &  .. & 30 & 327 \\
+787 & Campbell. York & do. & B ~ & 33rd (1st S. S. C.) volunteers &  .. & 30 & 117 \\
+788 & Cowens. York & do) & C & 34th (2d S. C.) volunteers &  .. & & \\
+789 & Canneda, William & do & I & 34th U. S. colored troops &  .. & 29 & 102 \\
+790 & Cambell. Mazzarini & do. & B & 128th U. S. colored troops &  .. & 32 & 142 \\
+791 & Cooper, Henry & do, & E & 128th U. S. colored troops &  .. & 32 & 120 \\
+792 & Cannahan. Amos & do. & B & 128th U. S. colored troops &  .. & 32 & 127 \\
+793 & Christopher, J & do, & H & 128th U. S. colored troops &  ... & 32 & 180 \\
+794 & Courteau Guy & do. & C & 104th U. S. colored troops &  .. & &  \\
+795 & Garrison James & do & B & 6d U.S. colored troops &  .. & 31 & 84 \\
+\end{tabular}

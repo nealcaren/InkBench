@@ -1,0 +1,16 @@
+118
+
+UNION SOLDIERS INTERESTED IN
+
+Name          State     Regiment     Company     Rank          Date
+Brown         Mass      54           G           1st Sergt     
+Adams         N Y       20           K           Corp          
+Smith         Pa         6           F           Pvt           
+Jones         Ohio       88           B           Sergt         
+Wilson        Ill        29           H           Pvt           
+Taylor        Mich       4            A           Corp          
+Davis         Ind        70           I           Pvt           
+Miller        Mo         13           D           Sergt         
+Anderson      Wis        3            E           Pvt           
+Thomas        Iowa       8            C           1st Lt        
+White         Calif      2            B           Pvt

@@ -1,0 +1,30 @@
+3. Individuum (Lage gleich der des erst
+
+<tex>$$\text{Reflex } 40. = \frac{7}{29} r^{\prime} = \frac{1}{2} \left(\frac{a'}{7} : \frac{a'}{7} : \infty a : \frac{c}{29}\right)$$</tex>
+<tex>$$\text{Reflex } 41. = \frac{4}{15} r^{\prime} = \frac{1}{2} \left(\frac{a'}{4} : \frac{a'}{4} : \infty a : \frac{c}{15}\right)$$</tex>
+
+2. Individuum (Lage gleich der des zwei
+<tex>$$\text{Reflex } 42. = \frac{2}{5} r = \frac{1}{2} \left(\frac{a}{2} : \frac{a}{2} : \infty a : \frac{c}{5}\right)$$</tex>
+
+1. Individuum (erstes am Krystall):
+<tex>$$\text{Reflex } 43. = r' = \frac{1}{2} (a' : a' : \infty a : c) = (2$$</tex>
+
+Correcturen.
+
+1.  Individuum: R Seite, $+0^{\circ}1'$} Mittel
+
+r' Seite, $\pm 0^{\circ}0'$} $\pm 0^{\circ}0'$
+
+2. Individuum: r' Seite, $+0^{\circ}8'$, $+0^{\circ}6'$} Mittel:
+
+R Seite, $-0^{\circ}3'$, $+0^{\circ}1'$} $+0^{\circ}4'$ gegen R
+
+$-0^{\circ}6'$
+
+3. Individuum: R Seite, fehlt
+
+r' Seite, $-0^{\circ}6'$, $-0^{\circ}9'$; Mittel $+0^{\circ}7'$ ge
+
+Zwischen den Positionen 40. 41. liegt fast genau in der M
+
+dem Werth $x=4$ entsprechende Position, mit den Indices

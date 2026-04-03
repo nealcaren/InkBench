@@ -1,0 +1,30 @@
+UNION HOLDERS INTERESTED IN
+
+|  | Names | State | City | Street | Date |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | Mo. | Day | Yr. | No. Shares | Value |  |  |
+| 1 | A. L. Barber | Mass. | Boston |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 2 | Mrs. J. F. Baldwin | N.Y. | Brooklyn |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 3 | Mrs. E. B. Ball | N.Y. | New York |  | 1 | 15 | 64 | 200 | 20,000 |  |  |
+| 4 | Mrs. M. S. Barstow | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 5 | Mrs. J. D. Bates | Mass. | Boston |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 6 | Mrs. S. W. Bates | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 7 | Mrs. A. H. Baylis | N.Y. | Brooklyn |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 8 | Mrs. J. S. Beck | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 9 | Mrs. G. M. Beebe | N.Y. | Brooklyn |  | 1 | 15 | 64 | 200 | 20,000 |  |  |
+| 10 | Mrs. W. H. Bellows | N.Y. | New York |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 11 | Mrs. J. W. Benjamin | N.Y. | Brooklyn |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 12 | Mrs. C. H. Berry | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 13 | Mrs. E. P. Bigelow | Mass. | Boston |  | 1 | 15 | 64 | 200 | 20,000 |  |  |
+| 14 | Mrs. J. H. Blake | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 15 | Mrs. G. W. Blunt | N.Y. | New York |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 16 | Mrs. A. H. Bodman | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 17 | Mrs. S. P. Bond | N.Y. | Brooklyn |  | 1 | 15 | 64 | 200 | 20,000 |  |  |
+| 18 | Mrs. J. F. Booth | N.Y. | New York |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 19 | Mrs. E. L. Bowen | N.Y. | Brooklyn |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 20 | Mrs. W. H. Bradley | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 21 | Mrs. C. A. Brainerd | N.Y. | New York |  | 1 | 15 | 64 | 200 | 20,000 |  |  |
+| 22 | Mrs. J. H. Brown | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 23 | Mrs. M. E. Brown | N.Y. | New York |  | 1 | 15 | 64 | 50 | 5,000 |  |  |
+| 24 | Mrs. S. H. Brown | N.Y. | Brooklyn |  | 1 | 15 | 64 | 100 | 10,000 |  |  |
+| 25 | Mrs. T. J. Bryan | N.Y. | Brooklyn |  | 1 | 15 | 64 | 200 | 20,000 |  |

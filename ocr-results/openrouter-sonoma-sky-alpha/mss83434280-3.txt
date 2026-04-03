@@ -1,0 +1,2 @@
+LINE | NO. | DATE | WHO | AMT | PAID | BAL
+     |     |      | John Frank | 2 | 50 | 2

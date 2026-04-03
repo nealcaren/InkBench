@@ -1,0 +1,26 @@
+
+
+```json
+{
+  "image_no": "27",
+  "title": "Abstract E 1865",
+  "numbered_list": [
+    "Cmdb. O. Lay D...",
+    "Cmdb. O Lay D... Quartermaster, upon us. S. Army",
+    "at Roses Park Hello Guys..."
+  ],
+  "signature_block": {
+    "title": "LIST OF STORES RECEIVED FROM",
+    "signatures": [
+      {
+        "name": "Cmdb. O. Lay D...",
+        "position": "Quartermaster U.S. Army"
+      },
+      {
+        "name": "at ... Roses Park",
+        "position": "Hello Guys"
+      }
+    ]
+  }
+}
+```

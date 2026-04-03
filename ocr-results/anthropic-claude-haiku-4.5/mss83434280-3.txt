@@ -1,0 +1,3 @@
+NAME. | ENLISTED. | WHERE BORN AND PERSONAL DESCRIPTION. | HEIGHT.
+ | WHEN. | TERM. | RATING. | CITY, TOWN, OR COUNTY. | DATE. | AGE. | OCCUPATION. | EYES. | HAIR. | COMPLEXION. | Feet. | Inches.
+John Frank | 1863 one year Sea | Ord N York | [?] | 22 | male | Negro | 5 | 4½

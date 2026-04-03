@@ -1,0 +1,26 @@
+304
+
+UNION SOLDIERS INTERNED IN
+
+No. | Name | Regiment | Captured | Place | Date | Sent to | Date sent to | Arrived at | Remarks
+---|---|---|---|---|---|---|---|---|---
+1 | Adams John P | 79 Pa | Wilderness | Va | May 6/64 | Richmond | May 9 | May 10 | 
+2 | Allen James M | 6 Md | Laurel Hill | Va | May 8/64 | Richmond | May 11 | May 12 | 
+3 | Anderson Wm H | 8 Pa Res Corps | Laurel Hill | Va | May 8/64 | Richmond | May 11 | May 12 | 
+4 | Armstrong Samuel | 2 Pa Cav | Milford Va | Va | June 15/64 | Richmond | June 17 | June 18 | 
+5 | Ayers Thomas | 1 Pa Cav | Trevillian | Va | June 11/64 | Richmond | June 14 | June 15 | 
+6 | Baker John | 6 Pa Cav | St Mary's Church | Va | June 24/64 | Richmond | June 26 | June 27 | 
+7 | Ball James | 16 Pa Cav | St Mary's Church | Va | June 24/64 | Richmond | June 26 | June 27 | 
+8 | Barnes Henry | 8 Pa Cav | Trevillian | Va | June 11/64 | Richmond | June 14 | June 15 | 
+9 | Baxter Robert | 21 Pa Cav | Ream's Station | Va | Aug 25/64 | Richmond | Aug 27 | Aug 28 | 
+10 | Bell John | 3 Pa Cav | Ream's Station | Va | Aug 25/64 | Richmond | Aug 27 | Aug 28 | 
+11 | Bennett Wm | 17 Pa Cav | Old Church | Va | May 30/64 | Richmond | June 1 | June 2 | 
+12 | Berry David | 4 Pa Cav | Haw's Shop | Va | May 28/64 | Richmond | May 30 | May 31 | 
+13 | Bishop Geo W | 1 Pa Cav | Trevillian | Va | June 11/64 | Richmond | June 14 | June 15 | 
+14 | Black David | 16 Pa Cav | St Mary's Church | Va | June 24/64 | Richmond | June 26 | June 27 | 
+15 | Blair James | 8 Pa Cav | Trevillian | Va | June 11/64 | Richmond | June 14 | June 15 | 
+16 | Bollinger Henry | 18 Pa Cav | Woodstock | Va | Oct 7/64 | Richmond | Oct 9 | Oct 10 | 
+17 | Booth Jacob | 5 Pa Cav | Milford | Va | June 21/64 | Richmond | June 23 | June 24 | 
+18 | Boyd Samuel | 21 Pa Cav | Ream's Station | Va | Aug 25/64 | Richmond | Aug 27 | Aug 28 | 
+19 | Brady Patrick | 6 Pa Cav | Columbia Bridge | Md [?] | July 9/64 | Richmond | July 12 | July 13 | 
+20 | Brown John | 2 Pa Cav | Milford Va | Va | June 15/64 | Richmond | June 17 | June 18

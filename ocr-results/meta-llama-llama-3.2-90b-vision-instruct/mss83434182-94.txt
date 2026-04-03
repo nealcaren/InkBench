@@ -1,0 +1,44 @@
+| # | Name | Rank | Company | Regiment | State/Troops | Section | Grave | Remarks |
+|---|---|---|---|---|---|---|---|---|
+| 3074 | Miller, Peter | Ord. Sergeant | B | 103d U.S. colored troops | - | F | 182 | - |
+| 3075 | Morgan, E. Lewis | Private | C | 103d U.S. colored troops | - | G | 182 | - |
+| 3076 | Morgan, Louis | Private | G | 103d U.S. colored troops | - | F | 192 | - |
+| 3077 | Morison, C. John | Ord. Sergeant | F | 10th U.S. colored troops | - | G | 190 | - |
+| 3078 | Morison, Wm. | Private | C | 10th U.S. colored troops | - | G | 169 | - |
+| 3079 | Morland, C. F. | Private | G | 127th New York heavy art. | - | F | 87 | - |
+| 3080 | Morris, John. D. | Sergeant | E | 3d U. S. colored troops | - | H | 121 | - |
+| 3081 | Morris, R. Philip | Private | G | 43d U. S. colored troops | - | F | 114 | - |
+| 3082 | Morris, David | Private | E | 7th U. S. colored troops | - | F | 38 | - |
+| 3083 | Morron, E. P. | Sergeant | H | 39th New York | - | E | 113 | - |
+| 3084 | Morton, Edward | Private | A | 47th Massachusetts. | - | H | 45 | - |
+| 3085 | Morton, Jerew. | Private | F | 27th U. S. colored troops | - | E | 30 | - |
+| 3086 | McDonald, James | Private | F | 7th U. S. colored troops | - | F | 40 | - |
+| 3087 | McDonald, Stephen | Private | F | 7th U. S. colored troops | - | F | 42 | - |
+| 3088 | McGregory, James | Private | F | 7th U. S. infantry | - | F | 32 | - |
+| 3089 | McIntyre, Daniel | Private | H | 7th U. S. infantry | - | F | 29 | - |
+| 3090 | McIver, Robert | Sergeant | - | - | - | - | - | - |
+| 3091 | McLeod, J. | Private | I | 107th Ohio volunteer infantry | - | H | 96 | - |
+| 3092 | McVeety, Alfred | Private | H | 7th U.S. colored troops | - | F | 24 | - |
+| 3093 | Mettier, Daniel | Private | H | 7th U. S. colored troops | - | F | 21 | - |
+| 3094 | McLean, Fred. | Private | A | 7th U. S. infantry | - | F | 19 | - |
+| 3095 | McEroy, Willington. | Private | K | 99th Maine volunteers. | - | G | 60 | - |
+| 3096 | Murphy, Wm. | Private | H | 7th U. S. colored troops | - | F | 18 | - |
+| 3097 | Maloney, W. Melvin. | Private | G | 97th Pennsylvania. | - | G | 68 | - |
+| 3098 | Mayer, Andrew | Private | C | 7th U. S. colored troops | - | G | 52 | - |
+| 3099 | Martin, Jacob | Private | C | 7th U. S. colored troops | - | G | 53 | - |
+| 3100 | Merillins, James | Private | C | 7th U. S. colored troops | - | G | 46 | - |
+| 3101 | MeGreggory, John. | Private | C | 7th U. S. colored troops | - | G | 10 | - |
+| 3102 | Melzer, John. D. | Sergeant | - | - | - | - | - | - |
+| 3103 | Monroe, Nelson. | Private | E | 3d N.Y. colored troops | - | H | 72 | - |
+| 3104 | Miller, Jno. T. | Private | E | 3d N.Y. colored troops | - | H | 74 | - |
+| 3105 | MeLoy, Robert | Private | E | 3d N.Y. colored troops | - | H | 71 | - |
+| 3106 | McVeety, Alfred | Private | BB | 7th U. S. colored troops | - | F | 33 | - |
+| 3107 | Madison, Robert. | Private | F | 7th U.S. colored troops | - | F | 52 | - |
+| 3108 | McIntire, S. | Private | K | 99th Maine volunteers. | - | G | 46 | - |
+| 3109 | Mettier, Daniel | Private | H | 7th U. S. colored troops | - | F | 51 | - |
+| 3110 | McErery, Willington. | Private | K | 99th Maine volunteers. | - | G | 48 | - |
+| 3111 | McIntire, S. | Private | K | 99th Maine volunteers. | - | G | - | - |
+| 3112 | McErery, Willington. | Private | K | 99th Maine volunteers. | - | G | - | - |
+| 3113 | Maloney, W. Melvin. | Private | G | 97th Pennsylvania. | - | G | - | - |
+
+BEAUFORT N. CAROLINA, SOUTH CEMETERY
