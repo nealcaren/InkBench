@@ -11,12 +11,12 @@ import statistics as stats
 IMAGES_DIR = Path("benchmark-images")
 REF_DIR = Path("benchmark-txt")
 HYPS_ROOT = Path("ocr-results")
-BENCHMARK_CSV = Path("/Users/nealcaren/Downloads/InkBench/benchmark.csv")
+BENCHMARK_CSV = Path("benchmark.csv")
 
-RESULTS_CSV = Path("ocr_eval_results.csv")
-SUMMARY_BY_MODEL_CSV = Path("ocr_eval_summary_by_model.csv")
-SUMMARY_BY_MODEL_AND_TYPE_CSV = Path("ocr_eval_summary_by_model_and_type.csv")
-MODEL_ACCURACY_WIDE_CSV = Path("ocr_eval_model_accuracy.csv")  # <<< NEW
+RESULTS_CSV = Path("evaluations/ocr_eval_results.csv")
+SUMMARY_BY_MODEL_CSV = Path("evaluations/ocr_eval_summary_by_model.csv")
+SUMMARY_BY_MODEL_AND_TYPE_CSV = Path("evaluations/ocr_eval_summary_by_model_and_type.csv")
+MODEL_ACCURACY_WIDE_CSV = Path("evaluations/ocr_eval_model_accuracy.csv")
 
 #HYPS_ROOT = Path("ocr-results-newprompt")
 #HYPS_ROOT = Path("ocr-results-newprompt-openai")

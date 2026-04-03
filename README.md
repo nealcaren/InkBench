@@ -43,15 +43,30 @@ Models with (N) were evaluated on a sample rather than the full 400-image benchm
 
 ![Cost vs. Accuracy](cost_vs_accuracy.png)
 
+## Run Your Own Model
+
+To evaluate your own model on InkBench:
+
+1. **Transcribe** each image in `benchmark-images/` and save the output as a plain text file in `ocr-results/<your-model-name>/`, using the image's filename with a `.txt` extension (e.g., `benchmark-images/mss1187900041-49.jpg` → `ocr-results/my-model/mss1187900041-49.txt`).
+
+2. **Evaluate** by running:
+   ```
+   pip install jiwer
+   python evaluate_accuracy.py
+   ```
+   Results are written to `evaluations/`.
+
+That's it. The evaluation script automatically picks up any new model folders in `ocr-results/`. See `scripts/` for examples of how we transcribe using OpenRouter.
+
 ## Corpus
-The corpus is constructed of a random sample of 400 images drawing from nine collections of Library of Congress images that were transcribed by volunteers in their By the People project. Creation dates range from the late 1700s to early 1900s. Images were restricted to those containing a single page of more than 25 words. It consists of four kinds of documents:
+The corpus is constructed of a random sample of 400 images drawing from nine collections of Library of Congress images that were transcribed by volunteers in their [By the People](https://crowd.loc.gov/) project. Creation dates range from the late 1700s to early 1900s. Images were restricted to those containing a single page of more than 25 words. It consists of four kinds of documents:
 * Book pages (n=160, median of 171 words per page)
 * Handwritten pages (n=120, median of 171 words per page)
 * Other printed materials (n=40, median of 168 words per page)
 * Documents with print and handwritten (n=80, median of 90 words per page)
 
 ## Transcription
-Each image is encoded to base64 and paired with a detailed system prompt based on the [LoC guidelines](https://crowd.loc.gov/get-started/how-to-transcribe/) that sets strict transcription rules (*e.g.,* preserve spelling, mark deletions, handle illegible text). Two sample image–transcription pairs are also included as conversation history to provide the model with concrete examples of how to transcribe. Each model is accessed through OpenRouter.
+Each image is encoded to base64 and paired with a detailed system prompt based on the [LoC guidelines](https://crowd.loc.gov/get-started/how-to-transcribe/) that sets strict transcription rules (*e.g.,* preserve spelling, mark deletions, handle illegible text). Two sample image–transcription pairs are also included as conversation history to provide the model with concrete examples of how to transcribe. Each model is accessed through [OpenRouter](https://openrouter.ai/).
 
 ## Accuracy
 We evaluate each model's transcription against the reference text using three error measures (all lower is better): WER (Word Error Rate), which counts substitutions, insertions, and deletions at the word level after normalizing by lowercasing, collapsing spaces, stripping ends, and tokenizing into words; CER (Character Error Rate), which applies the same substitution/insertion/deletion logic at the character level after stripping and lowercasing; and CER (alphanumeric-only, lowercase), which first removes all non-alphanumeric characters ([^0-9a-z]) and lowercases before computing character errors, making it less sensitive to punctuation and diacritics and serving as the default for headline comparisons. Final accuracy displayed is 1 – CER.
