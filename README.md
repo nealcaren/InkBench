@@ -22,7 +22,7 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 | openai-gpt-5 | 0.84 | 0.82 | 0.88 | 0.80 | 0.85 | $31.17 |
 | google-gemini-2.5-flash-lite | 0.83 | 0.82 | 0.83 | 0.82 | 0.85 | $0.36 |
 | qwen-qwen3-vl-8b-thinking | 0.82 | 0.87 | 0.77 | 0.81 | 0.86 | $5.79 |
-| qwen-qwen2.5-vl-72b-instruct | 0.82 | 0.89 | 0.76 | 0.83 | 0.71 | $15.06 |
+| qwen-qwen2.5-vl-72b-instruct | 0.82 | 0.89 | 0.76 | 0.83 | 0.71 | $4.87 |
 | openai-gpt-5.4 (39) | 0.82 | 0.88 | 0.80 | 0.81 | 0.75 | $28.74 |
 | anthropic-claude-sonnet-4 | 0.81 | 0.85 | 0.77 | 0.80 | 0.84 | $23.78 |
 | mistralai-mistral-medium-3.1 | 0.80 | 0.82 | 0.81 | 0.75 | 0.84 | $4.14 |
@@ -30,18 +30,18 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 | mistralai-mistral-large-2512 | 0.78 | 0.86 | 0.66 | 0.77 | 0.87 | $4.92 |
 | openai-gpt-5.4-mini (39) | 0.78 | 0.84 | 0.72 | 0.78 | 0.82 | $8.63 |
 | openai-gpt-4o-mini (57) | 0.78 | 0.80 | 0.80 | 0.67 | 0.98 | $13.06 |
-| qwen-qwen-vl-plus | 0.74 | 0.83 | 0.58 | 0.75 | 0.85 | $0.83 |
+| qwen-qwen-vl-plus † | 0.74 | 0.83 | 0.58 | 0.75 | 0.85 | $0.83 |
 | meta-llama-llama-4-scout | 0.69 | 0.81 | 0.45 | 0.73 | 0.86 | $0.78 |
 | amazon-nova-pro-v1 | 0.69 | 0.67 | 0.66 | 0.72 | 0.80 | $6.73 |
 | google-gemma-3-27b-it | 0.69 | 0.74 | 0.61 | 0.69 | 0.71 | $0.24 |
 | mistralai-pixtral-large-2411 | 0.62 | 0.66 | 0.57 | 0.53 | 0.75 | $25.23 |
 | openai-gpt-5-nano | 0.55 | 0.75 | 0.25 | 0.48 | 0.77 | $1.89 |
-| qwen-qwen2.5-vl-32b-instruct | 0.53 | 0.63 | 0.45 | 0.31 | 0.76 | $5.83 |
+| qwen-qwen2.5-vl-32b-instruct † | 0.53 | 0.63 | 0.45 | 0.31 | 0.76 | $5.83 |
 | meta-llama-llama-4-maverick | 0.47 | 0.80 | 0.00 | 0.46 | 0.56 | $1.51 |
 | google-gemma-3-12b-it | 0.46 | 0.61 | 0.49 | 0.18 | 0.33 | $0.13 |
 | Tesseract | 0.34 | 0.54 | 0.01 | 0.29 | 0.63 | |
 
-Models with (N) were evaluated on a sample rather than the full 400-image benchmark. Cost per 1K is the estimated cost to transcribe 1,000 images via OpenRouter, based on observed token usage.
+Models with (N) were evaluated on a sample rather than the full 400-image benchmark. Cost per 1K is the estimated cost to transcribe 1,000 images via OpenRouter, based on observed token usage. † indicates a model that has since been removed from the OpenRouter catalog; its cost is the historical value at the time of evaluation.
 
 ![Cost vs. Accuracy](cost_vs_accuracy.png)
 
