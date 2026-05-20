@@ -3,10 +3,12 @@
 InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vision inputs to transcribe historical documents. 
 
 
-**Character Accuracy Results (1-CER).** *April 2, 2026.* 
+**Character Accuracy Results (1-CER).** *May 20, 2026.*
 
 | Model | Overall | Book Page | Handwritten | Mixed | Other Typed/Printed | Cost per 1K |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| google-gemini-3.5-flash (no-think) | 0.93 | 0.93 | 0.94 | 0.88 | 0.96 | $10.70 |
+| google-gemini-3.5-flash | 0.92 | 0.94 | 0.94 | 0.87 | 0.95 | $50.33 |
 | google-gemini-3.1-pro-preview (37) | 0.90 | | | | | $62.04 |
 | google-gemini-3-flash-preview (389) | 0.89 | | | | | $3.45 |
 | qwen-qwen3-vl-235b-a22b-instruct | 0.89 | 0.91 | 0.90 | 0.83 | 0.91 | $3.77 |

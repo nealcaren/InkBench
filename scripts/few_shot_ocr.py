@@ -8,7 +8,7 @@ import os
 import mimetypes
 
 
-def transcribe_historical_document(image_path: str, api_key: str = None, samples_folder: str = "samples", model: str = "google/gemma-3-27b-it", return_usage: bool = False):
+def transcribe_historical_document(image_path: str, api_key: str = None, samples_folder: str = "samples", model: str = "google/gemma-3-27b-it", return_usage: bool = False, reasoning: dict = None):
     """
     Transcribe a historical document image using OpenRouter API with few-shot learning examples.
 
@@ -237,6 +237,8 @@ Following these directions when transcribing the text in the image.
         "model": model,
         "messages": messages
     }
+    if reasoning is not None:
+        payload["reasoning"] = reasoning
 
     # Make API call
     try:

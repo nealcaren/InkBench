@@ -1,0 +1,46 @@
+```
+644 Congdon, J. S.                   D   142d N. Y. volunteers          26   112
+645 Clouch, H. W.                    B   85th Penn. volunteers.         37    77
+646 Cypher, Eugene                   D   3d New York artillery          26    69
+647 Chandler, D. H.                  B   9th Maine volunteers           26    36
+648 Chambers, Samuel                 B   3d New York artillery          26    73
+649 Childs, Asa B.                   E   142d N. Y. volunteers          26   118
+650 Conklin, G. W.                   D   127th N. Y. volunteers         28   170
+651 Cole, P. H.                      B   52d Penn. volunteers           28    20
+652 Cole, James J.                   B   62d Ohio volunteers            24     5
+653 Ch.., Reid..        Sergeant.    F   112th N. Y. volunteers         10    20
+654 Crandell, Ephraim                C   4th N. H. volunteers           27    18
+655 Collum, W. W.                    K   127th N. Y. volunteers         38   167
+656 Colberson, J. J.                 B   52d Penn. volunteers           24    14
+657 Cole, J. J.                      K   9th Maine volunteers           27    43
+658 Claughlin, Walter   Bugler.      B   117th N. Y. volunteers         20   134
+659 Cole, Charles                    E   55th Mass. volunteers          15    34
+660 Carr, Alexander                  D   4th N. H. volunteers           18   108
+661 C. A.                            C
+662 Crussell, Walter                 F   1st N. Y. engineers            28   143
+663 Chapel, Charles F   Artificer.       U. S. S. Wabash                 6    67
+664 Case, N. M.                      B   3d R. I. heavy artillery       19    15
+665 Churchill, O. H.                 E   40th Mass. volunteers          15    76
+666 Campbell, C. M.                  E   67th Ohio volunteers           19    96
+667 Connelly, Peter                  F   3d R. I. heavy artillery       10    36
+668 Chisholm, A.                     H   144th N. Y. volunteers         28    21
+669 Curtis, William                  C   17th Connecticut volunteers    36    31
+670 Cassaday, J. R.                  E   13th Indiana volunteers         8    13
+671 Cole, C. H.                      H   144th N. Y. volunteers         28     2
+672 Clapp, Charles E.                F   40th Mass. volunteers          15    59
+673 Cairns, William                  E   144th N. Y. volunteers         28     4
+674 Cziar, J.                        B   54th N. Y. volunteers          26    87
+675 Cahill, James                        U. S. S. Vermont (marine)       6   130
+676 Connell, James P.   Pilot.           U. S. Schooner W. G. Rogers     6   121
+677 Carey, Henry                         U. S. S. Keystone State         6    93
+678 Clinton, William                     U. S. S. Nahant                 6    89
+679 Conway, John P.     Quartermaster                                    6   102
+680 Cobb
+681 Clark, John G.                       U. S. S. Susquehanna
+682 Collins, G. W.                       U. S. S. Susquehanna            6    63
+683 Chambers, Alexander Privat           U. S. S. Bienville              6    44
+684 Cooper, J.                       C   111th Ohio volunteers          10   117
+
+
+25    BEAUFORT NATIONAL CEMETERY, SOUTH CAROLINA.
+```

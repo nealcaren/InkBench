@@ -13,8 +13,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import requests
 
-USAGE_CSV = Path("ocr-results/token_usage_sample.csv")
-ACCURACY_CSV = Path("ocr_eval_model_accuracy.csv")
+USAGE_CSVS = [
+    Path("evaluations/token_usage_sample.csv"),
+    Path("ocr-results/token_usage.csv"),
+]
+ACCURACY_CSV = Path("evaluations/ocr_eval_model_accuracy.csv")
 BENCHMARK_SIZE = 1000
 OUTPUT_PNG = Path("cost_vs_accuracy.png")
 OUTPUT_FACET_PNG = Path("cost_vs_accuracy_by_type.png")
@@ -65,15 +68,23 @@ def fetch_pricing() -> dict:
 
 def load_usage() -> dict:
     usage = defaultdict(lambda: {"n": 0, "prompt_tokens": 0, "completion_tokens": 0})
-    with open(USAGE_CSV, newline="") as f:
-        for row in csv.DictReader(f):
-            model = row["model"]
-            pt = int(row["prompt_tokens"]) if row["prompt_tokens"] else 0
-            ct = int(row["completion_tokens"]) if row["completion_tokens"] else 0
-            usage[model]["n"] += 1
-            usage[model]["prompt_tokens"] += pt
-            usage[model]["completion_tokens"] += ct
+    for path in USAGE_CSVS:
+        if not path.exists():
+            continue
+        with open(path, newline="") as f:
+            for row in csv.DictReader(f):
+                model = row["model"]
+                pt = int(row["prompt_tokens"]) if row["prompt_tokens"] else 0
+                ct = int(row["completion_tokens"]) if row["completion_tokens"] else 0
+                usage[model]["n"] += 1
+                usage[model]["prompt_tokens"] += pt
+                usage[model]["completion_tokens"] += ct
     return dict(usage)
+
+
+def pricing_key(model_id: str) -> str:
+    """Strip variant suffix (after '#') for pricing lookup, e.g. 'google/gemini-3.5-flash#nothink' -> 'google/gemini-3.5-flash'."""
+    return model_id.split("#", 1)[0]
 
 
 def load_accuracy() -> dict:
@@ -120,7 +131,7 @@ def main():
         if overall is None or overall < 0:
             continue
 
-        p = pricing.get(model_id)
+        p = pricing.get(pricing_key(model_id))
         if p is None:
             continue
 
@@ -129,8 +140,12 @@ def main():
         avg_out = u["completion_tokens"] / n
         cost = (avg_in * p["prompt"] + avg_out * p["completion"]) * BENCHMARK_SIZE
 
-        provider = model_id.split("/")[0] if "/" in model_id else "other"
-        short_name = model_id.split("/")[1] if "/" in model_id else model_id
+        base_id = pricing_key(model_id)
+        provider = base_id.split("/")[0] if "/" in base_id else "other"
+        short_name = base_id.split("/")[1] if "/" in base_id else base_id
+        variant = model_id.split("#", 1)[1] if "#" in model_id else None
+        if variant:
+            short_name = f"{short_name} ({variant})"
 
         point = {
             "model_id": model_id,

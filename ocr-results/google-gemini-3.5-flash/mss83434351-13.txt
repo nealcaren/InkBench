@@ -1,0 +1,53 @@
+**Title on Page Margin:**
+Monthly Return of Clothing, Camp & Garrison Equipage received and issued at Fort Monroe Va.
+
+---
+
+### **Table Headers**
+
+* **Column A (Item/Article Name)**
+* **Column B (Receipt Column Header):** 
+  * `When Received`
+  * `No of Invoice`
+  * `Of Whom Received`
+  * `December 31st 1866` | `Lt. M. G. Hale A.A.Q.M. U.S.A.`
+* **Column C:** `Total to be accounted for`
+* **Column D (Issues Column Header - Issue 1):**
+  * `When Issued`
+  * `No To`
+  * `To Whom Sent`
+  * `December 31st 1866` | `1. Capt. H. H. Pierce`
+* **Column E (Issues Column Header - Issue 2):**
+  * `December 31st 1866` | `2. Capt. H. H. Pierce`
+* **Column F:** `Total Issued`
+* **Column G:** `On hand & to be accounted for`
+
+---
+
+### **Tabular Data**
+
+| Article | Lt. M. G. Hale A.A.Q.M. U.S.A. | Total to be accounted for | Capt. H. H. Pierce (1) | Capt. H. H. Pierce (2) | Total Issued | On hand & to be accounted for |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| Caps Forage | 110 | 110 | 34 | 1 | 35 | 75 |
+| Straw Hats | 119 | 119 | | | | 119 |
+| Woolen Hats | 23 | 23 | | | | 23 |
+| Coats Uniform | 38 | 38 | | | | 38 |
+| Metallic Scales Single Pr of | 6 | 6 | | 1 | 1 | 5 |
+| Trousers Foot | 120 | 120 | 16 | 13 | 29 | 91 |
+| Kersey Pants | 13 | 13 | | | | 13 |
+| Knit Shirts | 150 | 150 | 2 | | 2 | 148 |
+| Lined Drawers | 24 | 24 | 5 | | 5 | 19 |
+| Undress Blouses | 40 | 40 | | | | 40 |
+| Flannel Shirts | 4 | 4 | | | | 4 |
+| Drawers Pr of C.A. | 1 | 1 | | | | 1 |
+| Negro Brogans Pr of | 5 | 5 | | | | 5 |
+| Bootees S.S. Pr of | 325 | 325 | 21 | 5 | 26 | 299 |
+| Knit Overshirts | 38 | 38 | | | | 38 |
+| Great Coats | 14 | 14 | 3 | | 3 | 11 |
+| Bootees Negro Pr of | 30 | 30 | | | | 30 |
+| Bootees Pegged Pr of | 5 | 5 | | | | 5 |
+| Blankets Woolen | 26 | 26 | 2 | | 2 | 24 |
+| Knapsacks & Straps | 100 | 100 | 100 | | 100 | |
+| Haversacks Painted | 162 | 162 | 125 | | 125 | 37 |
+| Canteens & Straps | 161 | 161 | 76 | | 76 | 85 |
+| Haversacks unpainted | 50 | 50 | | | | 50 |
