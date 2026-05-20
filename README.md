@@ -9,12 +9,12 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | google-gemini-3.5-flash (no-think) | 0.93 | 0.93 | 0.94 | 0.88 | 0.96 | $10.70 |
 | google-gemini-3.5-flash | 0.92 | 0.94 | 0.94 | 0.87 | 0.95 | $50.33 |
-| google-gemini-3.1-pro-preview (37) | 0.90 | | | | | $62.04 |
-| google-gemini-3-flash-preview (389) | 0.89 | | | | | $3.45 |
+| google-gemini-3.1-pro-preview (37) | 0.90 | 0.98 | 0.93 | 0.84 | 0.76 | $62.04 |
+| google-gemini-3-flash-preview (389) | 0.89 | 0.87 | 0.93 | 0.87 | 0.90 | $3.45 |
 | qwen-qwen3-vl-235b-a22b-instruct | 0.89 | 0.91 | 0.90 | 0.83 | 0.91 | $3.77 |
-| anthropic-claude-sonnet-4.6 (39) | 0.89 | | | | | $23.07 |
+| anthropic-claude-sonnet-4.6 (39) | 0.89 | 0.89 | 0.92 | 0.85 | 0.85 | $23.07 |
 | openai-gpt-4.1-mini | 0.88 | 0.88 | 0.91 | 0.83 | 0.93 | $3.97 |
-| anthropic-claude-opus-4.6 (40) | 0.88 | | | | | $38.63 |
+| anthropic-claude-opus-4.6 (40) | 0.88 | 0.92 | 0.94 | 0.84 | 0.68 | $38.63 |
 | qwen-qwen3-vl-32b-instruct | 0.88 | 0.91 | 0.87 | 0.79 | 0.94 | $1.08 |
 | google-gemini-2.5-flash | 0.87 | 0.87 | 0.88 | 0.84 | 0.89 | $1.36 |
 | openai-gpt-5-mini | 0.87 | 0.86 | 0.89 | 0.82 | 0.91 | $4.50 |
@@ -23,13 +23,13 @@ InkBench is a corpus designed to evaluate the ability of multimodal LLMs with vi
 | google-gemini-2.5-flash-lite | 0.83 | 0.82 | 0.83 | 0.82 | 0.85 | $0.36 |
 | qwen-qwen3-vl-8b-thinking | 0.82 | 0.87 | 0.77 | 0.81 | 0.86 | $5.79 |
 | qwen-qwen2.5-vl-72b-instruct | 0.82 | 0.89 | 0.76 | 0.83 | 0.71 | $15.06 |
-| openai-gpt-5.4 (39) | 0.82 | | | | | $28.74 |
+| openai-gpt-5.4 (39) | 0.82 | 0.88 | 0.80 | 0.81 | 0.75 | $28.74 |
 | anthropic-claude-sonnet-4 | 0.81 | 0.85 | 0.77 | 0.80 | 0.84 | $23.78 |
 | mistralai-mistral-medium-3.1 | 0.80 | 0.82 | 0.81 | 0.75 | 0.84 | $4.14 |
 | anthropic-claude-haiku-4.5 | 0.79 | 0.85 | 0.71 | 0.78 | 0.83 | $8.10 |
 | mistralai-mistral-large-2512 | 0.78 | 0.86 | 0.66 | 0.77 | 0.87 | $4.92 |
-| openai-gpt-5.4-mini (39) | 0.78 | | | | | $8.63 |
-| openai-gpt-4o-mini (39) | 0.75 | | | | | $13.06 |
+| openai-gpt-5.4-mini (39) | 0.78 | 0.84 | 0.72 | 0.78 | 0.82 | $8.63 |
+| openai-gpt-4o-mini (57) | 0.78 | 0.80 | 0.80 | 0.67 | 0.98 | $13.06 |
 | qwen-qwen-vl-plus | 0.74 | 0.83 | 0.58 | 0.75 | 0.85 | $0.83 |
 | meta-llama-llama-4-scout | 0.69 | 0.81 | 0.45 | 0.73 | 0.86 | $0.78 |
 | amazon-nova-pro-v1 | 0.69 | 0.67 | 0.66 | 0.72 | 0.80 | $6.73 |
